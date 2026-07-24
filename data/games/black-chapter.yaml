@@ -1,0 +1,38 @@
+id: black-chapter
+title: 黑之章
+title_en: Black Chapter
+title_jp: 
+cover: https://img.itch.zone/aW1hZ2UvMTIzNDU2Ny8xMjM0NTY3LnBuZw==/original/example.png
+description: |
+  示例游戏简介。这里是中文描述，介绍游戏剧情、玩法与兽人元素。
+  支持多行。
+description_en: Example English description.
+species:
+  - 狼
+  - 狗
+rating: R18
+genres:
+  - 视觉小说
+  - 动作
+platforms:
+  - Windows
+  - Android
+  - itch.io
+engines:
+  - Unity
+features:
+  - bara
+  - 肌肉
+  - 多结局
+  - 付费
+links:
+  - name: itch.io
+    url: https://example.itch.io/black-chapter
+  - name: 官方网站
+    url: https://example.com
+status: 完结
+release_date: 2024-06-15
+updated_at: 2026-07-24
+source: manual
+nsfw: true
+notes: 这是示例条目，可直接复制修改
