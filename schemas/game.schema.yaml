@@ -1,0 +1,83 @@
+# 游戏条目 JSON Schema（用于校验）
+$schema: http://json-schema.org/draft-07/schema#
+title: Game
+type: object
+required:
+  - id
+  - title
+  - rating
+  - species
+  - status
+  - links
+properties:
+  id:
+    type: string
+    description: 唯一 slug，小写英文+连字符，例如 black-chapter
+  title:
+    type: string
+    description: 主标题（中文优先）
+  title_en:
+    type: string
+  title_jp:
+    type: string
+  cover:
+    type: string
+    description: 封面图 URL
+  description:
+    type: string
+    description: 中文简介
+  description_en:
+    type: string
+  species:
+    type: array
+    items:
+      type: string
+    minItems: 1
+  rating:
+    type: string
+    enum: [全年龄, 软色情, R18, R18G]
+  genres:
+    type: array
+    items:
+      type: string
+  platforms:
+    type: array
+    items:
+      type: string
+  engines:
+    type: array
+    items:
+      type: string
+  features:
+    type: array
+    items:
+      type: string
+  links:
+    type: array
+    items:
+      type: object
+      required: [name, url]
+      properties:
+        name:
+          type: string
+        url:
+          type: string
+          format: uri
+    minItems: 1
+  status:
+    type: string
+    enum: [完结, 进行中, 停更]
+  release_date:
+    type: string
+    description: YYYY-MM-DD
+  updated_at:
+    type: string
+    description: ISO 日期
+  source:
+    type: string
+    enum: [manual, itch, steam, github-pr]
+  nsfw:
+    type: boolean
+  notes:
+    type: string
+    description: 内部备注，不对外显示
