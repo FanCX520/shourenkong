@@ -1,0 +1,29 @@
+name: Validate Games
+
+on:
+  pull_request:
+    paths:
+      - "data/games/**"
+      - "schemas/**"
+      - "scripts/validate-games.py"
+  push:
+    branches: [main]
+    paths:
+      - "data/games/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Validate game YAML files
+        run: python scripts/validate-games.py
