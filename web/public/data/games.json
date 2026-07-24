@@ -1,0 +1,50 @@
+[
+  {
+    "id": "black-chapter",
+    "title": "黑之章",
+    "title_en": "Black Chapter",
+    "title_jp": null,
+    "cover": "https://img.itch.zone/aW1hZ2UvMTIzNDU2Ny8xMjM0NTY3LnBuZw==/original/example.png",
+    "description": "示例游戏简介。这里是中文描述，介绍游戏剧情、玩法与兽人元素。\n支持多行。\n",
+    "description_en": "Example English description.",
+    "species": ["狼", "狗"],
+    "rating": "R18",
+    "genres": ["视觉小说", "动作"],
+    "platforms": ["Windows", "Android", "itch.io"],
+    "engines": ["Unity"],
+    "features": ["bara", "肌肉", "多结局", "付费"],
+    "links": [
+      {"name": "itch.io", "url": "https://example.itch.io/black-chapter"},
+      {"name": "官方网站", "url": "https://example.com"}
+    ],
+    "status": "完结",
+    "release_date": "2024-06-15",
+    "updated_at": "2026-07-24",
+    "source": "manual",
+    "nsfw": true
+  },
+  {
+    "id": "fuga-melodies-of-steel",
+    "title": "战场的赋格曲",
+    "title_en": "Fuga: Melodies of Steel",
+    "title_jp": "戦場のフーガ",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1437370/header.jpg",
+    "description": "一群可爱的兽人孩子驾驶着巨大的坦克「塔拉尼斯」，在战争中寻找被抓走的父母。\n回合制 RPG + 坦克战斗，剧情沉重却充满希望。全年龄向，强烈推荐。\n",
+    "description_en": "A group of anthropomorphic children pilot a giant tank in a war-torn world.",
+    "species": ["狗", "猫", "兔", "混合"],
+    "rating": "全年龄",
+    "genres": ["RPG"],
+    "platforms": ["Windows", "Steam", "Switch"],
+    "engines": ["Unity"],
+    "features": ["多结局", "付费", "完结", "中文支持", "官方中文"],
+    "links": [
+      {"name": "Steam", "url": "https://store.steampowered.com/app/1437370/Fuga_Melodies_of_Steel/"},
+      {"name": "官方网站", "url": "https://www.fuga-melodies-of-steel.com/"}
+    ],
+    "status": "完结",
+    "release_date": "2021-07-29",
+    "updated_at": "2026-07-24",
+    "source": "manual",
+    "nsfw": false
+  }
+]
