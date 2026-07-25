@@ -22,41 +22,67 @@ function page(title, bodyHtml, script = "") {
 </html>`;
 }
 
+/**
+ * Decap / Netlify CMS popup protocol (must wait for parent message):
+ * 1) child → opener: "authorizing:github"
+ * 2) parent → child: handshake message
+ * 3) child → opener (message.origin): "authorization:github:success:{json}"
+ */
 function decapHandshakeScript(status, content) {
-  const payload = JSON.stringify(content);
-  // Decap/Netlify CMS popup protocol
+  const statusJson = JSON.stringify(status);
+  const contentJson = JSON.stringify(content);
   return `
 <script>
 (function () {
-  var status = ${JSON.stringify(status)};
-  var content = ${payload};
-  var msg = "authorization:github:" + status + ":" + JSON.stringify(content);
+  var status = ${statusJson};
+  var content = ${contentJson};
+  var extra = document.getElementById("extra");
 
-  function notify() {
-    if (window.opener) {
-      try {
-        window.opener.postMessage("authorizing:github", "*");
-        window.opener.postMessage(msg, "*");
-      } catch (e) {
-        document.getElementById("extra").textContent = "postMessage 失败: " + e;
-      }
-    } else {
-      var el = document.getElementById("extra");
-      if (el) {
-        el.innerHTML = "未检测到打开本页的后台窗口（window.opener 为空）。请关闭本页，回到 <a href=\"/admin/\" style=\"color:#8ab4ff\">/admin/</a> 重新点登录（需允许弹窗）。";
-      }
+  function setExtra(text) {
+    if (extra) extra.textContent = text;
+  }
+
+  if (!window.opener) {
+    setExtra("没有 opener：请关闭本页，在 /admin/ 重新登录并允许弹窗。");
+    return;
+  }
+
+  var receiveMessage = function (message) {
+    // 只响应来自后台页的握手，再把 token 交回去
+    try {
+      window.opener.postMessage(
+        "authorization:github:" + status + ":" + JSON.stringify(content),
+        message.origin
+      );
+      setExtra("已回传凭证，可关闭本窗口。");
+      window.removeEventListener("message", receiveMessage, false);
+      setTimeout(function () {
+        try { window.close(); } catch (e) {}
+      }, 500);
+    } catch (e) {
+      setExtra("回传失败: " + e);
     }
+  };
+
+  window.addEventListener("message", receiveMessage, false);
+
+  try {
+    window.opener.postMessage("authorizing:github", "*");
+    setExtra("已通知后台，等待握手…");
+  } catch (e) {
+    setExtra("无法通知后台: " + e);
   }
 
-  notify();
-  // 再试一次，兼容部分浏览器时机
-  setTimeout(notify, 300);
-
-  if (window.opener && status === "success") {
-    setTimeout(function () {
-      try { window.close(); } catch (e) {}
-    }, 800);
-  }
+  // 超时兜底：部分环境 parent 不回消息时直接按 * 再发一次
+  setTimeout(function () {
+    try {
+      window.opener.postMessage(
+        "authorization:github:" + status + ":" + JSON.stringify(content),
+        "*"
+      );
+      setExtra("已尝试直接回传凭证。若后台仍未进入，请关闭弹窗后刷新 /admin/。");
+    } catch (e) {}
+  }, 1500);
 })();
 </script>`;
 }
@@ -71,9 +97,7 @@ export async function onRequest(context) {
       page(
         "OAuth 未配置",
         `<h1 class="err">环境变量缺失</h1>
-         <p>请在 Cloudflare Pages → Settings → Environment variables 配置：</p>
-         <p><code>GITHUB_CLIENT_ID</code><br/><code>GITHUB_CLIENT_SECRET</code></p>
-         <p>保存后必须重新部署一次。</p>`
+         <p>请配置 <code>GITHUB_CLIENT_ID</code> 与 <code>GITHUB_CLIENT_SECRET</code> 后重新部署。</p>`
       ),
       { status: 500, headers: { "content-type": "text/html;charset=UTF-8" } }
     );
@@ -87,7 +111,7 @@ export async function onRequest(context) {
         page(
           "缺少 code",
           `<h1 class="err">回调参数不完整</h1>
-           <p>URL 中没有 <code>code</code>。请从 <a href="/admin/" style="color:#8ab4ff">/admin/</a> 重新登录。</p>`
+           <p>请从 <a href="/admin/" style="color:#8ab4ff">/admin/</a> 重新登录。</p>`
         ),
         { status: 400, headers: { "content-type": "text/html;charset=UTF-8" } }
       );
@@ -115,9 +139,7 @@ export async function onRequest(context) {
       return new Response(
         page(
           "授权失败",
-          `<h1 class="err">GitHub 换 token 失败</h1>
-           <p>${detail}</p>
-           <p>请检查 Client Secret 是否正确、OAuth App 的 Callback 是否为 <code>${url.origin}</code>。</p>`,
+          `<h1 class="err">GitHub 换 token 失败</h1><p>${detail}</p>`,
           decapHandshakeScript("error", result)
         ),
         { status: 401, headers: { "content-type": "text/html;charset=UTF-8" } }
@@ -128,7 +150,7 @@ export async function onRequest(context) {
       page(
         "登录成功",
         `<h1 class="ok">GitHub 授权成功</h1>
-         <p>正在把凭证交回后台…若未自动关闭，请关闭此窗口返回管理页。</p>
+         <p>正在把凭证交回后台…</p>
          <p id="extra"></p>`,
         decapHandshakeScript("success", {
           token: result.access_token,
