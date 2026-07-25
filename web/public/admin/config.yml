@@ -1,13 +1,15 @@
-# Decap CMS 配置 - 兽人控.com
-# 文档：https://decapcms.org/docs/configuration-options/
+# Decap CMS - 兽人控.com
+# 文档: https://decapcms.org/docs/configuration-options/
 
 backend:
   name: github
   repo: FanCX520/shourenkong
   branch: main
-  base_url: https://api.github.com
+  # 换成你的正式域名或 pages.dev（不要末尾斜杠）
+  base_url: https://hf.tn
+  auth_endpoint: api/auth
 
-media_folder: public/uploads
+media_folder: web/public/uploads
 public_folder: /uploads
 
 locale: zh_Hans
@@ -88,13 +90,3 @@ collections:
         required: false
       - { label: "NSFW", name: nsfw, widget: boolean, default: false, required: false }
       - { label: "内部备注", name: notes, widget: text, required: false }
-
-  - name: docs
-    label: 文档
-    folder: docs
-    extension: md
-    format: frontmatter
-    create: false
-    fields:
-      - { label: "标题", name: title, widget: string, required: false }
-      - { label: "正文", name: body, widget: markdown }
