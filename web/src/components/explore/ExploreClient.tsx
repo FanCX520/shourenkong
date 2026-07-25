@@ -8,26 +8,17 @@ import { FilterSidebar } from "@/components/layout/FilterSidebar";
 import { GameGrid } from "@/components/game/GameCard";
 import { FilterIcon, ShuffleIcon } from "@/components/ui/Icons";
 
-export function ExploreClient({
-  games,
-  initialQuery,
-}: {
-  games: Game[];
-  initialQuery?: string;
-}) {
+export function ExploreClient({ games }: { games: Game[] }) {
   const router = useRouter();
-  const [filter, setFilter] = useState<FilterState>(() => {
-    if (typeof window === "undefined") {
-      const base = emptyFilter();
-      if (initialQuery) base.q = initialQuery;
-      return base;
-    }
-    const params = new URLSearchParams(window.location.search);
-    const f = parseFilterFromSearchParams(params);
-    if (initialQuery && !f.q) f.q = initialQuery;
-    return f;
-  });
+  const [filter, setFilter] = useState<FilterState>(() => emptyFilter());
+  const [ready, setReady] = useState(false);
   const [showFilters, setShowFilters] = useState(false);
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    setFilter(parseFilterFromSearchParams(params));
+    setReady(true);
+  }, []);
 
   const results = useMemo(() => filterGames(games, filter), [games, filter]);
 
@@ -39,10 +30,6 @@ export function ExploreClient({
     },
     [router]
   );
-
-  useEffect(() => {
-    // URL params handled in useState
-  }, []);
 
   const onRandom = () => {
     if (!results.length) return;
@@ -61,7 +48,7 @@ export function ExploreClient({
           <div>
             <h1 className="text-[20px] font-semibold tracking-tight">探索</h1>
             <p className="text-[13px] text-[var(--text-secondary)]">
-              共 {results.length} 部游戏
+              {ready ? `共 ${results.length} 部游戏` : "加载中…"}
               {filter.q ? ` · 搜索「${filter.q}」` : ""}
             </p>
           </div>
@@ -74,7 +61,12 @@ export function ExploreClient({
               <FilterIcon size={15} />
               筛选
             </button>
-            <button type="button" className="btn btn-secondary" onClick={onRandom} disabled={!results.length}>
+            <button
+              type="button"
+              className="btn btn-secondary"
+              onClick={onRandom}
+              disabled={!results.length}
+            >
               <ShuffleIcon size={15} />
               在结果中随机
             </button>

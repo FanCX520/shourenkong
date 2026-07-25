@@ -6,13 +6,8 @@ export const metadata = {
   description: "按标签筛选兽人 / furry / kemono 游戏",
 };
 
-export default async function ExplorePage({
-  searchParams,
-}: {
-  searchParams?: Promise<Record<string, string | string[] | undefined>>;
-}) {
+/** Static export: query string is read only on the client. */
+export default function ExplorePage() {
   const games = getAllGames();
-  const sp = searchParams ? await searchParams : {};
-  const q = typeof sp.q === "string" ? sp.q : "";
-  return <ExploreClient games={games} initialQuery={q} />;
+  return <ExploreClient games={games} />;
 }
