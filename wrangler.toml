@@ -1,7 +1,5 @@
 name = "shourenkong"
 compatibility_date = "2026-07-01"
 
-# Workers Static Assets: serve the Next.js static export
-[assets]
-directory = "./web/out"
-not_found_handling = "single-page-application"
+# Cloudflare Pages needs this key (Workers-style [assets] is ignored by Pages)
+pages_build_output_dir = "web/out"
