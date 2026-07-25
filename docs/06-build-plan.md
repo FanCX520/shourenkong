@@ -2,11 +2,15 @@
 
 ## 现状
 - 前端源码已在 GitHub `web/`
-- `games.json` 已提交；无 Python 也能 build
-- Cloudflare Pages：Root=`web`，Build=`npm run build`，Out=`out`，Node=`20`
+- itch 爬虫以本地完整版为准
+- Cloudflare Pages：Root=`web`，Build=`npm run build`，Out=`out`
 
-## 数据流
-改 `data/games/*.yaml` → `npm run sync-data` → 提交 `web/src/data/games.json` → 部署
+## 构建策略
+1. `games.json` 已提交，CF 无 Python 也能构建
+2. 本地有 Python 时 `npm run sync-data` 从 YAML 刷新 JSON
+3. 改 YAML → sync-data → commit JSON → 部署
 
-## itch
-`python3 scripts/scrape-itch.py --tag furry --pages 1` → `data/candidates/` → 审核 → `data/games/`
+## 下一步
+1. CF 接仓库部署
+2. 本机跑 scrape-itch 填充 candidates
+3. 绑定 兽人控.com
