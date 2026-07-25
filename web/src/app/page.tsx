@@ -39,11 +39,11 @@ export default function HomePage() {
             <Link href="/explore/" className="btn btn-primary">
               开始探索
             </Link>
-            <Link href="/tags/" className="btn btn-secondary">
-              浏览标签
+            <Link href="/random/" className="btn btn-secondary">
+              随机一部
             </Link>
-            <Link href="/about/" className="btn btn-ghost">
-              如何贡献
+            <Link href="/tags/" className="btn btn-ghost">
+              浏览标签
             </Link>
           </div>
           <p className="mt-4 text-[12px] text-[var(--text-tertiary)]">
@@ -57,7 +57,8 @@ export default function HomePage() {
           <Link
             key={c.href}
             href={c.href}
-            className="card block px-3.5 py-3 transition-colors hover:border-[color-mix(in_srgb,var(--primary)_35%,var(--border))]">
+            className="card block px-3.5 py-3 transition-colors hover:border-[color-mix(in_srgb,var(--primary)_35%,var(--border))]"
+          >
             <p className="text-[14px] font-semibold text-[var(--text-primary)]">{c.title}</p>
             <p className="mt-0.5 text-[12px] text-[var(--text-tertiary)]">{c.desc}</p>
           </Link>
