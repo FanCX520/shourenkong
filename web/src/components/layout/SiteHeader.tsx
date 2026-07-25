@@ -109,7 +109,7 @@ export function SiteHeader() {
 
         <button type="button" className="btn btn-secondary shrink-0" onClick={onRandom} title="随机发现">
           <ShuffleIcon size={15} />
-          <span className="hidden sm:inline">随机</span>
+          <span className="hidden xs:inline sm:inline">随机</span>
         </button>
 
         <ThemeToggle />
@@ -137,6 +137,14 @@ export function SiteHeader() {
                 </Link>
               );
             })}
+            <button
+              type="button"
+              className="flex items-center gap-2 rounded-[8px] px-3 py-2.5 text-left text-[14px] text-[var(--text-secondary)]"
+              onClick={onRandom}
+            >
+              <ShuffleIcon size={15} />
+              随机发现
+            </button>
           </nav>
         </div>
       )}
