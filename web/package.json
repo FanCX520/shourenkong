@@ -3,13 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "sync-data": "python3 ../scripts/build-games-json.py || node -e \"console.log('skip yaml sync, using committed games.json')\"",
+    "sync-data": "node ../scripts/build-games-json.mjs",
     "dev": "npm run sync-data && next dev",
     "build": "npm run sync-data && next build",
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
+    "js-yaml": "^4.1.0",
     "next": "16.2.11",
     "react": "19.2.4",
     "react-dom": "19.2.4"
