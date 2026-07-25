@@ -1,0 +1,99 @@
+id: EMBERBOUND
+title: 未烬之约
+title_en: EMBERBOUND
+description: >-
+  关于《未烬之约》
+
+  故事发生在南方小镇“安渡镇”的一个夏天。
+
+
+  因工作变动以及老屋检修签字等事务，离开故乡多年的云晞暂时回到了这里。他原本只打算用十天处理完一切，随后重新回到原有的生活轨道。
+
+
+  然而，一场意料之外的重逢，打乱了这份看似周全的计划。
+
+
+  曾经约定共同参加的祈焰节，早已停办多年；记忆中熟悉的故友，也在各自的人生里长成了不同的模样。那些来不及说出口的话、未能赴约的遗憾，以及被留在旧照片之外的夏天，也随着云晞的归乡，再次浮出水面。
+
+
+  当过去与现在重新交汇，你将作为主角与昔日的朋友们共同度过这个夏天，在日常相处与一次次选择中，逐渐了解他们未曾展露的另一面。
+
+
+  这一次，他能否亲手补上那场迟到了多年的约定？
+
+
+  又或者，有些错过的事无法真正重来，但仍能在新的夏天里得到回应？
+
+
+  游戏特色
+
+  现代日常题材的兽人视觉小说
+
+
+  在安渡镇的街道、河岸、清吧与老屋之间，体验一段围绕故乡、友情、遗憾与感情展开的夏日故事。
+
+
+  多角色路线与不同结局
+
+
+  通过日常相处与剧情选择，深入了解性格和经历各不相同的角色。你的选择将影响彼此的好感与理解，并逐步开启不同的角色事件、故事路线与结局。
+
+
+  动态 CG 演出
+
+
+  游戏中的绝大多数 CG 将结合人物动作、表情变化、环境效果与镜头调度进行动态呈现，关键剧情不再停留于静止画面。
+
+
+  动态立体场景
+
+
+  部分场景采用具有空间层次的动态背景表现，通过前后景分层、环境运动与视角变化，呈现更具沉浸感的安渡镇。
+
+
+  当前开发状态
+
+  《未烬之约》目前仍在持续开发中。商店页面中展示的部分文本、画面、演出效果与功能可能会在后续制作中进行调整，最终内容请以正式发布版本为准。
+
+
+  欢迎将游戏加入愿望单，关注后续开发与发布消息。
+
+
+  Fluffore Studio / 绒石开发组
+species:
+  - 狼
+  - 虎
+  - 狗
+  - 熊
+rating: 全年龄
+genres:
+  - 视觉小说
+platforms:
+  - Windows
+  - Linux
+  - macOS
+  - Android
+  - iOS
+  - Steam
+engines:
+  - Ren'Py
+features:
+  - bara
+  - 多结局
+  - WIP（进行中）
+  - 中文支持
+  - 官方中文
+links:
+  - name: B站
+    url: https://space.bilibili.com/3546557632744283
+  - name: X
+    url: https://x.com/flufforestudio?s=11
+  - name: 抖音
+    url: https://www.douyin.com/user/MS4wLjABAAAAAHfgB4r2lwQzj9MLpPbq3u4i2D7rcH-kLclRbfDsMf4gOoThzxamddUSUCQnwJCV?previous_page=app_code_link
+  - name: Steam
+    url: https://store.steampowered.com/app/4634770/_/?l=schinese
+  - name: 官网
+    url: https://flufforestudio.com/
+status: 进行中
+source: steam
+nsfw: false
