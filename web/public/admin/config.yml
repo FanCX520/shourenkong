@@ -1,0 +1,100 @@
+# Decap CMS 配置 - 兽人控.com
+# 文档：https://decapcms.org/docs/configuration-options/
+
+backend:
+  name: github
+  repo: FanCX520/shourenkong
+  branch: main
+  base_url: https://api.github.com
+
+media_folder: public/uploads
+public_folder: /uploads
+
+locale: zh_Hans
+publish_mode: simple
+
+collections:
+  - name: games
+    label: 游戏
+    label_singular: 游戏
+    folder: data/games
+    extension: yaml
+    format: yaml
+    create: true
+    slug: "{{id}}"
+    identifier_field: id
+    summary: "{{title}} ({{rating}})"
+    fields:
+      - { label: "ID (slug)", name: id, widget: string, hint: "小写英文+连字符，例如 black-chapter" }
+      - { label: "标题（中文）", name: title, widget: string }
+      - { label: "英文标题", name: title_en, widget: string, required: false }
+      - { label: "日文标题", name: title_jp, widget: string, required: false }
+      - { label: "封面图 URL", name: cover, widget: string, required: false }
+      - { label: "中文简介", name: description, widget: text }
+      - { label: "英文简介", name: description_en, widget: text, required: false }
+      - label: "物种"
+        name: species
+        widget: select
+        multiple: true
+        options: ["狼", "狐", "狗", "猫", "虎", "狮", "豹", "熊", "龙", "鸟", "兔", "鹿", "马", "牛", "羊", "鼠", "蝙蝠", "蛇", "鲨鱼", "恐龙", "兽人（广义）", "人类（含兽人角色）", "混合", "其他"]
+      - label: "内容分级"
+        name: rating
+        widget: select
+        options: ["全年龄", "软色情", "R18", "R18G"]
+        default: "全年龄"
+      - label: "游戏类型"
+        name: genres
+        widget: select
+        multiple: true
+        required: false
+        options: ["视觉小说", "RPG", "模拟经营", "养成", "动作", "平台", "射击", "解谜", "约会模拟", "沙盒", "开放世界", "其他"]
+      - label: "平台"
+        name: platforms
+        widget: select
+        multiple: true
+        required: false
+        options: ["Windows", "macOS", "Linux", "Android", "iOS", "Switch", "Web", "itch.io", "Steam", "其他"]
+      - label: "引擎"
+        name: engines
+        widget: select
+        multiple: true
+        required: false
+        options: ["Ren'Py", "Unity", "Godot", "RPG Maker", "HTML5", "原生", "其他"]
+      - label: "特征"
+        name: features
+        widget: select
+        multiple: true
+        required: false
+        options: ["bara", "yiff", "肌肉", "多结局", "免费", "付费", "WIP（进行中）", "完结", "中文支持", "官方中文", "民间汉化", "单人", "多人"]
+      - label: "外链"
+        name: links
+        widget: list
+        fields:
+          - { label: "名称", name: name, widget: string }
+          - { label: "URL", name: url, widget: string }
+        required: true
+      - label: "状态"
+        name: status
+        widget: select
+        options: ["完结", "进行中", "停更"]
+        default: "完结"
+      - { label: "发布日期", name: release_date, widget: string, required: false }
+      - { label: "最后更新", name: updated_at, widget: string, required: false }
+      - label: "来源"
+        name: source
+        widget: select
+        options: ["manual", "itch", "steam", "github-pr"]
+        default: "manual"
+        required: false
+      - { label: "NSFW", name: nsfw, widget: boolean, default: false, required: false }
+      - { label: "内部备注", name: notes, widget: text, required: false }
+
+  - name: docs
+    label: 文档
+    folder: docs
+    extension: md
+    format: frontmatter
+    create: false
+    fields:
+      - { label: "标题", name: title, widget: string, required: false }
+      - { label: "正文", name: body, widget: markdown }
