@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prebuild": "python3 ../scripts/build-games-json.py",
-    "dev": "python3 ../scripts/build-games-json.py && next dev",
-    "build": "python3 ../scripts/build-games-json.py && next build",
+    "sync-data": "python3 ../scripts/build-games-json.py || node -e \"console.log('skip yaml sync, using committed games.json')\"",
+    "dev": "npm run sync-data && next dev",
+    "build": "npm run sync-data && next build",
     "start": "next start",
     "lint": "eslint"
   },
