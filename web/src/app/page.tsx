@@ -17,22 +17,23 @@ export default function HomePage() {
     .filter((t, i, arr) => arr.indexOf(t) === i)
     .slice(0, 16);
 
+  const channels = [
+    { href: "/explore/?safe=1", title: "全年龄", desc: "适合公开场合浏览" },
+    { href: "/explore/?rating=R18", title: "R18", desc: "成人向作品" },
+    { href: "/explore/?features=%E4%B8%AD%E6%96%87%E6%94%AF%E6%8C%81", title: "中文", desc: "官方或汉化支持" },
+    { href: "/explore/?features=%E5%85%8D%E8%B4%B9", title: "免费", desc: "无需付费即可体验" },
+  ];
+
   return (
     <div className="mx-auto max-w-[1200px] px-4 py-8">
-      <section className="card mb-8 overflow-hidden">
-        <div
-          className="px-6 py-8 sm:px-8 sm:py-10"
-          style={{
-            background:
-              "linear-gradient(135deg, color-mix(in srgb, var(--primary) 10%, var(--bg-surface)), var(--bg-surface))",
-          }}
-        >
+      <section className="card mb-6 overflow-hidden">
+        <div className="hero-pattern px-6 py-9 sm:px-9 sm:py-11">
           <p className="text-[13px] font-medium text-[var(--primary)]">兽人控.com</p>
-          <h1 className="mt-2 max-w-xl text-[28px] font-semibold tracking-tight sm:text-[32px]">
-            中文圈兽人 / Furry / Kemono 游戏索引
+          <h1 className="mt-2 max-w-xl text-[28px] font-semibold tracking-tight sm:text-[34px]">
+            找一部合口味的兽人游戏
           </h1>
           <p className="mt-3 max-w-2xl text-[14px] leading-relaxed text-[var(--text-secondary)]">
-            按物种、分级、平台筛选，支持随机发现。数据开源，欢迎通过 GitHub 贡献条目。
+            按物种、分级、平台筛选，一键随机发现。数据开源，条目写在 Git 里，人人可贡献。
           </p>
           <div className="mt-5 flex flex-wrap gap-2">
             <Link href="/explore/" className="btn btn-primary">
@@ -46,9 +47,21 @@ export default function HomePage() {
             </Link>
           </div>
           <p className="mt-4 text-[12px] text-[var(--text-tertiary)]">
-            当前收录 {games.length} 部 · 数据以 Git 仓库为准
+            当前收录 {games.length} 部 · 以 GitHub 仓库为准
           </p>
         </div>
+      </section>
+
+      <section className="mb-8 grid grid-cols-2 gap-2 sm:grid-cols-4">
+        {channels.map((c) => (
+          <Link
+            key={c.href}
+            href={c.href}
+            className="card block px-3.5 py-3 transition-colors hover:border-[color-mix(in_srgb,var(--primary)_35%,var(--border))]">
+            <p className="text-[14px] font-semibold text-[var(--text-primary)]">{c.title}</p>
+            <p className="mt-0.5 text-[12px] text-[var(--text-tertiary)]">{c.desc}</p>
+          </Link>
+        ))}
       </section>
 
       <section className="mb-8">
@@ -62,7 +75,7 @@ export default function HomePage() {
           {hotTags.map((t) => (
             <TagBadge
               key={t}
-              tag={`${t}${counts[t] ? ` ${counts[t]}` : ""}`}
+              tag={`${t}${counts[t] ? ` · ${counts[t]}` : ""}`}
               href={`/explore/?species=${encodeURIComponent(t)}`}
             />
           ))}
