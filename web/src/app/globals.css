@@ -1,23 +1,21 @@
 @import "tailwindcss";
 
-/* Design tokens — signature: warm fox/amber primary for 兽人控 index */
 :root,
 :root[data-theme="light"] {
-  --bg-app: #f6f4f1;
-  --bg-sidebar: #efece7;
+  --bg-app: #f4f5f7;
+  --bg-sidebar: #eef0f3;
   --bg-surface: #ffffff;
-  --bg-muted: #f3f0eb;
-  --bg-hover: rgba(40, 28, 18, 0.05);
-  --bg-selected: color-mix(in srgb, var(--primary) 14%, white);
-  --text-primary: #1a1612;
-  --text-secondary: #5c534a;
-  --text-tertiary: #8a8076;
-  --primary: #c45c1a;
+  --bg-muted: #f7f8fa;
+  --bg-hover: rgba(0, 0, 0, 0.04);
+  --bg-selected: color-mix(in srgb, var(--primary) 12%, white);
+  --text-primary: #1c1c1e;
+  --text-secondary: #636366;
+  --text-tertiary: #8e8e93;
+  --primary: #007aff;
   --primary-fg: #ffffff;
-  --accent-soft: #f3e0d0;
-  --border: rgba(40, 28, 18, 0.09);
-  --border-strong: rgba(40, 28, 18, 0.14);
-  --shadow-card: 0 1px 2px rgba(40, 28, 18, 0.05), 0 4px 12px rgba(40, 28, 18, 0.04);
+  --border: rgba(0, 0, 0, 0.08);
+  --border-strong: rgba(0, 0, 0, 0.12);
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.06);
   --radius-sm: 8px;
   --radius-md: 12px;
   --radius-lg: 16px;
@@ -26,40 +24,38 @@
 }
 
 :root[data-theme="dark"] {
-  --bg-app: #141210;
-  --bg-sidebar: #0f0d0b;
-  --bg-surface: #1e1b18;
-  --bg-muted: #2a2622;
-  --bg-hover: rgba(255, 236, 214, 0.06);
-  --bg-selected: color-mix(in srgb, var(--primary) 22%, #1e1b18);
-  --text-primary: #f5f0ea;
-  --text-secondary: #b3a99d;
-  --text-tertiary: #7a7268;
-  --primary: #e8924a;
-  --primary-fg: #1a120c;
-  --accent-soft: #3a2a1c;
-  --border: rgba(255, 236, 214, 0.08);
-  --border-strong: rgba(255, 236, 214, 0.14);
-  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.4);
+  --bg-app: #1c1c1e;
+  --bg-sidebar: #161617;
+  --bg-surface: #2c2c2e;
+  --bg-muted: #3a3a3c;
+  --bg-hover: rgba(255, 255, 255, 0.06);
+  --bg-selected: color-mix(in srgb, var(--primary) 22%, #2c2c2e);
+  --text-primary: #f5f5f7;
+  --text-secondary: #a1a1a6;
+  --text-tertiary: #6c6c70;
+  --primary: #0a84ff;
+  --primary-fg: #ffffff;
+  --border: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.14);
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.45);
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme]) {
-    --bg-app: #141210;
-    --bg-sidebar: #0f0d0b;
-    --bg-surface: #1e1b18;
-    --bg-muted: #2a2622;
-    --bg-hover: rgba(255, 236, 214, 0.06);
-    --bg-selected: color-mix(in srgb, var(--primary) 22%, #1e1b18);
-    --text-primary: #f5f0ea;
-    --text-secondary: #b3a99d;
-    --text-tertiary: #7a7268;
-    --primary: #e8924a;
-    --primary-fg: #1a120c;
-    --accent-soft: #3a2a1c;
-    --border: rgba(255, 236, 214, 0.08);
-    --border-strong: rgba(255, 236, 214, 0.14);
-    --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.4);
+    --bg-app: #1c1c1e;
+    --bg-sidebar: #161617;
+    --bg-surface: #2c2c2e;
+    --bg-muted: #3a3a3c;
+    --bg-hover: rgba(255, 255, 255, 0.06);
+    --bg-selected: color-mix(in srgb, var(--primary) 22%, #2c2c2e);
+    --text-primary: #f5f5f7;
+    --text-secondary: #a1a1a6;
+    --text-tertiary: #6c6c70;
+    --primary: #0a84ff;
+    --primary-fg: #ffffff;
+    --border: rgba(255, 255, 255, 0.08);
+    --border-strong: rgba(255, 255, 255, 0.14);
+    --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.45);
   }
 }
 
@@ -81,7 +77,7 @@ a { color: inherit; text-decoration: none; }
 button { font: inherit; }
 
 ::selection {
-  background: color-mix(in srgb, var(--primary) 32%, transparent);
+  background: color-mix(in srgb, var(--primary) 30%, transparent);
 }
 
 :focus-visible {
@@ -108,12 +104,12 @@ button { font: inherit; }
   align-items: center;
   justify-content: center;
   gap: 0.4rem;
-  height: 34px;
-  padding: 0 14px;
+  height: 32px;
+  padding: 0 12px;
   border-radius: var(--radius-sm);
   border: 1px solid transparent;
   cursor: pointer;
-  transition: background 160ms ease, border-color 160ms ease, color 160ms ease, filter 160ms ease;
+  transition: background 160ms ease, border-color 160ms ease, color 160ms ease;
   font-size: 13px;
   font-weight: 500;
 }
@@ -123,7 +119,7 @@ button { font: inherit; }
 }
 
 .btn-primary { background: var(--primary); color: var(--primary-fg); }
-.btn-primary:hover:not(:disabled) { filter: brightness(1.06); }
+.btn-primary:hover:not(:disabled) { filter: brightness(1.05); }
 .btn-secondary {
   background: var(--bg-hover);
   color: var(--text-primary);
@@ -134,7 +130,7 @@ button { font: inherit; }
 .btn-ghost:hover:not(:disabled) { background: var(--bg-hover); color: var(--text-primary); }
 
 .input {
-  height: 36px;
+  height: 34px;
   width: 100%;
   padding: 0 12px 0 36px;
   border-radius: var(--radius-sm);
@@ -145,7 +141,7 @@ button { font: inherit; }
   font-size: 13px;
 }
 .input:focus {
-  border-color: color-mix(in srgb, var(--primary) 55%, var(--border));
+  border-color: color-mix(in srgb, var(--primary) 50%, var(--border));
   box-shadow: 0 0 0 3px color-mix(in srgb, var(--primary) 18%, transparent);
 }
 .input::placeholder { color: var(--text-tertiary); }
@@ -187,6 +183,6 @@ button { font: inherit; }
 
 .hero-pattern {
   background-image:
-    radial-gradient(ellipse 80% 60% at 10% 0%, color-mix(in srgb, var(--primary) 18%, transparent), transparent 55%),
-    radial-gradient(ellipse 50% 40% at 90% 20%, color-mix(in srgb, var(--primary) 10%, transparent), transparent 50%);
+    radial-gradient(ellipse 80% 60% at 10% 0%, color-mix(in srgb, var(--primary) 12%, transparent), transparent 55%),
+    radial-gradient(ellipse 50% 40% at 90% 20%, color-mix(in srgb, var(--primary) 8%, transparent), transparent 50%);
 }
