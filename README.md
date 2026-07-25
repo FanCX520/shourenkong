@@ -7,58 +7,53 @@
 ## 当前状态
 
 - [x] 标签体系定稿
-- [x] 数据 Schema 定义
-- [x] 示例游戏条目
-- [x] 内容管理方案（Git + **Decap CMS 可视化后台**）
-- [x] GitHub Actions 自动校验
-- [ ] 前端骨架
-- [ ] 真实数据规模化
+- [x] 数据 Schema + 示例游戏
+- [x] Decap CMS + GitHub Actions 校验
+- [x] 前端 Next.js 静态站（`web/`）
+- [ ] 真实数据规模化（itch 候选 → 审核）
 - [ ] 域名上线
 
-## 快速开始（内容贡献）
+## 部署（Cloudflare Pages）
 
-### 方式一：网页后台（推荐）
-部署后访问 `/admin`，用 GitHub 登录即可可视化新增/编辑游戏。
+| 字段 | 值 |
+|------|-----|
+| Root directory | `web` |
+| Build command | `npm run build` |
+| Build output directory | `out` |
+| Node version | `20` |
 
-### 方式二：直接改文件
-1. Fork 本仓库
-2. 在 `data/games/` 下新建 `你的游戏-id.yaml`（参考现有文件）
-3. 按 `schemas/game.schema.yaml` 和 `docs/01-tags.md` 填写
-4. 本地运行校验：
-   ```bash
-   pip install pyyaml
-   python scripts/validate-games.py
-   ```
-5. 提交 Pull Request（Actions 会自动再校验一次）
+`web/src/data/games.json` 已提交，无 Python 也能构建。有 Python 时 `npm run sync-data` 会从 `data/games/*.yaml` 刷新 JSON。
 
-## 管理后台
+## 本地开发
 
-已配置 **Decap CMS**。
+```bash
+cd web
+npm install
+npm run dev
+```
 
-- 配置文件：`public/admin/config.yml`
-- 入口页面：`public/admin/index.html`
-- 部署后访问：`https://你的域名/admin`
+## 内容贡献
 
-详细说明见 [docs/02-management.md](docs/02-management.md)。
+### 网页后台
+部署后访问 `/admin`（需配置 GitHub OAuth）。
+
+### 改 YAML
+1. 在 `data/games/` 新增文件（参考已有）
+2. `python3 scripts/validate-games.py`
+3. `cd web && npm run sync-data` 更新 JSON
+4. 提交 PR
+
+## itch 抓取（本机有网）
+
+```bash
+pip install pyyaml
+python3 scripts/scrape-itch.py --tag furry --pages 1
+# 结果 → data/candidates/，审核后移入 data/games/
+```
 
 ## 文档
 
 - [标签体系](docs/01-tags.md)
-- [统一管理方案](docs/02-management.md)
-- [仓库结构](docs/03-repo-structure.md)
-- [下一步行动](docs/04-next-actions.md)
-
-## 目录结构（简化）
-
-```
-data/games/          # 每个游戏一个 YAML（主数据）
-public/admin/        # Decap CMS 后台
-schemas/             # 校验规则
-scripts/             # 校验与后续抓取脚本
-.github/workflows/   # 自动校验 & 部署
-docs/                # 规划与规范文档
-```
-
-## License
-
-内容与代码许可后续确定（建议 Apache-2.0 或类似）。
+- [管理方案](docs/02-management.md)
+- [前端与爬虫计划](docs/05-frontend-and-scraper-plan.md)
+- [构建计划](docs/06-build-plan.md)
