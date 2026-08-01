@@ -32,6 +32,10 @@ Dashboard → Workers & Pages → Create → Pages → **Connect to Git**：
 | Build output directory | `out` |
 | Environment variable `NODE_VERSION` | `22` |
 
+> **注意**：如果仓库里有 `wrangler.toml` 且设置了 `pages_build_output_dir`，Dashboard 的「构建输出目录」输入框会被锁定不可编辑。修复方法：把 `command` / `cwd` / `pages_build_output_dir` 全部写进 `wrangler.toml` 的 `[build]` 段，提交后 Dashboard 自动同步。
+>
+> `NODE_VERSION` 环境变量**必须**在 Dashboard「变量和密钥」里加（wrangler.toml 写不了）。
+
 保存并部署。首次构建成功后得到 `https://<项目名>.pages.dev`。
 
 > 构建时会先跑 `npm run sync-data`（Node 版，无需 Python），把 `data/games/*.yaml` 转成 JSON，再 `next build` 输出纯静态文件。

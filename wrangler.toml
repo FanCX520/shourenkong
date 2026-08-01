@@ -1,5 +1,10 @@
 name = "shourenkong"
 compatibility_date = "2026-07-01"
 
-# Cloudflare Pages needs this key (Workers-style [assets] is ignored by Pages)
+# Cloudflare Pages git-integration build config
+# Dashboard 上的构建项会被此文件锁定，修改直接改这里即可
 pages_build_output_dir = "web/out"
+
+[build]
+command = "npm run build"
+cwd = "web"
