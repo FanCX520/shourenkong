@@ -1,4 +1,4 @@
-id: im-now-the-school-delinquents-lover-but-i-want-out
+﻿id: im-now-the-school-delinquents-lover-but-i-want-out
 title: I&#039;m Now the School Delinquent&#039;s Lover, but I Want Out!!
 title_en: I&#039;m Now the School Delinquent&#039;s Lover, but I Want Out!!
 cover: https://img.itch.zone/aW1nLzE2MTc2MTQ1LnBuZw==/original/WNfkoG.png
@@ -19,9 +19,23 @@ features: []
 links:
 - name: itch.io
   url: https://konpeitocat.itch.io/im-now-the-school-delinquents-lover-but-i-want-out
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Dekko%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Your final high school year; a time for making memories, friends,\
+  \ living life to the fullest! ...Unfortunately for Akahana Haruto, it seems like\
+  \ this year, too, he'll remain the same old invisible classmate, going about his\
+  \ day in silence and solidute. But when the leader of the delinquent group in school\
+  \ makes a surprise confession, Haruto's life goes from quiet to chaotic in five\
+  \ seconds flat!!\n\nWill he be able to escape the clutches of the terrifying delinquent?\
+  \ Or is chaos just the thing to spice up his quiet school life?\n\n This game was\
+  \ created for the May Wolf Game Jam 2024 hosted by  WagleUnagi . All assets, writing,\
+  \ and coding were created from the start of May to the date of this Visual Novel's\
+  \ release!"

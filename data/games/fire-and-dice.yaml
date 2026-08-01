@@ -1,4 +1,4 @@
-id: fire-and-dice
+﻿id: fire-and-dice
 title: Fire and Dice
 title_en: Fire and Dice
 cover: https://img.itch.zone/aW1nLzk1OTEwODIuZ2lm/original/Rqq%2FDQ.gif
@@ -20,9 +20,21 @@ features: []
 links:
 - name: itch.io
   url: https://golen.itch.io/fire-and-dice
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Fredoka%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Fire and Dice\n\nDice up the competition before you're slain.\r\
+  \n\nFire and Dice was made during GMTK Game Jam 2022 .\n\n Thank you all so much\
+  \ for playing and rating! \n\nTo celebrate we are in the making of some updates!\
+  \ A couple of new features in testing include:\n\nFaster gameplay\n\nImproved enemy\
+  \ waves\n\n Dice storage for saving a dice for later use\n\nControls\n\nHold and\
+  \ drag a dice to move it\n\nPress Attack to deal damage to the adventurers\n\nTeam\n\
+  \n Golen , ArcticFqx (code)\n\n Luxx , Konix , Lumie (art)\n\n Matojeje , Kiu (audio)\n\
+  \nWilon (concept)\n\nSoundtrack is available here !"

@@ -1,4 +1,4 @@
-id: fields-of-spring
+﻿id: fields-of-spring
 title: Fields of Spring
 title_en: Fields of Spring
 cover: https://img.itch.zone/aW1nLzEzMTA5NTY0LmdpZg==/original/jVpaYJ.gif
@@ -19,9 +19,32 @@ features: []
 links:
 - name: itch.io
   url: https://project-rat.itch.io/fields-of-spring
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Abhaya%20Libre%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/EymonRat
+  type: patreon
+- name: Discord
+  url: https://discord.gg/XU4HWYyd7x
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Turning 18 is a milestone for anyone, and for Mikey, it means he's\
+  \ not just headed toward adulthood... he's already there! \nHis mediocre soccer\
+  \ team's scheduled for an exhibition match with the preppy high school across town.\
+  \ Do they even stand a chance? Navigating life as an adult and relearning teamwork\
+  \ has never been more tiresome. To top it all off, he's still got all the normal\
+  \ problems of grades, friends, bullies, school dances, and girls…\n\nWhat the hell\
+  \ went wrong?\r\n\n Fields of Spring is a kinetic visual novel (no choices) and\
+  \ is an adult fiction that features themes and scenarios that may not be suitable\
+  \ for all ages. Please be aware, and do not read if you are not over the age of\
+  \ 18.\n\n Credits: \n\nDirection, Script, Music - Eymon \n\nSprites, Backgrounds,\
+  \ Illustrations -  Coffyeen \n\nUI Design -  Syktur \n\nEditing, Proofreading, Consultant\
+  \ -  Shiroooo \n\nEditing, Proofreading, General Assistance - arSyx \n\nProgramming,\
+  \ Technical Assistance - Blabel \n\nSupport:\n\n Patreon   |   Discord"

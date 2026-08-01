@@ -1,4 +1,4 @@
-id: covenant-of-the-four-suns
+﻿id: covenant-of-the-four-suns
 title: Covenant of the Four Suns
 title_en: Covenant of the Four Suns
 cover: https://img.itch.zone/aW1nLzI4OTI0MjkwLnBuZw==/original/h%2BbrJW.png
@@ -16,9 +16,55 @@ features: []
 links:
 - name: itch.io
   url: https://sunseeker-studios.itch.io/covenant-of-the-four-suns
+  type: itch
+- name: Ko-fi
+  url: https://ko-fi.com/
+  type: kofi
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "☀️ Covenant of the Four Suns \U0001F6E1️\n\nStep into a tactical\
+  \ bara/husbando RPG where squad synergies, deep elemental affinities, and devastating\
+  \ Ultimate abilities determine the fate of the realm!\n\nCommand a growing roster\
+  \ of 14+ unique heroes , exploit a 9-element affinity system, and push through story\
+  \ campaigns, resource dungeons, and a 50-floor Challenge Tower.\n\n\U0001F6A7 ALPHA\
+  \ BUILD NOTICE (Active Development)\n\nThis game is in active open Alpha testing\
+  \ ! You may encounter bugs, placeholder assets, or balance adjustments as development\
+  \ progresses.\n\n Found a bug or have feedback? Drop a comment right here on the\
+  \ itch.io page or leave a message on our Ko-fi page (if you are a supporter).\n\n\
+  Saves persist locally in your browser (with optional cloud backup), but major balance\
+  \ updates in future patches may adjust game stats.\n\n\U0001F4DC Story & Lore \n\
+  \n An Unfolding Narrative: Uncover the secrets of the four suns, ancient covenants,\
+  \ and the hidden histories of the heroes fighting by your side through Visual Novel-style\
+  \ dialogue scenes.\n\n Rich Character Lore: Dive into individual character backstories,\
+  \ unique dialogue lines, and faction rivalries as you progress through the campaign.\n\
+  \n⚔️ Key Features \n\n Tactical Turn-Based Combat: Form a 4-hero squad, build Ultimate\
+  \ Energy, and unleash devastating signature abilities. Use Auto-Battle and 2x Speed\
+  \ to farm faster.\n\n 9-Element Affinity System: Master Solaris, Terra, Umbra, Verdant,\
+  \ Kryos, Aelius, Fulgoria, Marina, and Notos . Exploit elemental triangles and apply\
+  \ deep status effects like Burn, Freeze, Stun, Shock, and Defense Shred.\n\n Deep\
+  \ Hero Progression: Level up using EXP Elixirs, break Level Caps with Elemental\
+  \ Crests, upgrade Skill levels, and raise Star Ascension ranks using duplicate Hero\
+  \ Shards.\n\n Gear & Relic System: Equip Weapons, Armor, Accessories, and Relics.\
+  \ Enhance your gear and unlock powerful passive procs (e.g., Rage Surge, Vampiric\
+  \ Edge, Soul Channel) that trigger during combat.\n\n Endgame Content: Tackle the\
+  \ 50-floor Challenge Tower with weekly resets and milestone rewards, or farm Resource\
+  \ Dungeons for Gold, EXP Elixirs, and daily-rotating Elemental Crests using Dungeon\
+  \ Keys.\n\n Fair Gacha System: Summon on three distinct banners (Standard, Limited,\
+  \ and Gear) with visible Pity counters. Use Gems, Gold, or Solar Crests (premium\
+  \ currency) to pull for heroes and equipment.\n\n Daily & Weekly Activities: Complete\
+  \ Daily Rites for Activity Points and Milestone rewards, claim Achievements, pray\
+  \ at the Shrine for daily blessings, and trade resources in the Weekly Shop.\n\n\
+  ☕ Support the Project \n\nEnjoying Covenant of the Four Suns ? Consider dropping\
+  \ a tip or unlocking monthly supporter perks to help fuel ongoing development, backend\
+  \ updates, and new artwork!\n\n Visit our Ko-fi Shop & Memberships ☀️ \n\n Created\
+  \ by Sunseeker Studios. Built using HTML5/JS, with generative AI assistance for\
+  \ code architecture, logic iteration, and visual design assets."
+gallery:
+- https://img.itch.zone/aW1hZ2UvNDgxMTgzNy8yODk3NzAxMy5wbmc=/original/6Y2BLL.png
+- https://img.itch.zone/aW1hZ2UvNDgxMTgzNy8yODk3NzAxNC5wbmc=/original/Wo6eaq.png
+- https://img.itch.zone/aW1hZ2UvNDgxMTgzNy8yODk3NzAxNS5wbmc=/original/C8%2BNdB.png
+- https://img.itch.zone/aW1hZ2UvNDgxMTgzNy8yODk3NzAxNi5wbmc=/original/KmzPlx.png

@@ -1,4 +1,4 @@
-id: burning-snow
+﻿id: burning-snow
 title: BURNING SNOW
 title_en: BURNING SNOW
 cover: https://img.itch.zone/aW1nLzI2MTU3Nzg0LmdpZg==/original/BrOwzm.gif
@@ -16,9 +16,31 @@ features: []
 links:
 - name: itch.io
   url: https://justcore.itch.io/burning-snow
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Roboto%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Discord
+  url: https://discord.gg/STMQXEH6Pb
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "BURNING SNOW is a short atmospheric experience about staying warm\
+  \ in a cold forest and eventually launching a firework. Seek matches and make fire\
+  \ while a mysterious cat companion guides you through the forest.\n\n Features:\
+  \ \n\nLight matches and burn branches to stay warm in a freezing forest\n\nA mysterious\
+  \ talking cat companion \n\nShort, focused experience (roughly 10 minutes)\n\nOriginal\
+  \ soundtrack\n\nRetro-inspired visuals \n\n This is my first-ever 3D game , so I\
+  \ really hope you find it fun! I mostly focused on the visuals and tried to make\
+  \ the game as polished and atmospheric as I could! Please enjoy! :)\n\nYou can also\
+  \ follow me on  Bluesky  or  X (Twitter)  for more stuff.\nI also just made a  Discord\
+  \ Server for updates and early testing of my future projects. Feel free to join!"
+gallery:
+- https://img.itch.zone/aW1hZ2UvNDM4MTY5MS8yNjE2NDU5Ny5wbmc=/original/BHVmNM.png
+- https://img.itch.zone/aW1hZ2UvNDM4MTY5MS8yNjE2NDYwMC5wbmc=/original/%2Ft9TES.png
+- https://img.itch.zone/aW1hZ2UvNDM4MTY5MS8yNjE2NDU5OC5wbmc=/original/utS1U7.png
+- https://img.itch.zone/aW1hZ2UvNDM4MTY5MS8yNjE2NDYwMS5wbmc=/original/u3dC17.png

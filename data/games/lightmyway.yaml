@@ -1,4 +1,4 @@
-id: lightmyway
+﻿id: lightmyway
 title: Light My Way
 title_en: Light My Way
 cover: https://img.itch.zone/aW1nLzIyMTIxMzQyLnBuZw==/original/rgeiDB.png
@@ -20,6 +20,19 @@ features: []
 links:
 - name: itch.io
   url: https://batstudios47.itch.io/lightmyway
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Imprima%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Discord
+  url: https://discord.gg/nETcWXyw7J
+  type: discord
+- name: Ko-fi
+  url: https://ko-fi.com/batstudios
+  type: kofi
+- name: Patreon
+  url: https://www.patreon.com/batstudios
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'

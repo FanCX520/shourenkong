@@ -1,4 +1,4 @@
-id: one-more-time-from-the-top
+﻿id: one-more-time-from-the-top
 title: (One more time) From the Top! v0.34
 title_en: (One more time) From the Top! v0.34
 cover: https://img.itch.zone/aW1nLzI2OTQ5ODAucG5n/original/6XTR0R.png
@@ -18,9 +18,33 @@ features: []
 links:
 - name: itch.io
   url: https://madjubal.itch.io/one-more-time-from-the-top
+  type: itch
+- name: Patreon
+  url: https://www.patreon.com/MadJubal
+  type: patreon
+- name: Discord
+  url: https://discord.gg/WTBWv69
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: 'When your best friend invite you to spend the summer with her you
+  thought it would be a relaxing and fun experience. After all, she''s been working
+  in the biggest and best film studio in the country. Well, you were wrong. A dramatic
+  event will force you to investigate the people you just met and try to find out
+  what dark secrets are hiding. During this investigation you will meet A-list celebrities,
+  directors, producers and the rest of the crew in the studio. Some of them will be
+  nice but some others... well, not so nice. They are suspects, can you trust them?
+  Are they playing with you? Will you fall in love with any of them?
+
+
+  "From the Top" is a Gay Visual Novel where we will explore different aspect like
+  coming out, dealing with acceptance, self empowering and finding love. All of it
+  based in the glamorous environments of the show business, red carpets and parties
+  (and their dark sides too).
+
+
+  Here is my  PATREON   and DISCORD  if you want to follow and support the game!'

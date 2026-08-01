@@ -1,4 +1,4 @@
-id: dawntide
+﻿id: dawntide
 title: Dawntide
 title_en: Dawntide
 cover: https://img.itch.zone/aW1nLzkyNTYzNjIucG5n/original/gyaZ9P.png
@@ -19,9 +19,41 @@ features: []
 links:
 - name: itch.io
   url: https://dawntidedev.itch.io/dawntide
+  type: itch
+- name: 官网
+  url: https://mega.nz/folder/RjpX1QQT#igh3TeMqsT-EZvnOtikE2g
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "This game features a soft-route-selection approach. The route is\
+  \ chosen during Chapter 1 at the Wheelhouse, with the option to switch routes to\
+  \ a character who appears shortly after.\n\nThe current release features Chapter\
+  \ One of all routes, as well as Chapter Two of Billy, Ranzo & Griff's routes. The\
+  \ project will be on hiatus for the immediate future, with plans to return with\
+  \ a restructured workflow.  \n\n More information on the reasons for this hiatus\
+  \ and my plans for the project's future are included in a downloadable PDF under\
+  \ the game files.\n\n-Choob\n\n---\n\n Riley's spent his whole life in Porthwarren.\
+  \ He flows with a steady pace, drifting from one part-time-job to the next. As certain\
+  \ as the tide rolls in and out, Riley's resigned to the ebb and flow of this routine.\
+  \   \n\n He's grown up with a good group of friends, but time and circumstance has\
+  \ brought distance between them. Ranzo works abroad on cargo ships, Billy studies\
+  \ north of the County, Sal has made herself busy with freelance work and Joe's settled\
+  \ into his cloistered museum job. Like the old boats that sway in the harbour, memories\
+  \ of the group's better times are moored loosely, and risk drifting off for good.\
+  \ \n\n Walking familiar paths around the town, Riley is reminded of somebody he\
+  \ clung to like a rock in stormy waters. Someone outside the group. Someone he'd\
+  \ loved. Though after ten years apart, memories of him are painted in fading watercolour.\
+  \ \n\n As cool Spring air breathes life onto the land, the town prepares for it's\
+  \ yearly folk festival. With Billy on break from university and Ranzo catching a\
+  \ ship to port, it's the perfect time for a reunion. However, with this year's festival\
+  \ marking a special occasion, it may draw in more visitors than anticipated. \n\n\
+  ---\n\n Donations are apprecciated and will assist in the continued development\
+  \ of the project, but are not required to play. \n\n This story uses strong language\
+  \ and makes reference to topics such as alcohol, sex & drug use. It is intended\
+  \ for 18+ audiences. \n\n---\n\n You can follow the project at @Dawntide.bsky.social\
+  \ \n\n The current release of Dawntide now has an official Chinese translation by \
+  \ 恩维 , which can be downloaded here."

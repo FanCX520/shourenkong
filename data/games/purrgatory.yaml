@@ -1,4 +1,4 @@
-id: purrgatory
+﻿id: purrgatory
 title: purrgatory
 title_en: purrgatory
 cover: https://img.itch.zone/aW1nLzEyMjIxMjAwLmdpZg==/original/iTOgtd.gif
@@ -17,9 +17,28 @@ features: []
 links:
 - name: itch.io
   url: https://nivrad00.itch.io/purrgatory
+  type: itch
+- name: 官网
+  url: https://nivrad00.bandcamp.com/album/purrgatory-ost
+  type: official
+- name: Steam
+  url: https://store.steampowered.com/app/1713610/Purrgatory/
+  type: steam
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "purrgatory is a visual novel about passing time in an afterlife\
+  \ where nothing really matters. explore a whimsical point-and-click world, befriend\
+  \ seven charming characters, and remember — furever's not so bad!\n\nwinner of the\
+  \ \"i can't draw\" game jam and featured in the museum of pop culture in seattle,\
+  \ washington! \n\n links \n\nfollow purrgatory on twitter \n\nlisten to the purrgatory\
+  \ ost \n\nstuck? check out the  hints and solutions \n\n now available in the following languages!\
+  \ \n\nenglish\n\neuropean spanish (by  @samutoga . donate to him  here !)\r\n\n\
+  simplified chinese (by  @Sykrry )\r\n\nitalian\r\n\npolish\r\n\nbrazilian portuguese\r\
+  \n\nlatin american spanish\n\nfrench\n\nnorwegian (bokmål)\n\nrussian\n\n want to\
+  \ donate?  click \"download now\" above and you'll be given an option to pay.\n\n\
+  \ web problems?  if the game won't start, try refreshing or using a different browser.\
+  \ for higher quality and smoother gameplay, try the windows version below."

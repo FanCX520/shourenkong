@@ -1,4 +1,4 @@
-id: brawler-heat
+﻿id: brawler-heat
 title: Brawler Heat
 title_en: Brawler Heat
 cover: https://img.itch.zone/aW1nLzIxNDY1NzU3LnBuZw==/original/Q3adAa.png
@@ -20,9 +20,40 @@ features: []
 links:
 - name: itch.io
   url: https://morishasu.itch.io/brawler-heat
+  type: itch
+- name: Patreon
+  url: https://www.patreon.com/morishasu
+  type: patreon
+- name: 官网
+  url: http://www.elecbyte.com/mugendocs-11b1/mugen.html
+  type: official
+- name: Ko-fi
+  url: https://ko-fi.com/morishasu
+  type: kofi
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "This is a personal project I will be working in my free time, hope\
+  \ you have fun with it.  \n\nAdded a new Character: \n\nDereck (The Farm Bunny)\n\
+  \n NOTE #1 : Web version it's only a demo, since the engine isn't that stable for\
+  \ this particular project.  Download the game to have the full experience!\r\n\n\
+  \ Controls for Windows/Web: \n\nMovement - WASD \r\n\nWeak punch - U \r\n\nStrong\
+  \ punch - I\r\n\nDodge - O \r\n\nWeak kick/ Weak Special - J \r\n\nStrong kick /\
+  \ Strong Special - K \r\n\nEX Special- L \r\n\nTaunt- 1 \r\n\nReturn to title screen\
+  \ / Exit the game from title screen - Escape\n\n Support me \r\n\n Additional not\
+  \ es: \n\nCharacters and stages are made by me Morishasu \n\nKFM character and stage\
+  \ made by Elecbyte:  http://www.elecbyte.com/mugendocs-11b1/mugen.html \r\n\nThis\
+  \ is an in-development Mugen interpreter for Web, so all glitches, false behaviours\
+  \ and other unusual things happening with the characters/stages are not the original\
+  \ creators' fault, but rather reflect this developmental status\r\n\nSource code\
+  \ is on  github :  http://github.com/CaptainDreamcast/DolmexicaInfinite/   \n\n\
+  \ Please Support Me On : \r\n\n Patreon | Ko-Fi \n\n Thanks to  Dolmexica Infinite\
+  \ developers for creating the web support for MUGEN ❤️ \n\n Thanks for playing! ❤️\U0001F43B\
+  ‍❤️"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMjkwNTU5My8xODYwODI0OS5wbmc=/original/OVCFw4.png
+- https://img.itch.zone/aW1hZ2UvMjkwNTU5My8xODYwODI0OC5wbmc=/original/99FVyt.png
+- https://img.itch.zone/aW1hZ2UvMjkwNTU5My8xODYwODI4MC5wbmc=/original/tcp3rZ.png

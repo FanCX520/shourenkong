@@ -1,4 +1,4 @@
-id: forever-gold
+﻿id: forever-gold
 title: Forever Gold
 title_en: Forever Gold
 cover: https://img.itch.zone/aW1nLzIxMjU0MjA5LnBuZw==/original/Ph%2F42N.png
@@ -20,9 +20,55 @@ features: []
 links:
 - name: itch.io
   url: https://weaselbear.itch.io/forever-gold
+  type: itch
+- name: 官网
+  url: https://forevergold.app/
+  type: official
+- name: Ko-fi
+  url: https://ko-fi.com/forevergold
+  type: kofi
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Note: If you're getting an error on the web version, do a \"hard refresh\"\
+  \ of the page  by pressing Ctrl + Shift + R on desktop (or pressing and holding reload\
+  \ on mobile). It was just a domain hiccup, which is now fixed!\n\nEpisode III - \n\
+  \"LILIES FOR DRY FISH\" is out now!\n\nForever Gold is a text-heavy dark fantasy\
+  \ roleplaying game. Assume the life of Duke Quintrell Barghur, a pariah of high\
+  \ birth, and grapple with your unlikely rise to political relevancy as the thriving\
+  \ alliance between Vestur's three kingdoms comes under strain. Achieve, fail, and\
+  \ despair as you navigate the frustrations of the Tri-Kingdom court and negotiate\
+  \ precarious double-binds.\n\nHalfway between visual novel and interactive fiction,\
+  \ Forever Gold is a unique multimedia experience incorporating artwork and writing\
+  \ with RPG mechanics such as skill systems, dice rolls, and lasting narrative decisions.\
+  \ It is intended for mature audiences. \n\nYou are second son of the Northern Kingdom.\
+  \ A chain of unlikely events leaves you and your childhood friend, Prince Lucas\
+  \ of the Middle Kingdom, heading the Fifth Prince's Convoy instead of your respective\
+  \ elder brothers.\r\n\nYour elder brothers are well-liked and well-respected. The\
+  \ two of you, however, are not. Lucas is a bundle of nerves scraped raw by his family's\
+  \ fealty to stagnation. You were born with a curse which condemns its bearers to\
+  \ a long life plagued by misfortune. The series of mishaps that is your life has\
+  \ left you shunned: a criminal banned from conduction, working a job unfit for a\
+  \ man of your birth for the sake of keeping you busy and away from the public eye.\
+  \ Now you are to represent the Northern throne. \n\n A choice-based narrative -\
+  \ Your words and actions effect the world and the people around you, and consequences\
+  \ may range from \"inconsequential\" to \"catastrophic geopolitical scandal.\"\n\
+  \n Shape Quincy's character with traits and ideals - Though he is always \"Quintrell\
+  \ Barghur,\" many of his quirks and values are yours to decide. Some traits may\
+  \ drastically alter his characterization; others add small quirks and neuroses.\n\
+  \n Get to know a nuanced and varied cast - Form relationships – friendly or otherwise\
+  \ – with your fellow members of the Prince Convoy. Nurture contempt for your adversaries,\
+  \ or offer understanding.\n\n Countless illustrations and thorough worldbuilding\
+  \ - Forever Gold is bursting at the seams with detailed character portraits and\
+  \ illustrations. Each passage, menu, and codex article is crafted with thought and\
+  \ attention.\n\n Play in either \"human\" or \"snout\" mode - Select one of two\
+  \ different \"skins\" for the cast (human character designs or anthro character\
+  \ designs) depending on whether you want to spend the game looking at dog-men or\
+  \ men-men.\n\n Level up and improve your skills (or don't) - Invest your points\
+  \ across five skills, improving your chance at rolls and unlocking further dialogue\
+  \ options. Alternatively, withold your stat bonuses and crawl through the narrative\
+  \ as a pitiful worm.\n\n OFFICIAL WEBSITE |  DEVBLOG |  TIP JAR \n\n Find a bug?\
+  \ Report it here!"

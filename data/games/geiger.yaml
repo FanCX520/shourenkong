@@ -1,4 +1,4 @@
-id: geiger
+﻿id: geiger
 title: Geiger
 title_en: Geiger
 cover: https://img.itch.zone/aW1nLzIxNDcyMzU0LmpwZw==/original/T7eNBk.jpg
@@ -20,9 +20,34 @@ features: []
 links:
 - name: itch.io
   url: https://erebuswulfe.itch.io/geiger
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Russo%20One%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "\"Thank you for your service.\"\n\nAfter years on the battlefield,\
+  \ Darius Creed wants nothing more than silence — a nice, quiet life. But peace is\
+  \ a different kind of war, and there's no place for a soldier who only knows how\
+  \ to execute commands. Just when the world feels most distant, he finds a reason\
+  \ to stay. Someone who fought without guns. Someone who made the silence feel like\
+  \ home. Someone more of a hero than himself.\n\nBut peace doesn’t last. War always\
+  \ takes away from the undeserving. When everything Darius believes and has is taken\
+  \ away, he must prove he deserves the title of a hero.\n\nMeet different characters\
+  \ and navigate through the conflicts. The past is already set in stone, but your\
+  \ actions determine how the story unfolds. Stay virtuous or embrace your justified\
+  \ fury.\n\n- 3 different endings available. (in progress)\n- Obtain medals of honor \
+  \ to get 100% in the achievement room. (in progress)\n\n This game is best enjoyed\
+  \ with a full audio experience. \n\nFeaturing:\n\n-  Full audio experience. \n-\
+  \ Stylized visual direction.\n- Exploration mode and minigames!\n\nThis game contains\
+  \ loud noises and covers sensitive topics, including but not limited to: death,\
+  \ homophobia, war, and Posttraumatic Stress Disorder (PTSD).\n\nCREDITS\r\n\n- Audio\
+  \ stock assets by Uppbeat, Pixabay\n- Visual stock assets by Unsplash, Pexels, Pixabay"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMzYwNjk3MC8yMTQ3MTkyMC5qcGc=/original/ec0mYd.jpg
+- https://img.itch.zone/aW1hZ2UvMzYwNjk3MC8yMTQ3MTU4NC5qcGc=/original/%2FCyKve.jpg
+- https://img.itch.zone/aW1hZ2UvMzYwNjk3MC8yMTQ3MTU5My5qcGc=/original/w8GM%2BK.jpg

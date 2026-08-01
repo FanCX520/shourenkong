@@ -1,4 +1,4 @@
-id: kobots
+﻿id: kobots
 title: Kobots
 title_en: Kobots
 cover: https://img.itch.zone/aW1nLzI2OTE1MDA1LnBuZw==/original/GwJxXh.png
@@ -19,9 +19,29 @@ features: []
 links:
 - name: itch.io
   url: https://golen.itch.io/kobots
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=ABeeZee%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Kobots\n\nA Lemmings  inspired game where you pillage treasure\
+  \ using cutting-edge Kobot machines.\n\nKobots was made during  Gamedev.js Jam 2026\
+  \ \n\nHow to Play\n\n Select tool : Click on a tool in the bottom panel to equip\
+  \ it.\n\n Place tool : Hold and drag from a valid empty tile. \n Rope : Can be placed\
+  \ on ceilings or on thin platforms. Hold and drag downwards to extend.\n\n Zipline\
+  \ : Can be placed on floors or walls. Hold and drag sideways to extend. The other\
+  \ end must also attach to a floor or wall.\n\n Fan : Can be placed on any floor.\
+  \ Does not extend.\n\n Toggle tool : Click on a placed tool to turn it on or off.\n\
+  \nTeam\n\n Golen (code, music)\n\n Naika (art)\n\n Mato  (sound)\n\nAbout\n\nMade\
+  \ using  Phaser 3.90 \n\nFull song:  beepbox.co  (jam version  here )\n\nJam version: \
+  \ https://kobots.web.app/  \n\nSource code:  https://github.com/Chocobois/Machine"
+gallery:
+- https://img.itch.zone/aW1hZ2UvNDQ5MzI1MS8yNjkxNTM3MC5wbmc=/original/qTgn%2BA.png
+- https://img.itch.zone/aW1hZ2UvNDQ5MzI1MS8yNjkxNTc0NC5wbmc=/original/dAVAcq.png
+- https://img.itch.zone/aW1hZ2UvNDQ5MzI1MS8yNjkxNTQ0Mi5wbmc=/original/kcGc7k.png
+- https://img.itch.zone/aW1hZ2UvNDQ5MzI1MS8yNjkxNTc1OC5wbmc=/original/HY55U8.png

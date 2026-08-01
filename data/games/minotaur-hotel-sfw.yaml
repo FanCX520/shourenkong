@@ -1,4 +1,4 @@
-id: minotaur-hotel-sfw
+﻿id: minotaur-hotel-sfw
 title: 'Minotaur Hotel: SFW Mode'
 title_en: 'Minotaur Hotel: SFW Mode'
 cover: https://img.itch.zone/aW1nLzEzODQwNzk3LmdpZg==/original/x6FwLk.gif
@@ -19,9 +19,29 @@ features: []
 links:
 - name: itch.io
   url: https://minoh.itch.io/minotaur-hotel-sfw
+  type: itch
+- name: 官网
+  url: http://wiki.minotaur.gay/
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Build 0.7 is here!\n\nDownload it now!\n\n Minotaur Hotel is a\
+  \ gay romance visual novel set in a magical hotel. You will become its new manager\
+  \ and meet the keeper — Asterion, the minotaur from the Greek legend, sentenced\
+  \ by the gods to spend eternity there.\n\n In your mandate as Master of the hotel\
+  \ you will be faced with many choices — treating the minotaur humanely or not, dealing\
+  \ with the hotel’s magical workings and entities, and managing a growing cast of\
+  \ fantastical employees. By sending out teams to explore the valley below the hotel\
+  \ you will find ancient artifacts and mementos, which will reveal more about Asterion’s\
+  \ past and the realm’s history. \n\n The way you treat Asterion and manage the hotel\
+  \ will affect the story, leading to a replayable experience where each playthrough\
+  \ reacts to your play style and reveals different parts of the story. As of Version\
+  \ 0.5, the game has about 500,000 words and will provide you with hours of playtime.\
+  \ \n\nDon't forget to check out our  Wiki  and  Forum .\r\n\n~ Friends ~\n\nIf you\
+  \ want more gay content, check out our and our friends' projects below.\n\n <a href=\"\
+  <a href=\"https://minoh.itch.io/minotaur-hotel\">Minotaur\" class=\"redactor-linkify-object\"\
+  >https://minoh.itch.io/minotaur-hotel\">Minotaur</a> Hotel by Minoh Workshop, Nanoff</a>"

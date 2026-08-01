@@ -1,4 +1,4 @@
-id: steel-frost-demo
+﻿id: steel-frost-demo
 title: Steel Frost [Demo]
 title_en: Steel Frost [Demo]
 cover: https://img.itch.zone/aW1nLzQ4ODU5MTcuanBn/original/6QRrer.jpg
@@ -18,9 +18,21 @@ features: []
 links:
 - name: itch.io
   url: https://vincettiart.itch.io/steel-frost-demo
+  type: itch
+- name: Patreon
+  url: https://www.patreon.com/drybeard
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "This is Demo Version of a NSFW visual novel.  You have to be 18\
+  \ or 20 years older to download this content. \n\n Steel Frost is a story of a bleak sci-fi\
+  \ setting with bright characters, where Jeff, the Service Engineer gets a job at \
+  \ J.A.C.K. warehouse during the season of snow storms. Jeff wasn't in a relationship\
+  \ for a long time. And all he hopes for, is quick money. Although it is possible,\
+  \ working in a giant cold steel container, will bring him the warmest memories of\
+  \ this winter.\n\nDuring the game, click the mouse wheel button, or \"H\", to hide\
+  \ the text box.\n\n-\n\nSupport me on Patreon:  patreon.com/drybeard"

@@ -1,4 +1,4 @@
-id: campo-largo
+﻿id: campo-largo
 title: Campo Largo
 title_en: Campo Largo
 cover: https://img.itch.zone/aW1nLzIzMDMzNDYyLmpwZw==/original/FCdO6v.jpg
@@ -19,9 +19,49 @@ features: []
 links:
 - name: itch.io
   url: https://toledo-art.itch.io/campo-largo
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=EB%20Garamond%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Ko-fi
+  url: https://ko-fi.com/campolargo
+  type: kofi
+- name: Patreon
+  url: https://www.patreon.com/c/campolargovn
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Traducción castellana aquí. \n\nElder Travis Hartley is right on\
+  \ track.\n\nHe's spent the last six months getting accustomed to life as a Mormon\
+  \ missionary in the South American nation of Paraná.\r\n\nNow, however, come two big\
+  \ shifts: he's been reassigned to a small rural town that hasn't hosted missionaries\
+  \ for years — and to train a brand-new missionary. Both big responsibilities.\r\n\
+  \nBundled off on a bus beside his new companion, Elder Hartley has his work cut\
+  \ out for him: getting to know his companion, the local church members, and the\
+  \ town, all while spending ten hours per day in the sweltering January sun trying\
+  \ to find and teach anyone,  anyone , who's interested.\r\n\nHe knows who he is\
+  \ and why he's here. He knows how to be personable, how to preach, how to plan. He's\
+  \ got this. Yeah.\n\nEverything is fine!\n\nThat is, of course, until everything\
+  \ starts to go... off the rails. In unsettling ways. Impossible ways. Ways he can't\
+  \ believe or explain...\n\nNarrative Map\n\n Released,  Not yet released,  Partially\
+  \ released \n\n Prologue \n Branch 1: My Mission \n Route 1: Ciervo \n\n Route \n\
+  \n Branch 2: My Neighbor \n Route 2: Bifurcados \n\n Route \n\nNotes on Content\n\
+  \n Campo Largo is SFW. If it were a film, it would be rated PG-13 for intense themes.\
+  \ More detailed content warnings are presented in the visual novel where applicable.\
+  \ \r\n\n Campo Largo i s a work of fiction that takes inspiration from the author's\
+  \ experiences and research. While some locations, characters, and events are inspired\
+  \ by reality, they have all been composited, anonymized, extrapolated, recontextualized,\
+  \ and/or fictionalized for dramatic effect. \n\n Development is already far advanced.\
+  \ The full text of the visual novel is written, with all art assets complete and\
+  \ coded. Sound effects and music remain to be completed. \n\nCredits\n\n Writing,\
+  \ Sprites, BGs, CGs, Coding : Toledo \n\n Music : ProkoCat , Pico \nOST available\
+  \ on  Bandcamp !\n\n GUI Code : Chocolancer \n\n Code and Consultation : Regoneth\
+  \ , Chocolancer , ErebusWulfe , FVN Discord\n\n Illustrations : Harko  (Christ in\
+  \ Red Robe)\n\n—\n\nFollow Campo Largo on Bluesky for updates!\n\nJoin the project Discord\
+  \ (link on VN Main Menu screen)!\n\nSupport the project via Ko-fi  or Patreon !\n\
+  \n Glossary Suggestion Form \n\n Error/Glitch Report Form \n\n—\r\n\n Stand up against\
+  \ payment processor censorship! \r\n\n Guidance Doc 1  |  Guidance Doc 2"

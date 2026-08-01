@@ -1,4 +1,4 @@
-id: nekojishi
+﻿id: nekojishi
 title: Nekojishi
 title_en: Nekojishi
 cover: https://img.itch.zone/aW1nLzMwNDE2MTIucG5n/original/toJd6i.png
@@ -20,9 +20,45 @@ features: []
 links:
 - name: itch.io
   url: https://studioklondike.itch.io/nekojishi
+  type: itch
+- name: 官网
+  url: http://nekojishi.tw/
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/StudioKlondike
+  type: patreon
+- name: Steam
+  url: http://store.steampowered.com/app/570840
+  type: steam
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "A romance torn between school life and mysterious spirits! \n\n\
+  Born into a religious family, Lin Tian-Liao left his hometown and moved to Taipei\
+  \ to study and follow his dreams, trying to escape the pressures of returning to\
+  \ his family’s temple in the process. His ordinary college life seemed to be going\
+  \ well until suddenly one day his third eye was opened. Liao, now able to see the\
+  \ various spirits and gods in the world, has to deal with his new found powers,\
+  \ his school life, and three particular cats who all want to have a say in his life\
+  \ and his future. \n\nNekojishi is a visual novel about the pressures and consequences\
+  \ of deciding your future in a world of gods and spirits, the position that religion\
+  \ and folklore take in modern society, and three feline beast-men that Liao can’t\
+  \ seem to get out of his room or out of his head!\n\n Note: Nekojishi features same-sex\
+  \ romances and cute cat dudes. \n\n Also check out  Nekojishi Expansion Pack: A\
+  \ Sunny Day ,  Nekojishi Voice Pack - Chinese , and  Nekojishi Original Soundtrack\
+  \ ! \n\nVisit the  klondike.studio  to find out more about our games, and visit \
+  \ store.pawprint.press for Nekojishi merchandise.\n\n Support us on Patreon to see\
+  \ development blogs and support our future work! \n\nAnd be sure to follow Nekojishi\
+  \ on twitter !"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMjQ3NzE1LzExOTA0MTkuanBn/original/i%2BMIQc.jpg
+- https://img.itch.zone/aW1hZ2UvMjQ3NzE1LzExOTA0MjAuanBn/original/omJJdh.jpg
+- https://img.itch.zone/aW1hZ2UvMjQ3NzE1LzExOTA0MjIuanBn/original/X7fLir.jpg
+- https://img.itch.zone/aW1hZ2UvMjQ3NzE1LzExOTA0MjMuanBn/original/33VgoY.jpg
+- https://img.itch.zone/aW1hZ2UvMjQ3NzE1LzExOTA0MjQuanBn/original/WfjVhS.jpg
+- https://img.itch.zone/aW1hZ2UvMjQ3NzE1LzExOTA0MjUuanBn/original/nmJhEU.jpg
+- https://img.itch.zone/aW1hZ2UvMjQ3NzE1LzExOTA0MjcuanBn/original/lm95Yd.jpg
+- https://img.itch.zone/aW1hZ2UvMjQ3NzE1LzExOTA0MjYuanBn/original/tT3QDr.jpg

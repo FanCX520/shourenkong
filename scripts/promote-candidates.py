@@ -47,7 +47,11 @@ def promote(path: Path) -> str | None:
         yaml.safe_dump(data, allow_unicode=True, sort_keys=False, default_flow_style=False),
         encoding="utf-8",
     )
-    path.unlink()
+    try:
+        path.unlink()
+    except OSError as e:
+        # 本地沙箱可能拦截删除（Windows 回收站不可用）；CI 上正常。
+        print(f"警告：已写入 {target.name} 但删除候选失败: {e}", file=sys.stderr)
     return gid
 
 

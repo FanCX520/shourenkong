@@ -1,4 +1,4 @@
-id: transfur-chase
+﻿id: transfur-chase
 title: Transfur Chase
 title_en: Transfur Chase
 cover: https://img.itch.zone/aW1nLzE5ODU4Njc3LmpwZw==/original/%2BDnOhA.jpg
@@ -18,9 +18,38 @@ features: []
 links:
 - name: itch.io
   url: https://ones-k.itch.io/transfur-chase
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Jersey%2025%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Telegram
+  url: https://t.me/NightOfTheWoodsRockBand
+  type: telegram
+- name: Steam
+  url: https://store.steampowered.com/app/814540/Changed/
+  type: steam
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "A simple runner based on the Changed universe. Where you are chased\
+  \ by latex creatures. Will you be able to escape from them? Avoid boxes and all\
+  \ sorts of obstacles.\n\nBoosty :  https://boosty.to/onek_dev/donate \n\nDonation\
+  \ Alert : https://dalink.to/onek_dev  \n https://www.donationalerts.com/r/onek_dev\
+  \  (I will answer in the Telegram channel)\n\nGratitude\n\n \U0001D5B5\U0001D5C2\
+  \U0001D5CB\U0001D5CEs, TeffyDerg  - sprites\n\n Erid/Zahar - mobels\n\n Drimer544\
+  \ - application icon\n\n Orexx - beautiful art\n\n Daniello - Title of the game\n\
+  \n Kastle - Promotion of the game\n\n PIROG, HUMST , Phant -  Music\n\n And others\
+  \ who suggested ideas for projects \n\n  The game uses original assets from the\
+  \ game Changed created by DragonShow \r\n\nIf you have any requests or found a bug,\
+  \ you can submit it here \n\nYou can view information about bugs and requests here\
+  \ \n\nTo launch the game on Android, extract the game from the archive"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMzI1NDYyMC8yMzIxMzMwNS5wbmc=/original/N0dBiE.png
+- https://img.itch.zone/aW1hZ2UvMzI1NDYyMC8yMzIxMzMwNi5wbmc=/original/Ha3Hay.png
+- https://img.itch.zone/aW1hZ2UvMzI1NDYyMC8yMzIxMzMwNy5wbmc=/original/mjbUg0.png
+- https://img.itch.zone/aW1hZ2UvMzI1NDYyMC8yMzIxMzMwOC5wbmc=/original/ipOx4c.png
+- https://img.itch.zone/aW1hZ2UvMzI1NDYyMC8yMzIxMzMwOS5wbmc=/original/Gfn5bj.png
+- https://img.itch.zone/aW1hZ2UvMzI1NDYyMC8yMzIxMzMxMC5wbmc=/original/lwnnps.png

@@ -1,4 +1,4 @@
-id: beek
+﻿id: beek
 title: Beek - Familiar Spirit
 title_en: Beek - Familiar Spirit
 cover: https://img.itch.zone/aW1nLzIwNzc2MzQxLnBuZw==/original/BOJo%2Bb.png
@@ -19,9 +19,46 @@ features: []
 links:
 - name: itch.io
   url: https://studioklondike.itch.io/beek
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Nunito%20Sans%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/StudioKlondike
+  type: patreon
+- name: Steam
+  url: https://store.steampowered.com/app/3586520/Beek_Familiar_Spirit__Remastered
+  type: steam
+- name: Discord
+  url: https://discord.gg/nekojishi
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "A call for help within a mysterious messaging app. Someone lost\
+  \ and wandering through a forest in a faraway place. And their destiny in your hands.\n\
+  \n Beek: How I Became a Familiar Spirit and Everything After That is a text-based\
+  \ narrative experience from the creators of Nekojishi. Featuring dozens of branching\
+  \ paths, multiple endings, and CG's to unlock!\n\n Help Beek seek a way home, and\
+  \ face the darkness of this world with strength and courage.\n\nBeek - Familiar\
+  \ Spirit is playable in English. Traditional Chinese (繁体中文), Simplified Chinese\
+  \ (简体中文), Japanese (日本語), German (Deutsch), and French (Français).\n\n-  Soundtrack\
+  \ also Available \n\n Support us on  Patreon  to see development blogs and support\
+  \ our future work! \n\n Note: \n\nBeek - Familiar Spirit is available for free to\
+  \ download from the App Store and Google Play, however the version available here\
+  \ is DRM-free and includes the purchasable CG pack.\n\nThis game was designed for\
+  \ mobile devices and we recommend you play on one for the best experience. However,\
+  \ certain real-time gameplay mechanics have been modified on the PC/Mac version\
+  \ to account for this."
+gallery:
+- https://img.itch.zone/aW1hZ2UvNTc3NzE1LzIwNzc2Mzg3LnBuZw==/original/s%2Bkpq0.png
+- https://img.itch.zone/aW1hZ2UvNTc3NzE1LzIwNzc2Mzg1LnBuZw==/original/5jjlVa.png
+- https://img.itch.zone/aW1hZ2UvNTc3NzE1LzIwNzc2Mzg0LnBuZw==/original/b%2ByArw.png
+- https://img.itch.zone/aW1hZ2UvNTc3NzE1LzIwNzc2MzgyLnBuZw==/original/UuUJ7k.png
+- https://img.itch.zone/aW1hZ2UvNTc3NzE1LzIwNzc2Mzg2LnBuZw==/original/kw8cBj.png
+- https://img.itch.zone/aW1hZ2UvNTc3NzE1LzIwNzc2MzgwLnBuZw==/original/UPQpih.png
+- https://img.itch.zone/aW1hZ2UvNTc3NzE1LzMwNDE1NDYucG5n/original/R3Kz7y.png
+- https://img.itch.zone/aW1hZ2UvNTc3NzE1LzMwNDE1NDgucG5n/original/hz7tAZ.png

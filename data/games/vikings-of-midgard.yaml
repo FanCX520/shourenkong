@@ -1,4 +1,4 @@
-id: vikings-of-midgard
+﻿id: vikings-of-midgard
 title: Vikings of Midgard
 title_en: Vikings of Midgard
 cover: https://img.itch.zone/aW1nLzQwNDg5MzkucG5n/original/iBiFrl.png
@@ -19,9 +19,39 @@ features: []
 links:
 - name: itch.io
   url: https://fenrir-lunaris.itch.io/vikings-of-midgard
+  type: itch
+- name: 官网
+  url: https://rpg.hamsterrepublic.com/ohrrpgce/Linux_Notes
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "STORY\n\nLong, long ago, the Aesir Gods fought with the primeval\
+  \ Jotun for control of the world. Having won the war, the Aesir set about rebuilding\
+  \ the world to their liking. But building anew upon a flawed foundation is not without\
+  \ its own problems, and an unknowable evil has slipped through the cracks to sow\
+  \ chaos and disorder wherever it goes...\n\nAre you brave enough to take up this\
+  \ quest? Will you have the courage to vanquish evil?\n\nABOUT\n\n Vikings of Midgard\
+  \ is a hybrid of modern and retro-styled RPGs based on those released on the Super\
+  \ Nintendo, created using the OHRRPGCE engine. Built over the course of 15+ years,\
+  \ it was intended to act as the \"face\" of the engine, and to showcase as much\
+  \ as possible of what it could do. Featuring original graphics (by Fenrir-Lunaris)\
+  \ and an original soundtrack (by Artimus Bena), Vikings pays homage to the classic\
+  \ role playing games of the 1990's.\n\nAn expansive world to explore that changes\
+  \ with the player's actions!\n\nA host of horrible fiends and terrible monsters\
+  \ to fight!\n\n10 playable heroes - each with their own unique strengths!\n\nCan't\
+  \ stand random encounters? Turn them off!\n\nLost on what to do next? You've got\
+  \ access to an in-game library of information at your fingertips!\n\nCONTROLS\n\n\
+  Arrow Keys  \n*Move your lead viking on the FIELD\n\n*Move the cursor on menus \n\
+  \n*Pick your target in battle \n\nSPACE or ENTER or CTRL  \n*Investigate the direction\
+  \ you are facing on the FIELD\n\n*Advance character dialogue \n\n*Confirm menu choices\n\
+  \nESC or ALT  \n*Calls up the menu while you are on the FIELD\n\n*Cancels any choice\
+  \ and backs up one step in menus \n\n*Attempt to flee in battle (ESC only!) \n\n\
+  PAUSE  \n*Pauses the game in battle\n\nX \n*Allows you to sprint on the FIELD when\
+  \ held down \n\nF12  \n*Take a screenshot \n\nALT + F4 \n\n*Quit\n\n*NOTE* Mac OS\
+  \ and Linux versions are EXPERIMENTAL and provided as-is with little support. For\
+  \ further notes on Linux, please see  https://rpg.hamsterrepublic.com/ohrrpgce/Linux_Notes\
+  \ \n\n This is a free game, but you have the option of paying a dollar if you wish!"

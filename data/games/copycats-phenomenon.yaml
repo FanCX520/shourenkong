@@ -1,4 +1,4 @@
-id: copycats-phenomenon
+﻿id: copycats-phenomenon
 title: Copycat's Phenomenon
 title_en: Copycat's Phenomenon
 cover: https://img.itch.zone/aW1nLzI1MDU4ODMuanBn/original/Ml%2Fi%2Bc.jpg
@@ -19,9 +19,21 @@ features: []
 links:
 - name: itch.io
   url: https://reludum.itch.io/copycats-phenomenon
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Roboto%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "You're an elite member of the search-and-rescue team sent by \"\
+  Black Ravens\" security organization. Your squad's task is to collect information\
+  \ and find any survivors.\n\nWelcome to the \"Envelope\" research institute.\n\n\
+  Copycat's Phenomenon is an experimental multiplayer pseudo-action horror game that\
+  \ I've been developing since February, 2019.\n\n Features \n\nCreepy atmosphere.\
+  \ What was that shriek?\n\nBuggy multiplayer. Play with your friends.\n\nDark environments.\
+  \ Use any available light sources.\n\nPlayer classes and characters. Each has their\
+  \ own items and advantages.\n\nRandomly generated maps. Each time new facility."

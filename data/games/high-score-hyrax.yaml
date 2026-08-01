@@ -1,4 +1,4 @@
-id: high-score-hyrax
+﻿id: high-score-hyrax
 title: High Score Hyrax
 title_en: High Score Hyrax
 cover: https://img.itch.zone/aW1nLzI0MzEwNjEyLnBuZw==/original/tL87Ma.png
@@ -20,9 +20,40 @@ features: []
 links:
 - name: itch.io
   url: https://chmron.itch.io/high-score-hyrax
+  type: itch
+- name: 官网
+  url: https://bsky.app/profile/chmron.bsky.social
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "The web version might be slower to run and choppier than the downloadable\
+  \ version - as such, it isn't the ideal way to experience the story.\r\n\n -------\
+  \ \r\n\nThanks to a little bit of skill, and whole lot of dumb luck, Saul has found\
+  \ himself in the middle of the biggest online shitstorm of the century.\n\nWell,\
+  \ that's an exaggeration - but it's certainly how he feels about it. After only\
+  \ a month of speedrunning an old game by the name of  Bomber Bros. 3 , he's already\
+  \ managed to secure a spot near the top of the game's leaderboards thanks to an\
+  \ absurdly lucky run - and has quickly gone from a nobody, to one of the most widely\
+  \ discussed figures in the game's community.  \n\nBut as rumors swirl, and the game's\
+  \ top runners chat and gossip amongst themselves wondering if his run was cheated\
+  \ or not, Saul attempts to remain headstrong, and ignore all the noise...\n\nBecause\
+  \ Saul has a date - and with quite the handsome deer at that!\n\nAnd, for once in\
+  \ his life, he's determined not to fuck it up - no matter how many times he'll have\
+  \ to go back in time to retry.\n\n...wait, did I forget to mention that he has time\
+  \ travel powers?\n\n ------ \n\n High Score Hyrax is a gay visual novel made for\
+  \ the  Novembuck 2025 Game Jam . It contains 12,700 words, with a focus on player\
+  \ choice  - at any given moment, Saul can go back in time to his previous choices,\
+  \ allowing for him to fix his mistakes, and to open up new choices based on information\
+  \ learned in the future. \n\nAs such,  the length of playthroughs can vary quite\
+  \ a bit - from roughly 15 minutes up to about an hour. Currently, the game has three\
+  \ endings , many branching dialogue trees , and one (very) eligible deer bachelor\
+  \ .\n\nAll visual assets and writing are made by Chmron, who you can find on Bluesky\
+  \ .\n\nThe base used for the phone is  Nighten's fantastic  Yet Another Phone project!"
+gallery:
+- https://img.itch.zone/aW1hZ2UvNDA3ODQ0Ny8yNDMxMTQ4MC5wbmc=/original/%2FcFg1x.png
+- https://img.itch.zone/aW1hZ2UvNDA3ODQ0Ny8yNDMxMTQ4MS5wbmc=/original/W3pnmi.png
+- https://img.itch.zone/aW1hZ2UvNDA3ODQ0Ny8yNDMxMTQ3OS5wbmc=/original/KbTe8w.png

@@ -1,4 +1,4 @@
-id: next-step-follow-through
+﻿id: next-step-follow-through
 title: 'Next Step: Follow Through'
 title_en: 'Next Step: Follow Through'
 cover: https://img.itch.zone/aW1nLzE5MjQxMDQzLnBuZw==/original/7DWdwX.png
@@ -19,9 +19,27 @@ features: []
 links:
 - name: itch.io
   url: https://joshfoxden.itch.io/next-step-follow-through
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Itim%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Ko-fi
+  url: https://ko-fi.com/joshfoxden
+  type: kofi
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "After a year of navigating the challenges of a long-distance relationship,\
+  \ Wallace and Deacon finally reunite for their long-awaited first date.  As their\
+  \ time together unfolds, they quickly discover that love, no matter how strong,\
+  \ may not always go as planned...\n\n- Written and Illustrated - \n\n JoshFoxDen\
+  \ \n\n- Editors -\n\n Montanamations \n\n Gabriel Joy Reid \n\nIf you enjoyed the\
+  \ VN, consider supporting me over on  Ko-fi . Any help is appreciated!"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMjA4NDc1NS8xOTI0MTA1My5wbmc=/original/U%2BUQiZ.png
+- https://img.itch.zone/aW1hZ2UvMjA4NDc1NS8xOTI0MTA1NS5wbmc=/original/ASrjOA.png
+- https://img.itch.zone/aW1hZ2UvMjA4NDc1NS8xOTI0MTA4MC5qcGc=/original/hYFDHv.jpg
+- https://img.itch.zone/aW1hZ2UvMjA4NDc1NS8xOTI0MTA2MC5wbmc=/original/QtKOl8.png

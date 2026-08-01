@@ -1,4 +1,4 @@
-id: jenny-game
+﻿id: jenny-game
 title: JENNY
 title_en: JENNY
 cover: https://img.itch.zone/aW1nLzIzMDUyODYzLnBuZw==/original/Qn5ocy.png
@@ -18,9 +18,47 @@ features: []
 links:
 - name: itch.io
   url: https://awk.itch.io/jenny-game
+  type: itch
+- name: Discord
+  url: https://discord.gg/6njP5SVUS2
+  type: discord
+- name: 官网
+  url: https://bsky.app/profile/jennyjeungman.bsky.social
+  type: official
+- name: Steam
+  url: https://store.steampowered.com/app/3293420/JENNY/
+  type: steam
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "\"Unauthorized protective equipment constitutes obstruction of\
+  \ suffering. Regulation requires unmitigated harm.\" \n\n JOIN THE DISCORD \n\n\
+  Jenny Jeungman's little town buckles under bureaucracy and post-lapinist architecture\
+  \ more aligned with the tastes of demons than rabbits. Now she's caught in a system\
+  \ that rewrites reality and it's up to HER (you) to stop this lunacy!\n\n Say hi,\
+  \ Jenny! \n Die. \n\nGAMEPLAY\n\nPut on your HAT , swing your bat and steal every\
+  \ gun you see. Fight demons, ghosts, salarymen, and bureaucracy itself in this manic\
+  \ hat-and-bat twin-stick shooter. If it breathes, it breaks.\n\n Every weapon is\
+  \ yours, the only the limit is your two opposable thumbs: Pistols, shotguns, chainsaws,\
+  \ grenade launchers, mine layers, flamethrowers , and who knows what else!\n\nENEMIES\n\
+  \nThe demo alone has 19 unique enemies . Honestly I'm creeped out by how fine they\
+  \ are living under a demonic directorate, but the ghosts are pretty spooky too!\
+  \ \n\n Sardine Salarymen filling your suffering in triplicate. \n\n Skating Punk\
+  \ Skunks who shred rails and crack skulls just as hard as you do. \n\n Tonguey Ghosts\
+  \ that lick you senseless and possess all items of affection. \n\n Infernal Express\
+  \ , a giant flaming train boss powered by demonic anger and the anxiety of missed\
+  \ schedules.\n\nAnd plenty more, the Office of Hostile Affairs has... unlimited\
+  \ budget \n\nLEVELS\n\nBlast through levels in the underworld brutalism of the Current\
+  \ Network subway, the deranged wilds of Steelwood Sticks and... that’s all for the\
+  \ demo, but THERE WILL BE MORE!\n\n Each level can be replayed under kafkaesque\
+  \ Edicts - tribunal rules that twist reality, like making enemies explode, doubling\
+  \ projectiles or even making it rain indoors .\n Push into Jenny’s world not by\
+  \ grinding resources, but by getting good .\n\nART & MUSIC\n\nEvery pixel, every\
+  \ note crafted by Impossible Things who call themselves humans, using enigmatic\
+  \ tools known as hands, eyes and at least one functional ear, a fleshy ebb and flow\
+  \ that no mere words can capture.\n\nThe final game might just change the very fabric\
+  \ of reality, more research is needed to evaluate its potential impact. It might\
+  \ be THE FINAL GAME\n\nLINKS\n\nTwitter/X - @JennyJeungman \n Bluesky - @jennyjeungman.bsky.social"

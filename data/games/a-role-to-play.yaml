@@ -1,4 +1,4 @@
-id: a-role-to-play
+﻿id: a-role-to-play
 title: A Role to Play
 title_en: A Role to Play
 cover: https://img.itch.zone/aW1nLzEwNTAxMDY3LnBuZw==/original/noOdhM.png
@@ -19,9 +19,39 @@ features: []
 links:
 - name: itch.io
   url: https://echoproject.itch.io/a-role-to-play
+  type: itch
+- name: 官网
+  url: https://soundcloud.com/abyuse
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/EchoGame
+  type: patreon
+- name: Discord
+  url: https://discord.gg/7qeEx4QUhu
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Yet Another Gay Visual Novel from Echo Project \n\nIn A Role to\
+  \ Play, an armored fellow of varying potential names must escort a princess through\
+  \ a besieged kingdom to safety, accompanied by several colorful, non-human companions. \n\
+  \nOf course, that's only half the story.\n\nOur real protagonist, Danny, has spent\
+  \ the past year recovering from a life-threatening incident that left him severely\
+  \ injured. Nearing his 21st birthday, and with some pressuring from his father,\
+  \ he leaves the solitude of his home to meet up with a local group of tabletop gamers\
+  \ at his town's library. A newcomer to tabletop, Danny finds that his new friends\
+  \ are about as unusual as the characters they play in-game.\n\nUltimately, ARtP\
+  \ is a gay, branching visual novel about roleplay, identity, and escapism. There\
+  \ are three main \"routes\" for this story, with each route being associated with\
+  \ a certain character. Those familiar with other Echo Project titles (Echo, Adastra, \
+  \ Arches) will be right at home with this framework.\n\nA narrative that explores\
+  \ escapism, roleplaying, and all the weird gay stuff that goes with it\n\nTwo distinct\
+  \ art styles separating roleplay from reality\n\nThree routes with varying choices\
+  \ for replayability\r\n\nOriginal soundtrack by Abyuse , Anthemics , and Hop-skip\
+  \ and the Chewtoys \r\n\nUpdates via itch.io\n\nThough this project is not supported\
+  \ by Patreon funds, you can still support other Echo Project content on Patreon \
+  \ HERE !\r\n\nAnd finally, for more Echo Project games media, discussion, and fan\
+  \ works, the Echo Project community discord can be found  HERE !"

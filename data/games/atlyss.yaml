@@ -1,4 +1,4 @@
-id: atlyss
+﻿id: atlyss
 title: ATLYSS
 title_en: ATLYSS
 cover: https://img.itch.zone/aW1nLzEzMzQ0NjU3LnBuZw==/original/BFbQ0n.png
@@ -28,9 +28,20 @@ features: []
 links:
 - name: itch.io
   url: https://kiseff.itch.io/atlyss
+  type: itch
+- name: Patreon
+  url: https://www.patreon.com/Kiseff?fan_landing=true
+  type: patreon
+- name: Discord
+  url: https://discord.gg/vScP5yUbtk
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+gallery:
+- https://img.itch.zone/aW1hZ2UvMTEwODQ0MC8xNjczODE0NC5wbmc=/original/Z70jwM.png
+- https://img.itch.zone/aW1hZ2UvMTEwODQ0MC8xNjA0MTUzMC5wbmc=/original/16BkKf.png
+- https://img.itch.zone/aW1hZ2UvMTEwODQ0MC8xMzM0Njg3Ny5wbmc=/original/hlETzm.png

@@ -1,4 +1,4 @@
-id: alteredblood
+﻿id: alteredblood
 title: ALTEREDBLOOD+ [DEMO]
 title_en: ALTEREDBLOOD+ [DEMO]
 cover: https://img.itch.zone/aW1nLzI2NDI0NjE4LnBuZw==/original/9iQbOj.png
@@ -17,9 +17,25 @@ features: []
 links:
 - name: itch.io
   url: https://trueworldstudios.itch.io/alteredblood
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Pixelify%20Sans%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Steam
+  url: https://store.steampowered.com/app/4634350/ALTEREDBLOOD_Demo/?utm_source=itch&utm_medium=owned&utm_campaign=demo_launch
+  type: steam
+- name: Discord
+  url: https://discord.gg/wEEgSQ3qyp
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "https://store.steampowered.com/widget/4318080/\n\n From the UNYIELDER\
+  \ developers: \n\nALTEREDBLOOD+ [AB+] \n[EARLY DEMO]\n\nSPLATTER the blood of your\
+  \ enemies, SOAK in their blood to AWAKEN your weapons and abilities, bring directionality\
+  \ to your ultraviolence in ALTEREDBLOOD+, a Movement Shooter/ Platformer.\n\n In\
+  \ a megastructure which has consumed the universe, Human remnants survive, addicted\
+  \ to her blood.\n\nEmbody her Reaper, guide humanity to extinction."

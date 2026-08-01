@@ -1,4 +1,4 @@
-id: murder-mystery
+﻿id: murder-mystery
 title: The Case of the Serialized Killer
 title_en: The Case of the Serialized Killer
 cover: https://img.itch.zone/aW1nLzcwOTcwMTQucG5n/original/XuGe3m.png
@@ -20,9 +20,35 @@ features: []
 links:
 - name: itch.io
   url: https://alexisroyce.itch.io/murder-mystery
+  type: itch
+- name: 官网
+  url: https://www.thedarkpiano.com/
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/alexisroyce
+  type: patreon
+- name: Steam
+  url: https://store.steampowered.com/app/2451730
+  type: steam
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "When a popular illustrator is found dead, disgraced demonologist\
+  \ Harold Ludicael is hired to summon her ghost. Ghosts are the one thing he can't\
+  \ summon, but with sharp insight, perhaps he can solve the mystery, and resurrect\
+  \ the most important thing: \n\nHis career.\n\nWe hope you enjoy our Edwardian-inspired\
+  \ visual novel with creeping monsters, summoning magic, and a cast with Queer main\
+  \ characters. It has:\n\n20,000 words/about 3 hours of playtime\n\nPoint & Click\
+  \ Investigation\n\nTraditionally painted watercolor characters and locations\n\n\
+  A journal which keeps track of a colorful list of suspects and lore\n\nA content\
+  \ warning document\n\nA variable set of bad endings, and one true ending, depending\
+  \ on which suspect you choose!\n\nShortlisted in the judge ranking, and ranked #2\
+  \ out of 133 in the public voting for The Spooktober 3rd Annual Visual Novel Game\
+  \ Jam!\n\nProject head, Writing, Art: Alexis Royce \n\nWriting: Tsushi \n\nCoding,\
+  \ Photography, Editing: Cammie \n\nMusic: Nicolas Gasparini (Myuu)\n\nFor more misadventures\
+  \ with Hawley and Harry:\n\n <a href=\"<a href=\"https://alexisroyce.itch.io/hoping-this-finds-you-well\"\
+  >Hoping\" class=\"redactor-linkify-object\">https://alexisroyce.itch.io/hoping-this-finds-you-well\"\
+  >Hoping</a> This Finds You Well by AlexisRoyce</a>"

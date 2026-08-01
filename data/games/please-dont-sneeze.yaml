@@ -1,4 +1,4 @@
-id: please-dont-sneeze
+﻿id: please-dont-sneeze
 title: Please Don&#039;t Sneeze!
 title_en: Please Don&#039;t Sneeze!
 cover: https://img.itch.zone/aW1nLzE1OTQ2MTIxLnBuZw==/original/F29Dag.png
@@ -20,9 +20,22 @@ features: []
 links:
 - name: itch.io
   url: https://kalamosgames.itch.io/please-dont-sneeze
+  type: itch
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Please Don't Sneeze!\n\nPlay a cute, short, gay visual novel about\
+  \ trying to avoid sneezing to not scare away your blind date.\n\nHay fever sufferer\
+  \ Jamie forgets to take his medicine the morning before his date. Can he steer the\
+  \ date away from any risky pollen to finally get a date that ends in success?\n\n\
+  Make smart choices on the date to make sure it lasts as long as possible for your\
+  \ date (Alexander) to get to know you.\n\nMade for  #BlossomVNJam \n\nFeatures\n\
+  \n4 endings\r\n\n~2k wordcount, around 10 minutes of gameplay\r\n\nStreaming/recording\
+  \ OK!\n\nFeedback is appreciated. Thanks for playing.\n\nmusic- Sonu"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMjY3NDc4MC8xNTk0NTQ3Ni5wbmc=/original/CJSU8K.png
+- https://img.itch.zone/aW1hZ2UvMjY3NDc4MC8xNTk0NTQ3OS5wbmc=/original/cvroDM.png
+- https://img.itch.zone/aW1hZ2UvMjY3NDc4MC8xNTk0NTQ4MS5wbmc=/original/P38BEz.png

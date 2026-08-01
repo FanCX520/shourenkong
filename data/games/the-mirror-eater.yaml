@@ -1,4 +1,4 @@
-id: the-mirror-eater
+﻿id: the-mirror-eater
 title: The Mirror Eater
 title_en: The Mirror Eater
 cover: https://img.itch.zone/aW1nLzIyMDQyMDc4LnBuZw==/original/tDZvT0.png
@@ -19,9 +19,26 @@ features: []
 links:
 - name: itch.io
   url: https://popularfront.itch.io/the-mirror-eater
+  type: itch
+- name: Patreon
+  url: https://www.patreon.com/PopFront
+  type: patreon
+- name: 官网
+  url: https://bsky.app/profile/projectulysses.bsky.social
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "A QUIET, FLORAL OCCUPATION \n\nAn unprompted homecoming brings\
+  \ far more heartache than it should.\n\n TME acts as a standalone prequel to Splendor\
+  \ & Misery and Farewell Intervale. \n\nYou can support our work on  Patreon ! \n\
+  \nArt, coding, bgs, & writing by Lajos \n\n Part 1: \"HAPPENS\" – RELEASED 25.4.2024\
+  \ UPDATED 01.09.2024\n\nTME 2.0  (REDUX) – RELEASED 08.07.2025 \n\n TME 2.1  (REDUX)\
+  \ – RELEASED 30.12.2025 \n\n TME 2.1 Android Port – RELEASED 15.01.2026"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMjU2MjU1Mi8yMjA0MjA0Mi5qcGc=/original/HVeIZp.jpg
+- https://img.itch.zone/aW1hZ2UvMjU2MjU1Mi8yMjA0MjA0My5qcGc=/original/%2F24YSG.jpg
+- https://img.itch.zone/aW1hZ2UvMjU2MjU1Mi8yMjA0MjA0MS5qcGc=/original/U6fPlE.jpg

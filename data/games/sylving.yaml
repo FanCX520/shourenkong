@@ -1,4 +1,4 @@
-id: sylving
+﻿id: sylving
 title: Sylving
 title_en: Sylving
 cover: https://img.itch.zone/aW1nLzIxMjAwOTk1LnBuZw==/original/ifM0Yl.png
@@ -20,9 +20,24 @@ features: []
 links:
 - name: itch.io
   url: https://drakita.itch.io/sylving
+  type: itch
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "ABOUT \n\nSylving is a furry visual novel with romance, adventure,\
+  \ drama, action and comedy. Travel to another world where different anthropomorphic\
+  \ people live, where a long history of conflict has been going between the Dyr,\
+  \   Udyr and Eldor races for centuries, but not without reasons. You'll meet many\
+  \ different characters and learn more about this world, but not everyone is what\
+  \ they seem to be at first glance. \n\nSTATUS: vers. 0.4 Beta\n\nThis is a mostly-finished\
+  \ version of the chapter, having all the new characters and the story ready to play.\
+  \ most of the new backgrounds are still unfinished."
+gallery:
+- https://img.itch.zone/aW1hZ2UvMTcxNTczOS8xNTE1OTc5OS5wbmc=/original/Vy6OdX.png
+- https://img.itch.zone/aW1hZ2UvMTcxNTczOS8yMTIwMDk4NS5wbmc=/original/BItyAz.png
+- https://img.itch.zone/aW1hZ2UvMTcxNTczOS8xNTE1OTgwOC5wbmc=/original/tw6OGZ.png
+- https://img.itch.zone/aW1hZ2UvMTcxNTczOS8yMTIwMDk4Ni5wbmc=/original/ZPj2Wn.png
+- https://img.itch.zone/aW1hZ2UvMTcxNTczOS8yMTIwMDk4NC5wbmc=/original/vyo9cr.png

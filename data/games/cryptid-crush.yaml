@@ -1,4 +1,4 @@
-id: cryptid-crush
+﻿id: cryptid-crush
 title: Cryptid Crush
 title_en: Cryptid Crush
 cover: https://img.itch.zone/aW1nLzc3ODE1ODcucG5n/original/SQWndt.png
@@ -19,9 +19,33 @@ features: []
 links:
 - name: itch.io
   url: https://drowsy-drake-studios.itch.io/cryptid-crush
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Grandstander%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/DrowsyDrake
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Cryptid Crush is a TTRPG inspired  Monster Visual Novel with eldritch\
+  \ elements! \n\nCheck out our  website !\n\nHaunted. Cursed. Single.\n\nYou arrive\
+  \ in the seaside town of Longhope surrounded by monsters of urban myth- including\
+  \ your Mothman best friend, Atlas, and Jamie, the wingless Jersey Devil. Test your\
+  \ luck in love and life as you form bonds with the denizens (living, dead, and demonic)\
+  \ of Longhope.\n\nCryptid Crush will feature at  least  FIVE monster singles, and\
+  \ will receive updates with new content every few months!\n\n Major thanks to our\
+  \ playtesters, friends and folk heroes like you! \n\nhttps://www.patreon.com/platform/iframe?widget=become-patron-button&redirectURI=https%3A%2F%2Fitch.io%2Fgame%2Fedit%2F815590&creatorID=19966246"
+gallery:
+- https://img.itch.zone/aW1hZ2UvODE1NTkwLzEwNjEzOTAyLnBuZw==/original/Pbqs9Y.png
+- https://img.itch.zone/aW1hZ2UvODE1NTkwLzE0NTAxMDUyLnBuZw==/original/OrT4TR.png
+- https://img.itch.zone/aW1hZ2UvODE1NTkwLzEwNjEzOTE3LnBuZw==/original/791O4c.png
+- https://img.itch.zone/aW1hZ2UvODE1NTkwLzEwNjEzODk1LnBuZw==/original/OpAExw.png
+- https://img.itch.zone/aW1hZ2UvODE1NTkwLzE0NTAxMDQ5LnBuZw==/original/IZlyPI.png
+- https://img.itch.zone/aW1hZ2UvODE1NTkwLzE0NTAxMDYxLnBuZw==/original/7FyGAH.png
+- https://img.itch.zone/aW1hZ2UvODE1NTkwLzEwNjEzOTA5LnBuZw==/original/kSmecI.png
+- https://img.itch.zone/aW1hZ2UvODE1NTkwLzEwNjEzODk4LnBuZw==/original/CCt3q%2B.png

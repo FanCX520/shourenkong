@@ -1,4 +1,4 @@
-id: tnls-game
+﻿id: tnls-game
 title: Those NPC&#039;s Love Stories - Bara Gay RPG
 title_en: Those NPC&#039;s Love Stories - Bara Gay RPG
 cover: https://img.itch.zone/aW1nLzIyMzA1OTQ0LnBuZw==/original/Lc16SX.png
@@ -18,9 +18,44 @@ features: []
 links:
 - name: itch.io
   url: https://fymm-game.itch.io/tnls-game
+  type: itch
+- name: Steam
+  url: https://store.steampowered.com/app/3330920/NPC/
+  type: steam
+- name: 官网
+  url: https://www.fymmg.com/formcenter
+  type: official
+- name: Discord
+  url: https://discord.gg/7rjPtqW6U3
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "\"This is a Heartwarming Bromance Role-Playing Game.\" \n\nStory\n\
+  \n After graduating and doing nothing at home, your dad kicks you out to the neighboring\
+  \ town to help your childhood neighbor, Jimmy, prepare a stall for the fireworks\
+  \ festival. In this town, there are handsome people who have appeared in others'\
+  \ stories. This time, you’ll create stories just for them \r\n\n \"Every character\
+  \ has their own challenges, but the stories stay warm and uplifting.\" \n\nGameplay\n\
+  \n Leisurely Life or Passionate Romance \nThis is a linear game where you’ll spend\
+  \ a few days in the town. During these days, you can relax and enjoy the slow pace\
+  \ of life and dive into a romance story with these NPCs.\n\n Time System \nThe game\
+  \ features six time periods: early morning, morning, afternoon, evening, night,\
+  \ and late night. Moving around the map doesn’t advance time, only events will.\
+  \ (Like Dead Dating)\n\n Explore the Town\n The game features a side-scrolling map\
+  \ with limited areas to explore. Within this town, there are five potential romantic\
+  \ interests. Can you win the heart of your chosen one?\n\nSFW/NSFW Switch\nThe game\
+  \ allows switching between SFW and NSFW modes without affecting the storyline, only\
+  \ altering certain dialogues and CG images.\n\nRomanceable Characters\n\nSpecial\
+  \ Story Characters\n\nCharacters from Dead Dating who are connected to these NPCs\
+  \ will make a cameo appearance in the storyline.\n\nBuilt-in Event Tree\n\nYou can\
+  \ check the event tree for all the major events in the game, which allows you to\
+  \ know that you missed a major event, but how to get to that event is on your own.\n\
+  \n Those NPC's Love Stories N.M DLC & Demo by Mr.Ryu \r\n\n System Requirements\
+  \ System: \n PC: Windows 10 (64bit) | Mac 10.13+ (64bit) |  Memory: 8 GB RAM | Storage:\
+  \ 4 GB\nCloud Save support | itch app request | \n Gamepad support. (Xbox Controller\
+  \ recommended)\n\n Do you need help? Mod or game guide? Come to our Discord!  \n\
+  \n Twitter |  Discord  |  Sponsor database \r\n Other games"

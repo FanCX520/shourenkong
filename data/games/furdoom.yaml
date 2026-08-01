@@ -1,4 +1,4 @@
-id: furdoom
+﻿id: furdoom
 title: Hexabun - FurDoom
 title_en: Hexabun - FurDoom
 cover: https://img.itch.zone/aW1nLzE4OTM4MDk5LnBuZw==/original/B0VwaN.png
@@ -15,9 +15,20 @@ features: []
 links:
 - name: itch.io
   url: https://korp-kat.itch.io/furdoom
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=ABeeZee%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/c/korpkat
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Furdoom is an in-development DOOM Mod made by Korp for the Zandronum\
+  \ source port that turns all the evil scary demons into adorably thick anthropomorphic\
+  \ furries. \n Currently only available for The Ultimate Doom.\n\n Support the project\
+  \ to get constant updates and monthly betas here!\n https://www.patreon.com/c/korpkat"

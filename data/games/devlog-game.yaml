@@ -1,4 +1,4 @@
-id: devlog-game
+﻿id: devlog-game
 title: DevLog - A Post-Modern College Experience
 title_en: DevLog - A Post-Modern College Experience
 cover: https://img.itch.zone/aW1nLzIwNDEwOTM1LnBuZw==/original/v0eM5m.png
@@ -16,9 +16,33 @@ features: []
 links:
 - name: itch.io
   url: https://devlog-game.itch.io/devlog-game
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=DM%20Serif%20Text%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Discord
+  url: https://discord.gg/SDUEwZE5qG
+  type: discord
+- name: Patreon
+  url: https://www.patreon.com/c/devlogcollegegame/posts
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Play as Dev, a human new to the all saurian Cretaceous College\
+  \ of Computing!He never thought he would actually be accepted into CCC when he applied\
+  \ - much less be offered a full ride. From here on out, Dev's choices will impact\
+  \ who he meets and his eventual fate in this whole new world - and the fates of\
+  \ those around him, as well. \n\nInspired by Snoot Game and I Wani Hug That Gator,\
+  \ DevLog is a bespoke visual novel aiming for a 2026 release. We are currently on\
+  \ Alpha 0.4.3, encompassing the first four chapters of the game.\n\n Discord \n\n\
+  \ Patreon \n\n X \n\nWe thank you all for your support! :)"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMzM0ODgyMy8yMDQxMTAzMi5wbmc=/original/AZO4bp.png
+- https://img.itch.zone/aW1hZ2UvMzM0ODgyMy8yMDQxMTAyMC5wbmc=/original/KE4UbO.png
+- https://img.itch.zone/aW1hZ2UvMzM0ODgyMy8yMDQxMTA1OS5wbmc=/original/w%2FWWkv.png
+- https://img.itch.zone/aW1hZ2UvMzM0ODgyMy8yMDQxMTA0MS5wbmc=/original/UCkBwF.png
+- https://img.itch.zone/aW1hZ2UvMzM0ODgyMy8yMDQxMTA0NC5wbmc=/original/%2Byi8lg.png

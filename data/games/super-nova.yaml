@@ -1,4 +1,4 @@
-id: super-nova
+﻿id: super-nova
 title: Super-Nova
 title_en: Super-Nova
 cover: https://img.itch.zone/aW1nLzE1NzA2MDQzLmpwZw==/original/O%2BBWy8.jpg
@@ -19,9 +19,48 @@ features: []
 links:
 - name: itch.io
   url: https://rotshild.itch.io/super-nova
+  type: itch
+- name: Patreon
+  url: https://www.patreon.com/SuperNovaVN
+  type: patreon
+- name: 官网
+  url: https://bsky.app/profile/super-nova.bsky.social
+  type: official
+- name: Discord
+  url: https://discord.gg/sz2RkxNfPv
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Super-Nova is a superhero-themed visual novel set in the fictional\
+  \ city of Nova. The story follows Nick, a college junior who unexpectedly finds\
+  \ himself drawn into a world of superpowered heroes and villains. He has large shoes\
+  \ to fill as he takes over the role of one of the city's most famous superheroes\
+  \ - Templar. After joining a superhero team, the raccoon will be able to choose\
+  \ a mentor to guide him as they tackle all that Nova City has to offer. \n\nThe\
+  \ visual novel will branch into three routes based on the choice of mentor: the\
+  \ mysterious fox Mnesis; the cheerful, enthusiastic tiger Superfang; and the prickly,\
+  \ brash Baron-in-Black. Each route will explore a different facet of the story and\
+  \ world as you forge a stronger bond with your chosen superhero and uncover more\
+  \ of what lies beneath their masks.\n\n Super-Nova is a story containing mature\
+  \ subject matter and is therefore not suitable for minors. \n\n____________________________________________________________\n\
+  \nIf you wish to support the project, please consider supporting us on Patreon .\
+  \ By doing so, you will get early access to builds, as well as a variety of additional\
+  \ perks. \n\nFor information about game updates and more, follow Super-Nova's Twitter\
+  \  or Blue Sky pages. Alternatively, join our Discord server!\n\n____________________________________________________________\n\
+  \nCredits\n\nCreator, writer, coder - Rotshild . \n\nLead Artist -  Swaggy Tamago\
+  \ .\n\nLead Composer  -  Hop-Skip & The Chewtoys .\r\n\nUI and Animations -  Vanillabell\
+  \ . \r\n\nAdditional Art -  Gabi .\r\n\nProgramming Support -  GruntSteel . \r\n\
+  \n____________________________________________________________\n\nIf you enjoy Super-Nova,\
+  \ check out some other cool games from our friends!\n\n <a href=\" Super-Nova\"\
+  \ class=\"redactor-linkify-object\">https://rotshild.itch.io/super-nova\">Super-Nova\
+  \ by Rotshild, Swaggy Tamago</a>"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMTIxMzc5My8xMzEzMzY0Ny5wbmc=/original/teoYJc.png
+- https://img.itch.zone/aW1hZ2UvMTIxMzc5My84NDU1MzQxLnBuZw==/original/kNI6K6.png
+- https://img.itch.zone/aW1hZ2UvMTIxMzc5My8xMzEzMzY0Ni5qcGc=/original/l0QYWH.jpg
+- https://img.itch.zone/aW1hZ2UvMTIxMzc5My84NDU1MzQzLnBuZw==/original/H52I%2F8.png
+- https://img.itch.zone/aW1hZ2UvMTIxMzc5My8xMzEzMzY0OC5wbmc=/original/5EyIDO.png

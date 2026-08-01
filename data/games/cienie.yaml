@@ -1,4 +1,4 @@
-id: cienie
+﻿id: cienie
 title: Cienie
 title_en: Cienie
 cover: https://img.itch.zone/aW1nLzE0NTEyNDM1LnBuZw==/original/uNYfFF.png
@@ -19,9 +19,36 @@ features: []
 links:
 - name: itch.io
   url: https://teamcienie.itch.io/cienie
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Anonymous%20Pro%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Discord
+  url: https://discord.gg/EYrBc3JAY6
+  type: discord
+- name: Patreon
+  url: https://www.patreon.com/TeamCienie
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Cienie ( CHAIN -yay ) is a mystery-thriller visual novel with supernatural\
+  \ elements set in the Polish town of Sypniewo. You follow Tomasz Tyszko, a law university\
+  \ dropout who now interns at a private investigation agency run by Markus Waldner.\
+  \ After five individuals are reported missing in the town, Tom tries to unravel\
+  \ the mystery behind the disappearances while navigating the complexities of relationships\
+  \ and adulthood.\n\nThe story is mostly linear with no strictly-defined routes,\
+  \ though your choices throughout the game can affect Tom's relationship with various\
+  \ characters and lead to varied outcomes.\n\n This is an LGBT+, furry visual novel\
+  \ with mature and adult themes such as violence and mental issues. This game is\
+  \ not suitable for minors.\n\n____ CREDITS ____ \r\n\nCreators: ArmoredStranger\
+  \  and BenBinturong \nEditor: Rotshild \nCG and Supporting Illustration Artists:\
+  \ Nopan , BenBinturong and  Ku \n Sprite artists: ArmoredStranger  and  BenBinturong\
+  \ \n Lead programmer: ArmoredStranger \nSupport programmer:  BenBinturong \nLead\
+  \ composer: BenBinturong \n\nIf you enjoyed our VN please consider supporting us\
+  \ on Patreon, and consider checking out a project from our editor, below.\n\n <a\
+  \ href=\" Super-Nova\" class=\"redactor-linkify-object\">https://rotshild.itch.io/super-nova\"\
+  >Super-Nova by Rotshild, Swaggy Tamago</a>"

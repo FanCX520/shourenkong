@@ -1,4 +1,4 @@
-id: sweet-leaves
+﻿id: sweet-leaves
 title: Sweet Leaves
 title_en: Sweet Leaves
 cover: https://img.itch.zone/aW1nLzI0MjU0OTQyLnBuZw==/original/bUe3e5.png
@@ -18,9 +18,51 @@ features: []
 links:
 - name: itch.io
   url: https://sweetleaves.itch.io/sweet-leaves
+  type: itch
+- name: 官网
+  url: https://sweetleaves.bandcamp.com/album/sweet-leaves-official-soundtrack
+  type: official
+- name: Ko-fi
+  url: https://ko-fi.com/sweetleaves
+  type: kofi
+- name: Patreon
+  url: https://patreon.com/sweetleaves
+  type: patreon
+- name: Telegram
+  url: https://t.me/sweetleaves
+  type: telegram
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Sweet Leaves is a cinematic slice-of-life drama about new beginnings,\
+  \ grief, and family, told over four episodes presented in a unique storybook style.\
+  \ The main story follows Red Ellsworth, a California transplant looking for a fresh\
+  \ start following a tragic event. Set against the backdrop of a small, quiet northern\
+  \ Minnesota town, Red finds an unexpected anchor in the Graingers and their found\
+  \ family —a tightly-knit group who welcome and support him during the transition\
+  \ from his old life to a new one. Just as he's beginning to settle in, Red is introduced\
+  \ to a strange and remarkable being that will change the course of his life forever.\
+  \   \r\n\nSweet Leaves is a kinetic, linear, fully-authored graphic/visual novel.\
+  \ With no branching paths or choices to pull you out of the moment, you can fully\
+  \ immerse yourself in a rich, dynamic atmosphere that lets you experience the story\
+  \ as if it were a living book.\n\n“Sweet Leaves” was created as an LGBTQIA, fantasy,\
+  \ slice-of-life webcomic back in 2018, following the story of the Grainger family—two\
+  \ gay fathers, their precocious son, and the found family members that stepped in\
+  \ to help raise the child after the untimely and tragic death of his mother. \n\n\
+  Sweet Leaves stories acknowledge that painful events that occur in their lives,\
+  \ but how providing love, empathy, and physical and emotional support to loved ones\
+  \ can help them through those inescapable difficulties and trials of life we all\
+  \ face—even when some of those things just can’t be fixed. Humorous, happy, and\
+  \ light-hearted at times, and sad and bittersweet at others, Sweet Leaves aims to\
+  \ leave its readers with a lasting emotional impression, and to hopefully inspire\
+  \ others to commit their own acts of kindness and thoughtfulness for those they\
+  \ love, similar to how the Graingers and their extended family do so for one another.\r\
+  \n\nSweet Leaves includes features aiming to create an immersive and cinematic experience\
+  \ for the reader, such as:\n\nUnique storybook-style presentation\n\nAll hand-drawn\
+  \ backgrounds with animations\n\nAnimated sprites with over 100 unique expressions\
+  \ per character\n\nPre-rendered, cinematic CG cutscenes\n\nCustom atmospheric sound\
+  \ effects\n\nDecorative custom UI \r\n\n All-original chillhop soundtrack featuring\
+  \ tracks by AJMW (from Chillhop Records and Lo-Fi girl)\n\n August Grainger"

@@ -1,4 +1,4 @@
-id: devil-express
+﻿id: devil-express
 title: Devil Express
 title_en: Devil Express
 cover: https://img.itch.zone/aW1nLzMxNzMyMTUucG5n/original/%2F%2FNnO5.png
@@ -17,9 +17,46 @@ features: []
 links:
 - name: itch.io
   url: https://bad-pet.itch.io/devil-express
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Ubuntu%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Discord
+  url: https://discord.gg/aVAC95D
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "The Game\n\nA narrative-focused 2D adventure game set in an unreal\
+  \ world of monsters, managers, and magic most foul.\n\nA mysterious new delivery\
+  \ app, Devil Express, has sent Worf to an apartment block that should not exist.\
+  \  With a can-do mindset it’s up to Worf to uncover the secrets of this cursed building\
+  \ and maybe make a few friends along the way.\r\n\nControls\n\nMovement: W / A or\
+  \ Left / Right Arrow\n\nInteraction: Spacebar or Up Arrow\n\nInventory: Tab or \"\
+  i\"\n\nFeatures\r\n\nfull Spanish translation (downloadable)\n\n1 hour of non-stop\
+  \ delivery action.\n\na cast of over 16 memorable monsters.\n\na story of loss,\
+  \ labor, and doing your best.\n\none of the characters is a cheeseburger.\n\nit's\
+  \ a strand game.\n\nThis downloadable executable plays better than the browser version!\n\
+  \nBut sometimes you just don't want to download something. I'm like that. Enjoy\
+  \ whichever version is most convenient for you!\n\nArt by the POWERFUL ~shutteye~\n\
+  \nFollow them on twitter @shutteye !\n\nThe music in the game was done by the incredible\
+  \ 7wave!\n\nEveryone check out his tunes! Here are a couple of his soundclouds:\n\
+  \n https://soundcloud.com/applejuicebeats \n\n https://soundcloud.com/globoxgloboxglobox\
+  \ \n\n7wave is also the drummer of the band Good Kid! They're all dear friends,\
+  \ you can check them out here:\n\nhttps://open.spotify.com/embed/artist/38SKxCyfrmNWqWunb9wGHP\n\
+  \nOur 10/10 perfect Spanish localization by:\n\n Celia Gómez Álvarez\n @celiagomez_tr\
+  \ \n\n Elena Company Campos\n @ElenaTradin \n\n Deneb C. Copado Jiménez\n @denebtranslate\
+  \ \n\nHire them!!!!!!!!!!!!!!!!!!\n\nJoin the Bad Pet Discord and chat with us!\n\
+  \nWe're making games and we'd love to make them with you. Join the crew!!!!\n\n\
+  Join Link:  https://discord.gg/aVAC95D \n\nIf you like it, leave us a rating!\n\n\
+  also by reading this you are legally obligated to tweet this game out. Every like\
+  \ and share helps us out a lot! Feel free to tag us at @mrboyfriend666 or @shutteye\
+  \ ~\n\nPhotosensitivity Warning\n\nOn the 5th floor there are slowly flashing coloured\
+  \ lights. If anyone experiences discomfort please let us know in the comments."
+gallery:
+- https://img.itch.zone/aW1hZ2UvNTc2NDk0LzMxNzYwNDEuanBn/original/yUSV2O.jpg
+- https://img.itch.zone/aW1hZ2UvNTc2NDk0LzMxNzYwNTcuanBn/original/25E3Mz.jpg
+- https://img.itch.zone/aW1hZ2UvNTc2NDk0LzMxNzYwNDAuanBn/original/U724i5.jpg

@@ -1,4 +1,4 @@
-id: cryptid-hunter-triple-threat
+﻿id: cryptid-hunter-triple-threat
 title: 'Cryptid Hunter: Triple Threat'
 title_en: 'Cryptid Hunter: Triple Threat'
 cover: https://img.itch.zone/aW1nLzc1NTMzMDAucG5n/original/6cl%2BqW.png
@@ -19,9 +19,25 @@ features: []
 links:
 - name: itch.io
   url: https://crunchester.itch.io/cryptid-hunter-triple-threat
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Bubbler%20One%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: 'Meet Oscar, a middle aged man who has an unusual job that involves
+  dealing with monsters.
+
+
+  WARNING! This game is in it''s early stages of development.
+
+
+  This game is a collection of short stories from Cryptid Hunter series you can read
+  NOW on   Tapas  .
+
+
+  Game made for  BARA JAM 2021  by Adam Lepieszkiewicz.'

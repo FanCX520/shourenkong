@@ -1,4 +1,4 @@
-id: the-wayward-tower
+﻿id: the-wayward-tower
 title: The Wayward Tower
 title_en: The Wayward Tower
 cover: https://img.itch.zone/aW1nLzE2MzQxNTMzLmdpZg==/original/xs8Nnl.gif
@@ -19,9 +19,27 @@ features: []
 links:
 - name: itch.io
   url: https://team-wolf-in-a-tower.itch.io/the-wayward-tower
+  type: itch
+- name: 官网
+  url: https://linktr.ee/cardiganfur
+  type: official
+- name: Ko-fi
+  url: https://ko-fi.com/metriobarynx/
+  type: kofi
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Também disponível em Português Brasileiro! \n\n También disponible\
+  \ en Castellano! \n\n Warning \n\nThis story delves into topics such as chronic\
+  \ conditions and a brief moment describing blood, self-inflicted wounds and scarring.\
+  \ While this project features no explicit adult scenes, viewer discretion is advised.\n\
+  \nFollow a man cursed to roam the world without ever finding a home, as the road\
+  \ once more leads him to a mysterious tower where a wolf-like wizard lives in peaceful\
+  \ solitude. \n\n The Wayward Tower was made for the MAY WOLF 2024: MY WOLF Furry\
+  \ Visual Novel Jam (18+). \n\n Team Members: \n\nConcept and CG Artwork by Baldoh \
+  \ \n\nCoding & Writing by Cardigan (Linktr.ee) \n\nCoding & UI Elements by Erebus\
+  \ \n\nSprite Artwork by Metrio (Ko-fi) \n\nOriginal Music Tracks by OriginOfMajesty\
+  \ (Ko-fi)"

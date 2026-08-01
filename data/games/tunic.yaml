@@ -1,4 +1,4 @@
-id: tunic
+﻿id: tunic
 title: TUNIC
 title_en: TUNIC
 cover: https://img.itch.zone/aW1nLzgxMjAyODIucG5n/original/0pRAJC.png
@@ -17,9 +17,36 @@ features: []
 links:
 - name: itch.io
   url: https://finji.itch.io/tunic
+  type: itch
+- name: 官网
+  url: https://tunicgame.com/
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Soundtrack by Lifeformed x Janice Kwan available now! \n\nExplore\
+  \ a land filled with lost legends, ancient powers, and ferocious monsters in TUNIC,\
+  \ an isometric action game about a small fox on a big adventure. Stranded on a mysterious\
+  \ beach, armed with only your own curiosity, you will confront colossal beasts,\
+  \ collect strange and powerful items, and unravel long-lost secrets.\n\n BECOME\
+  \ A LEGEND \n\nStories say that a great treasure is hidden somewhere in this land.\
+  \ Perhaps it lies beyond the golden door? Or somewhere deep beneath the earth? Some\
+  \ tales tell of a palace high above the clouds, and of ancient beings with incredible\
+  \ power. What will you find?\n\n REBUILD A SACRED BOOK \n\nDuring your travels,\
+  \ you’ll reconstruct the game’s Instruction Manual. Page by page, you’ll reveal\
+  \ maps, tips, special techniques, and the deepest of secrets. If you find every\
+  \ last one, maybe something good will happen...\n\n BE COURAGEOUS, LITTLE ONE! \n\
+  \nDive into varied, technical combat. Dodge, block, parry, and strike! Learn how\
+  \ to conquer a wide cast of monsters, big and small — and discover useful new items\
+  \ to help you on your way.\n\nExplore a hostile and intricately-connected world\
+  \ of shady forests, sprawling ruins, and labyrinthine catacombs\n\nFight mighty\
+  \ bosses deep beneath the earth, high above the clouds, and in places stranger still\n\
+  \nCollect the missing manual pages, bursting with hints and original full-colour\
+  \ illustrations\n\nDiscover hidden treasures to help you on your way\n\nUnearth\
+  \ secret relics, secret techniques, secret puzzles, and… listen, there’s a lot of\
+  \ secrets!\n\nFeaturing sound design by Power Up Audio (Celeste, Darkest Dungeon,\
+  \ Subnautica: Below Zero)\n\nAnd an original soundtrack by Lifeformed (Dustforce,\
+  \ Double Fine Adventure)\n\nKeep your wits about you and be brave, little fox!"

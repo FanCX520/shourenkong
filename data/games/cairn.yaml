@@ -1,4 +1,4 @@
-id: cairn
+﻿id: cairn
 title: Cairn
 title_en: Cairn
 cover: https://img.itch.zone/aW1nLzk5MDk2MjIucG5n/original/DvS67A.png
@@ -17,9 +17,37 @@ features: []
 links:
 - name: itch.io
   url: https://rubic.itch.io/cairn
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Questrial%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Steam
+  url: https://store.steampowered.com/app/1061090/Jump_King/
+  type: steam
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "CONTROLS \n\n Escape Pause WASD or arrow keys Move Space Hold to\
+  \ jump (or tap to double jump!) E Interact \r\n\nCollecting bugs allows you to make\
+  \ changes to the area above you. But before you can submit those changes, you have\
+  \ to beat it yourself, to make sure others can follow!\n\n WHAT IS CAIRN? \n\nCairn\
+  \ is a game about climbing a mountain and leaving your mark for future travelers.\r\
+  \n\n In Cairn, you play as Daisy, an intrepid adventurer bound for the top of a\
+  \ seemingly endless tower. Along the way, you're aided by mysterious wildlife that\
+  \ allow you to shift parts of the ground, writing your name into the path before\
+  \ you. Will you create advantages for yourself and for others that come afterwards?\
+  \ Or will you contribute to the havoc of the spiraling monolith? \r\n\nCairn is\
+  \ a \"live world\" homage to Jump King . It carries a lot of the mechanical and\
+  \ visual spirit of the game, but strives to be a little cheerier and significantly\
+  \ more chaotic by allowing players to completely morph the original experience of\
+  \ the game. Any change you make to the world is reflected in everyone else's game,\
+  \ the map you see now is a culmination of everyone's changes across the world."
+gallery:
+- https://img.itch.zone/aW1hZ2UvMTY4MTExNi85OTAyOTQxLmdpZg==/original/DnAUdm.gif
+- https://img.itch.zone/aW1hZ2UvMTY4MTExNi85OTAyOTQwLmdpZg==/original/JQYbWQ.gif
+- https://img.itch.zone/aW1hZ2UvMTY4MTExNi85OTAyOTQzLmdpZg==/original/tf550D.gif
+- https://img.itch.zone/aW1hZ2UvMTY4MTExNi85OTAyOTM5LmdpZg==/original/72ZUM0.gif
+- https://img.itch.zone/aW1hZ2UvMTY4MTExNi85OTAyOTQyLmdpZg==/original/%2B037Nu.gif

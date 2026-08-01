@@ -1,4 +1,4 @@
-id: gift-of-gains
+﻿id: gift-of-gains
 title: Gift of Gains
 title_en: Gift of Gains
 cover: https://img.itch.zone/aW1nLzE1MjEyMjEzLnBuZw==/original/J0WdvJ.png
@@ -30,6 +30,10 @@ features: []
 links:
 - name: itch.io
   url: https://proxol.itch.io/gift-of-gains
+  type: itch
+- name: Patreon
+  url: http://patreon.com/proxol
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'

@@ -1,4 +1,4 @@
-id: bullwhip
+﻿id: bullwhip
 title: Bullwhip
 title_en: Bullwhip
 cover: https://img.itch.zone/aW1nLzEyNDcxMTQ3LmdpZg==/original/x%2FFHcm.gif
@@ -19,9 +19,25 @@ features: []
 links:
 - name: itch.io
   url: https://major-minion.itch.io/bullwhip
+  type: itch
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "\"Ladies and gentlemen!\n\nToday, we witness his liftoff. He's\
+  \ aimed at the stars, but will he reach them? And who'll be his co-pilot, navigating\
+  \ the skies alongside him?\n\nThe countdown has begun. Dear viewer...\n WELCOME\
+  \ TO BULLWHIP WRESTLING! \"\n\nBullwhip is a gay romance story set in a struggling\
+  \ wrestling federation. Once, it had everyone's attention. Now, it's waiting for\
+  \ someone to turn the world's eyes back on it. Will it be you?\n\nChoose a tag team\
+  \ partner.\n\nChallenge for the titles.\n\nWrestle your way to love and glory!\n\
+  \nBullwhip is a hobby project I lovingly chip away at when I'm able to, and commission\
+  \ assets for when I can afford it. It will not have a set release schedule, and updates\
+  \ will simply be posted when they are done. The game will likely have 18+ content\
+  \ somewhere down the road, but does not currently.\n\nThank you for checking it\
+  \ out!\n\nCredits:\n\nMain character and scene art: Kartos\n\nSecondary character\
+  \ art: LapinSpaceMarine\n\nBackground artist: BitterStrawberries\n\nMusic: Tenshio\
+  \ Luma and AudioCreatures\n\nAnd many more, please see the credits screen in the\
+  \ game"

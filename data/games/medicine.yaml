@@ -1,4 +1,4 @@
-id: medicine
+﻿id: medicine
 title: '药：绝望的解决手段(Medicine: The Remedy of Sheer Desperation)'
 title_en: '药：绝望的解决手段(Medicine: The Remedy of Sheer Desperation)'
 cover: https://img.itch.zone/aW1nLzczMDUwOTMuanBn/original/78EIdp.jpg
@@ -18,9 +18,49 @@ features: []
 links:
 - name: itch.io
   url: https://yuxiu.itch.io/medicine
+  type: itch
+- name: 官网
+  url: https://afdian.net/a/yuxiu
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Starting with this version, English translations are no longer\
+  \ available.\n\n这是一个探讨孤独，绝望与爱的故事。\n故事发生在20XX年的X国A市，主角是一个毕业一年左右的工作中的程序员，名为Solitus(默认名)的沙漠狼。和别人不同的是，他从小就罹患一种奇怪的怪病，使他无时不刻都被剧烈的头疼笼罩，需要每日服用药物来稳定头疼。在春天到来的四月末，他的主治医师告诉他，他的头疼病正在恶化，需要调整生活作息以及适当运动，否则将会有生命危险。于是他也开始思考，如何平衡工作、运动以及休息，来让他有足够的金钱购买逐日上涨价格的药物，同时能够缓解病况，免于死亡的结局——或者说，他已经对这样艰难的活着厌倦了，也许某天早上他会厌倦这种被头疼折磨的生活，从而爬出22楼的窗户，断绝自己的痛苦。但无论活或者死，选择权都在于你，也许你想救他，但你能掌握好这样的平衡吗？\n\
+  在工作和药物之外，即便他已经不具备以一个正常人的精神状态活着的权利，但他仍然渴望爱情。他试图和不善言谈却热爱羽毛球的白熊交流，在网上对喜爱的画师表达热爱，和一位新来的项目总监共同工作——无论如何，在游戏结束之前，也许这些爱情都会迎来一个美好的结局，但你所见的一切，真的是他们的真实面貌吗？\n\
+  当迫近的死亡如同蔓延的潮水奔涌而来，你，还有他，又会做出什么样的选择呢？\n\nThis is a story that explores loneliness,\
+  \ despair and love.\n\nThe story takes place in the year 20XX in A city. The protagonist\
+  \ is a working programmer who graduated about a year ago, a desert wolf named Solitus\
+  \ (default name). Unlike others, he has been suffering from a strange disease since\
+  \ he was a child, making him suffer from severe headaches all the time, and needs\
+  \ to take daily medication to stabilize his headache. At  the end of April, when\
+  \ spring arrived, his primary care physician told him that his headaches were worsening\
+  \ and that he needed to adjust his lifestyle and exercise properly or risk his life.\
+  \ So he began to think about how to balance work, exercise and rest so that he would\
+  \ have enough money to buy the medication that was rising in price every week, and\
+  \ at the same time be able to alleviate his illness and avoid death - or maybe he\
+  \ was so tired of living with such a difficult life that one morning he would get\
+  \ tired of living with a headache and climb out of the 22nd floor window and cut\
+  \ off his pain. But the choice to live or die is yours. You may want to save him,\
+  \ but can you manage that balance?\n\nOutside of work and medication, even though\
+  \ he no longer has the right to live in a normal mental state, he still longs for\
+  \ love. He tries to communicate with the unsociable but badminton loving white bear,\
+  \ expresses his love for his favorite painter online, and works together with a\
+  \ new project director - in any case, before the game ends, maybe all these loves\
+  \ will come to a happy ending, but is what you see really what they really are?\n\
+  \nWhen the imminent death is like a spreading tide rushing in, you, and he, and\
+  \ what choice will make?\n\n~~~~~~~~~~~~~~~~~~~\n\nCheck out my other project!\n\
+  \n如果你感兴趣，也请来试试我的另一个游戏！\n\n <a href=\" 城堡与莫梭提斯(Castle\" class=\"redactor-linkify-object\"\
+  >https://yuxiu.itch.io/castle-myosotis\">城堡与莫梭提斯(Castle & Myosotis) by Yuxiu</a>\
+  \ \n\n~~~~~~~~~~~~~~~~~~~\r\n\n如果你想赞助我，请移步我的爱发电首页！\r\n\n 聿修正在创作视觉小说《城堡与莫梭提斯》，《药：绝望的解决手段》等\
+  \ | 爱发电 (afdian.net)"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMTI1MzYyMS8xMTM0MjcwOC5qcGc=/original/NvF1MR.jpg
+- https://img.itch.zone/aW1hZ2UvMTI1MzYyMS8xMTM0MjcxMC5qcGc=/original/M0Cjgd.jpg
+- https://img.itch.zone/aW1hZ2UvMTI1MzYyMS8xMTM0MjcwOS5qcGc=/original/krVDGF.jpg
+- https://img.itch.zone/aW1hZ2UvMTI1MzYyMS8xMTM0MjcxMi5qcGc=/original/PPQl3t.jpg
+- https://img.itch.zone/aW1hZ2UvMTI1MzYyMS8xMTM0MjcxMS5qcGc=/original/6IZ5OC.jpg
+- https://img.itch.zone/aW1hZ2UvMTI1MzYyMS8xMTM0MjcwNy5qcGc=/original/WmfN7Y.jpg

@@ -25,9 +25,18 @@ properties:
     description: 封面图 URL
   description:
     type: string
-    description: 中文简介
+    description: 中文简介（短）
   description_en:
     type: string
+  description_full:
+    type: string
+    description: 完整简介（itch 页面全文，保留段落）
+  gallery:
+    type: array
+    description: 画廊截图原图 URL 列表
+    items:
+      type: string
+      format: uri
   species:
     type: array
     items:
@@ -63,6 +72,10 @@ properties:
         url:
           type: string
           format: uri
+        type:
+          type: string
+          description: 链接类型（图标与分组展示用）
+          enum: [itch, steam, official, patreon, discord, kofi, telegram, fanbox, qq, other]
     minItems: 1
   status:
     type: string

@@ -1,4 +1,4 @@
-id: the-eye-of-the-storm-a-moonstray-story
+﻿id: the-eye-of-the-storm-a-moonstray-story
 title: 'The Eye of the Storm: A Moonstray Story'
 title_en: 'The Eye of the Storm: A Moonstray Story'
 cover: https://img.itch.zone/aW1nLzI4NDM4MTE0LnBuZw==/original/wYpaAA.png
@@ -20,9 +20,75 @@ features: []
 links:
 - name: itch.io
   url: https://marrowdonvn.itch.io/the-eye-of-the-storm-a-moonstray-story
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=ABeeZee%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Ko-fi
+  url: https://ko-fi.com/marrowdon
+  type: kofi
+- name: Patreon
+  url: https://www.patreon.com/cw/Marrowdon
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "You wake up on the shores of Moonstray with no memories of who\
+  \ you were. Rescued by Rowan, you are given a fresh start in a quiet fishing village\
+  \ with the locals. But in this island, lies a deep unspoken mystery. As a strange\
+  \ storm gathers on the horizon, you must decide break down their inner walls before\
+  \ the storm pulls them under.\n\n--Walk into the Unknown--\n\nMoonstray is a short\
+  \ and sweet visual novel about identity, healing, and the troubles we protect ourselves\
+  \ from time and time again. You play as a stranger who washes ashore with no color.\
+  \ You get taken in by the locals of a misty fishing village who take care of you.\n\
+  \nAn unusual storm is brewing  over the sea, and you find yourself drawn to the\
+  \ locals in this island. It's up to  you to help them learn that love overcomes\
+  \ all before the storm turns violent.\n\nHang out with a cast of characters while\
+  \ you get closer and vulnerable with them. Play different routes with different\
+  \ characters. Each one is it's own timeline...or are they?\n\nVersion 4.0 updates:\
+  \ \n\n- Main character rework (Meet Harper!)\n\nNow the main character has been\
+  \ designed to have more personality and involvement. The MC is officially named\
+  \ Harper and their ambiguous identity has more purpose in the story. You can still\
+  \ name the character anything you want. \n\n This is you! \r\n\n - New Final Route\
+  \ \n\nAfter completing all three routes from Rowan, Theo, and Cedar...something\
+  \ new unlocks. You will travel to a far away land that exists in your mind. If you\
+  \ have walked every path, you will have to enter something as a name.\n\n - Bug\
+  \ Fixes & Grammar correcting  \n\n.Numerous typos, grammar issues, tense inconsistencies,\
+  \ and missing punctuation have been addressed across the full script.\n\n - Story\
+  \ Reworks  \n\nThere are tons of things added to the main three routes to address\
+  \ some feedback about the imbalance and story concerns. \n\n- New music and sounds\n\
+  \n- New jukebox feature (Can be unlocked after finishing the game.)\n\nI'm a solo\
+  \ developer with the help of a friend doing the writing, coding, and art, so you\
+  \ might see some changes or updates as I polish things up. \n\nThis game will not\
+  \ work on IOS.\n\nYou can set the music and sound to be quieter on \"Preferences\"\
+  . This is to help people play the game with sensitive hearing (like me).\n\nThanks\
+  \ for understanding. If you have any feedback or any bugs to report, let me know\
+  \ in the comments! It would help me a lot, I check them often. \n\nMoonstray is\
+  \ and will always be free to download. I am making this while working a full-time\
+  \ job and going to school, and every update is built in whatever time I can find\
+  \ between the two. If this game has meant something to you, please consider buying\
+  \ me a coffee or donate when downloading. Any amount will help me continue these\
+  \ stories for you guys.\n\n Click here to support my Ko-fi! \r\n\n ko-fi.com/marrowdon\
+  \ \n\n Oh, I also have a Patreon too! \r\n\nYou are never obligated to. Just playing\
+  \ and sharing the game means the world. But if you can, I am incredibly grateful.\n\
+  \nThis Visual Novel is LGBT-orientated but anyone can play and be immersed with\
+  \ gender-neutral dialogue.\n\n FOR MAC USERS: If you see a \"Developer cannot be\
+  \ verified\" warning, here's what to do after unzipping the file:\n\nRight-click\
+  \ (or Control+Click) the game icon.\r\n\nSelect Open \n\nClick Open again in the\
+  \ popup.\r\n\n FOR WINDOWS USERS: \n\n    1. Right-click the zip file and choose\
+  \ \"Extract All\".  \n\n    2. Open the new folder and double-click \" Moonstray.exe\"\
+  . (Make sure you extract it        first!)\n\n FOR LINUX USERS: \n\n    1. Unzip\
+  \ the file.\n\n     2. Run \"Moonstray.sh\". \n\n FOR ANDROID USERS: \n\nDownload\
+  \ the .apk file. \r\n\nOpen it on your phone. If you see a warning about \"Unknown\
+  \ Apps\" or \"Play Protect,\" click Settings --->  Allow from this source  (or \"\
+  Install Anyway\").\r\n\nThe game will install and appear in your app drawer!\n\n\
+  \ Credits: \n\nConcept Art, Writing, Coding, CG Art, Music - Marrowdon\n\nCG Art:\
+  \ A discord friend (Anon)\n\nCG Art, Sprite Art, Logo - Miroveil \n\nAdditional\
+  \ writing help - Agri_Cal and Devi Init.\n\nAll stock music is properly licensed\
+  \ from SoundStripe.\n\n Dima belongs to Dima Dragon \r\n\n Omega belongs to TheSaladCram\
+  \ \r\n\n Tori belongs to Tako210 \r\n\n Toro belongs to toroyachi \r\n\n Agri belongs\
+  \ to Agri_Cal \n\nAll backgrounds are picked from Pixabay with an oilbrush filter.\
+  \ No Gen AI was used in this project."

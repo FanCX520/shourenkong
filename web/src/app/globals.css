@@ -8,7 +8,7 @@
   --bg-surface: #1a202c;
   --bg-muted: #101828;
   --bg-hover: rgba(255, 255, 255, 0.06);
-  --bg-selected: rgba(232, 169, 77, 0.14);
+  --bg-selected: color-mix(in srgb, var(--primary) 14%, transparent);
   --text-primary: #edf2f7;
   --text-secondary: #99a1af;
   --text-tertiary: #6b7380;
@@ -19,13 +19,45 @@
   --border: rgba(255, 255, 255, 0.09);
   --border-strong: rgba(255, 255, 255, 0.16);
   --shadow-card: 0 0 0 1px rgba(255, 255, 255, 0.04), 0 1px 2px rgba(0, 0, 0, 0.35);
-  --shadow-card-hover: 0 0 0 1px rgba(232, 169, 77, 0.22), 0 8px 22px rgba(0, 0, 0, 0.5);
+  --shadow-card-hover: 0 0 0 1px color-mix(in srgb, var(--primary) 22%, transparent), 0 8px 22px rgba(0, 0, 0, 0.5);
   --shadow-pop: 0 0 0 1px rgba(255, 255, 255, 0.07), 0 12px 34px rgba(0, 0, 0, 0.55);
   --radius-sm: 8px;
   --radius-md: 12px;
   --radius-lg: 16px;
   --sidebar-width: 260px;
   --header-height: 56px;
+}
+
+/* ===== 色板系统（data-palette 切换 accent，访客可选） ===== */
+:root[data-palette="gold"] {
+  --primary: #e8a94d; --primary-strong: #f0b45a; --primary-fg: #1a1208;
+}
+:root[data-theme="light"][data-palette="gold"] {
+  --primary: #b47a1e; --primary-strong: #96631a; --primary-fg: #ffffff;
+}
+:root[data-palette="cyan"] {
+  --primary: #61d0f1; --primary-strong: #7dd8f5; --primary-fg: #0b1520;
+}
+:root[data-theme="light"][data-palette="cyan"] {
+  --primary: #0288d1; --primary-strong: #0270b0; --primary-fg: #ffffff;
+}
+:root[data-palette="pink"] {
+  --primary: #f093b8; --primary-strong: #f5a8c6; --primary-fg: #200a12;
+}
+:root[data-theme="light"][data-palette="pink"] {
+  --primary: #d15a85; --primary-strong: #b84a70; --primary-fg: #ffffff;
+}
+:root[data-palette="green"] {
+  --primary: #7dd3a0; --primary-strong: #92dcb0; --primary-fg: #0a1810;
+}
+:root[data-theme="light"][data-palette="green"] {
+  --primary: #2e9e5b; --primary-strong: #25824b; --primary-fg: #ffffff;
+}
+:root[data-palette="purple"] {
+  --primary: #b89ef5; --primary-strong: #c6b0f7; --primary-fg: #150a24;
+}
+:root[data-theme="light"][data-palette="purple"] {
+  --primary: #7c5cd6; --primary-strong: #6849c2; --primary-fg: #ffffff;
 }
 
 /* ===== 浅色（可选）—— 暖白底 + 深琥珀 accent 保证对比度 ===== */
@@ -35,7 +67,7 @@
   --bg-surface: #ffffff;
   --bg-muted: #faf8f5;
   --bg-hover: rgba(0, 0, 0, 0.04);
-  --bg-selected: rgba(180, 122, 30, 0.1);
+  --bg-selected: color-mix(in srgb, var(--primary) 10%, transparent);
   --text-primary: #221c15;
   --text-secondary: #6b6257;
   --text-tertiary: #97897a;
@@ -46,7 +78,7 @@
   --border: rgba(0, 0, 0, 0.08);
   --border-strong: rgba(0, 0, 0, 0.12);
   --shadow-card: 0 0 0 1px rgba(0, 0, 0, 0.03), 0 1px 2px rgba(0, 0, 0, 0.05);
-  --shadow-card-hover: 0 0 0 1px rgba(180, 122, 30, 0.22), 0 4px 14px rgba(0, 0, 0, 0.09);
+  --shadow-card-hover: 0 0 0 1px color-mix(in srgb, var(--primary) 22%, transparent), 0 4px 14px rgba(0, 0, 0, 0.09);
   --shadow-pop: 0 0 0 1px rgba(0, 0, 0, 0.04), 0 10px 30px rgba(0, 0, 0, 0.12);
 }
 
@@ -57,7 +89,7 @@
     --bg-surface: #ffffff;
     --bg-muted: #faf8f5;
     --bg-hover: rgba(0, 0, 0, 0.04);
-    --bg-selected: rgba(180, 122, 30, 0.1);
+    --bg-selected: color-mix(in srgb, var(--primary) 10%, transparent);
     --text-primary: #221c15;
     --text-secondary: #6b6257;
     --text-tertiary: #97897a;
@@ -68,7 +100,7 @@
     --border: rgba(0, 0, 0, 0.08);
     --border-strong: rgba(0, 0, 0, 0.12);
     --shadow-card: 0 0 0 1px rgba(0, 0, 0, 0.03), 0 1px 2px rgba(0, 0, 0, 0.05);
-    --shadow-card-hover: 0 0 0 1px rgba(180, 122, 30, 0.22), 0 4px 14px rgba(0, 0, 0, 0.09);
+    --shadow-card-hover: 0 0 0 1px color-mix(in srgb, var(--primary) 22%, transparent), 0 4px 14px rgba(0, 0, 0, 0.09);
     --shadow-pop: 0 0 0 1px rgba(0, 0, 0, 0.04), 0 10px 30px rgba(0, 0, 0, 0.12);
   }
 }

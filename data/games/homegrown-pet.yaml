@@ -1,4 +1,4 @@
-id: homegrown-pet
+﻿id: homegrown-pet
 title: Homegrown Pet
 title_en: Homegrown Pet
 cover: https://img.itch.zone/aW1nLzc4NDYzODkucG5n/original/RreNwc.png
@@ -18,9 +18,19 @@ features: []
 links:
 - name: itch.io
   url: https://trisghost.itch.io/homegrown-pet
+  type: itch
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "CONTENT WARNING : Body Horror, Partial Nudity. \r\n\nYour pet has\
+  \ unfortunately turned back into shape of tiny cute blob.\nYou need to feed him\
+  \ fast in span of 60 second before the authorities arrived!\n\nDepending on what\
+  \ you feed him, he might turn into a big handsome human thus making him easier to\
+  \ hide, or unspeakable horror  cuteness that capable of ending the world.\n\nEasy\
+  \ control! And with 21 different endings to get!\nHow will you raise your pet in\
+  \ span of 60 second?\n\n Reason for suubmission to Virtual Pet Jam : Interactive\
+  \ simulation contains you being the guardian of some manner being (in this case.\
+  \ A cute blob of flesh)\nReason for submission to AGDQ : This game is made in span less than a week"

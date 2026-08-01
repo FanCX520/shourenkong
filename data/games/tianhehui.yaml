@@ -1,4 +1,4 @@
-id: tianhehui
+﻿id: tianhehui
 title: TianHeHui
 title_en: TianHeHui
 cover: https://img.itch.zone/aW1nLzc3ODYxMzMuanBn/original/%2FPfd8n.jpg
@@ -19,9 +19,38 @@ features: []
 links:
 - name: itch.io
   url: https://delaxquill.itch.io/tianhehui
+  type: itch
+- name: Discord
+  url: https://discord.gg/uFZ9W6u5jZ
+  type: discord
+- name: 官网
+  url: https://bsky.app/profile/tianhehui-fvn.bsky.social
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "The story of Tianhehui tells about the adventure of an ordinary\
+  \ novelist, Tex, who comes all the way from Moro and sets foot on this eastern continent,\
+  \ the country of Xi in order to draw materials and expand his horizons.\n\n In order\
+  \ to recover what is stolen by a thief, a very precious treasure to him, Tex chooses\
+  \ to entrust these two kind-hearted people who have a sense of justice, white Wolf\
+  \ and yellow tiger, Who named Bai Yu and Chen Hu . \n\n Joining the Team at their\
+  \ invitation, this is where the story begins... \n\n The hidden unknown past and\
+  \ riddle over the years on Tex will involve him in a huge dispute which would launch\
+  \ a new era on this eastern continent. \n\n Welcome, to the world of Tianhehui...\
+  \ \n\n (Update 19/01/2024 English Version released.)\n （Questions for the English\
+  \ version in the comments section） \n\n Discord Channel \n\n Bluesky Page \n\n (If\
+  \ you want, we welcome you to participate in English translation.) \n\nP.S: Check\
+  \ the devlog if you cannot open the game. CHECK THE DEVLOG !"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMTMzNzA2Ny84MjUyMDI1LnBuZw==/original/8PSue0.png
+- https://img.itch.zone/aW1hZ2UvMTMzNzA2Ny8xNDcyNzk4Mi5wbmc=/original/Ae%2FhUr.png
+- https://img.itch.zone/aW1hZ2UvMTMzNzA2Ny83NzgwMzI4LnBuZw==/original/uXPVll.png
+- https://img.itch.zone/aW1hZ2UvMTMzNzA2Ny83NzgwMzI3LnBuZw==/original/tzcrA3.png
+- https://img.itch.zone/aW1hZ2UvMTMzNzA2Ny8xNDcyNzk4My5wbmc=/original/ovg7uk.png
+- https://img.itch.zone/aW1hZ2UvMTMzNzA2Ny83NzgwMzI5LnBuZw==/original/%2FeFtZh.png
+- https://img.itch.zone/aW1hZ2UvMTMzNzA2Ny84MjUyMDIyLnBuZw==/original/ODIJaf.png
+- https://img.itch.zone/aW1hZ2UvMTMzNzA2Ny8xNDcyNzk3NC5wbmc=/original/sUBeJD.png

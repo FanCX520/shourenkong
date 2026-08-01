@@ -1,4 +1,4 @@
-id: what-he-carried
+﻿id: what-he-carried
 title: What He Carried
 title_en: What He Carried
 cover: https://img.itch.zone/aW1nLzE4ODA0MjQyLnBuZw==/original/pyTnAi.png
@@ -20,9 +20,49 @@ features: []
 links:
 - name: itch.io
   url: https://boyfail-inc.itch.io/what-he-carried
+  type: itch
+- name: 官网
+  url: https://loyaltyfreakmusic.com/about/
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: 'It''s a day ending with "Y", ergo, Toby is running late. There''s
+  just so many things needing to be done and--oh shit, he''s fucked up again. He crashed
+  into a burly wall of a bear! Mind helping that innocent bystander put their things
+  back together?
+
+
+  ---
+
+
+  This is an incomplete demo at this time featuring mutually exclusive choices, a
+  secret scene, and a dazzling custom GUI. If you enjoyed what you say, consider rating,
+  leaving a comment, or even a tip through the downloads screen!
+
+
+  What He Carried is around 6k words of SFW content created for the 2024 Novembear
+  Game Jam .
+
+
+  ---
+
+
+  Writing: Ragmaan
+
+
+  Art: Baldoh
+
+
+  Programming: Cerus
+
+
+  Music: All by  https://loyaltyfreakmusic.com/about/'
+gallery:
+- https://img.itch.zone/aW1hZ2UvMzE0MTI4My8xODgwNTE0OS5wbmc=/original/mA0tPR.png
+- https://img.itch.zone/aW1hZ2UvMzE0MTI4My8xODgwNTE4NC5wbmc=/original/%2FvRNCU.png
+- https://img.itch.zone/aW1hZ2UvMzE0MTI4My8xODgwNTE4MC5wbmc=/original/mW1C8e.png
+- https://img.itch.zone/aW1hZ2UvMzE0MTI4My8xODgzMjE2MS5wbmc=/original/am7yfw.png

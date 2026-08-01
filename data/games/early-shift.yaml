@@ -1,4 +1,4 @@
-id: early-shift
+﻿id: early-shift
 title: Early Shift
 title_en: Early Shift
 cover: https://img.itch.zone/aW1nLzIzNDUzNTE5LnBuZw==/original/lKHsOc.png
@@ -19,9 +19,39 @@ features: []
 links:
 - name: itch.io
   url: https://noisybear.itch.io/early-shift
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Mochiy%20Pop%20P%20One%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: https://patreon.com/NoisyBear?utm_medium=social&utm_source=twitter&utm_campaign=creatorshare_creator&utm_content=join_link
+  type: patreon
+- name: Discord
+  url: https://discord.gg/fxbxFYWK9X
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "You moved down south here two months ago. Between lectures, the\
+  \ long-ass drive to school, and the sweat-soaked summer, you don't expect much to\
+  \ change... That is, until you meet Cooper, an alligator who works at the local\
+  \ Shell. \n\nWhat starts as a simple stop for fuel could turn into something more...\n\
+  \n Early Shift  is a furry visual novel set in a small-town in Florida.\n\nIt’s\
+  \ in progress. There's no planned release schedule at the moment but you can check\
+  \ my twitter (@noisybear) for updates. Your feedback and comments are super important\
+  \ to me. The more I receive, the more motivation I'll have to update!\n\n Day one\
+  \ play time:  30~ minutes\n\n If you'd like to support me and get early access to\
+  \ new Early Shift content, feel free to join the PATREON over here ( PATREON ).\n\
+  \n Note: This game is best played on Mac or PC. While you can download it for android,\
+  \ it is untested so you may experience bugs or glitches in gameplay. If you experience\
+  \ any other bugs, feel free to report them on the discord server ( https://discord.gg/fxbxFYWK9X\
+  \ )"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMzkzMTQ3NC8yMzQ1MzczMi5wbmc=/original/5AlId6.png
+- https://img.itch.zone/aW1hZ2UvMzkzMTQ3NC8yMzQ1MzcyOS5wbmc=/original/hUJpgv.png
+- https://img.itch.zone/aW1hZ2UvMzkzMTQ3NC8yMzQ1NDc3NS5wbmc=/original/o%2FzbZ9.png
+- https://img.itch.zone/aW1hZ2UvMzkzMTQ3NC8yMzQ1MzczMS5wbmc=/original/nXgv8t.png
+- https://img.itch.zone/aW1hZ2UvMzkzMTQ3NC8yMzQ1MzczMC5wbmc=/original/MA12bM.png

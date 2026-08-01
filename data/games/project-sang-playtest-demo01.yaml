@@ -1,4 +1,4 @@
-id: project-sang-playtest-demo01
+﻿id: project-sang-playtest-demo01
 title: 'Sang: The Desert Blade'
 title_en: 'Sang: The Desert Blade'
 cover: https://img.itch.zone/aW1nLzc1MjI0NTUucG5n/original/TCUDlC.png
@@ -17,9 +17,42 @@ features: []
 links:
 - name: itch.io
   url: https://fiskyfisko.itch.io/project-sang-playtest-demo01
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Gothic%20A1%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Steam
+  url: https://store.steampowered.com/app/1848600/Sang_The_Desert_Blade/
+  type: steam
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Sang: The Desert Blade is a Souls-like Action RPG currently in\
+  \ development. Demo is keyboard and mouse only for now.\n\nWishlist:  https://store.steampowered.com/app/1848600/Sang_The_Desert_Blade/\
+  \ \n\nExplore, fight and defeat terrifying bosses in the unforgiving world of  Sang:\
+  \ The Desert Blade\n\nRPG system - Use Essence, collected from slain enemies, to\
+  \ level up and increase your attributes\n\nUpgrade your weapons, making them more\
+  \ powerful\n\nExplore a unique world - Find useful items such as the 'masks of the\
+  \ dead' that unlock new talents\n\nDie and learn from your mistakes\n\n4 directional\
+  \ combat that encourages thoughtful positioning and good timing\n\nUse a unique\
+  \ spellcasting system that allows you to cast any spell you've learned at any time\
+  \ by quickly inputting the spells pattern\n\nFollow the story of Sang as she's looking\
+  \ for her kin. Her visions warn about world ending events and her own deaths. The\
+  \ gods have grown silent... and it's up to you to find out what happened.\n\n The\
+  \ game is work in progress, important features are missing. \n\nIf you like this\
+  \ game, make sure to follow me on twitter or join my Discord server! Don't forget\
+  \ to rate and comment!\n\nTwitter:  https://twitter.com/fiskyfisko \n\nSteam:  https://store.steampowered.com/app/1848600/Sang_The_Desert_Blade/\
+  \ \n\nWebsite:  https://fiskyfiskogames.com/ \n\nDiscord:  discord.gg/WMxjfh2QxD\
+  \ \n\nMount West Music:  https://mountwest.info/ \n\n The game might perform badly\
+  \ on integrated gpus. If you're on laptop, make sure your dedicated gpu is forced\
+  \ in drivers."
+gallery:
+- https://img.itch.zone/aW1hZ2UvODg5MTA1LzUwOTIzMzYuZ2lm/original/7Rh6VO.gif
+- https://img.itch.zone/aW1hZ2UvODg5MTA1LzUwOTIzNDEuZ2lm/original/l2E7%2B%2B.gif
+- https://img.itch.zone/aW1hZ2UvODg5MTA1LzkwNjY0MTguanBn/original/eU3ixO.jpg
+- https://img.itch.zone/aW1hZ2UvODg5MTA1LzkwNjY0MjEuanBn/original/T8GEiC.jpg
+- https://img.itch.zone/aW1hZ2UvODg5MTA1LzkwNjY0MjIuanBn/original/g5XGUj.jpg
+- https://img.itch.zone/aW1hZ2UvODg5MTA1LzkwNjY0MjQuanBn/original/Gl2Hc6.jpg

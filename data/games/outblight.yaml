@@ -1,4 +1,4 @@
-id: outblight
+﻿id: outblight
 title: Outblight
 title_en: Outblight
 cover: https://img.itch.zone/aW1nLzI4ODg3Njg3LnBuZw==/original/pZXOfG.png
@@ -16,9 +16,35 @@ features: []
 links:
 - name: itch.io
   url: https://megurte.itch.io/outblight
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Alegreya%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Will you hunt what hunts you back?\n\nGame made in 96 hours\n\n\
+  Special for GMTK gamejam\n\nThe Abyss is leaking. Things that should not exist\n\
+   crawl through the cracks - and one hunter goes in after them.\n\nYou are Kirs,\
+  \ a void hunter bound to the dark he destroys\n\nThe deeper you go, the stranger\
+  \ the creatures. \nAnd the Abyss is watching how you fight.\n\nWhile the world withers\
+  \ from the curse that torments it\n and someday it will end\n\nRules\n\nEnemies\
+  \ turn in order of actions. \nYou have to select one option out of 3 for each action\n\
+  Each action it's own:\n\n Type (Attack/Def/Delay Attack/Buff) \n Range (4- 8) \n\
+  \ When the  fight begins\n each clash is resolved by rolling a random value \nwithin\
+  \ each action's range \n\n megurt - programmer / game design / environment artist\
+  \ / VFX\n keedjie - character artist\n sakotach - UI/UX designer\n catagen - sound\
+  \ / music designer\n\n Known Issues [Gamejam Version] \r\n\nWording issues in English\
+  \ localization\n\n[Bug] BGM doesn't loop until scene reload\n\n[Bug] Win in clash\
+  \ vs enemies defense doesn't count as clash win \n\n[Bug] Hover on potion plays\
+  \ both the common button sound and the potion sound at once\n\nLag with music during\
+  \ transition from main menu. Should be BGM fade\n\nIn fast mode some sounds don't\
+  \ match"
+gallery:
+- https://img.itch.zone/aW1hZ2UvNDc4NTM0OS8yODg2NTAzNC5naWY=/original/7brY0X.gif
+- https://img.itch.zone/aW1hZ2UvNDc4NTM0OS8yODgzNTk1My5wbmc=/original/CbNLbi.png
+- https://img.itch.zone/aW1hZ2UvNDc4NTM0OS8yODgzNTg3NC5wbmc=/original/zIW7zs.png
+- https://img.itch.zone/aW1hZ2UvNDc4NTM0OS8yODgzNTg4NS5wbmc=/original/JttePm.png

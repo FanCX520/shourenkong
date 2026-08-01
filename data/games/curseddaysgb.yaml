@@ -1,4 +1,4 @@
-id: curseddaysgb
+﻿id: curseddaysgb
 title: My Final Cursed Days
 title_en: My Final Cursed Days
 cover: https://img.itch.zone/aW1nLzE3NjQwMDQ4LnBuZw==/original/PsdrbI.png
@@ -18,9 +18,79 @@ features: []
 links:
 - name: itch.io
   url: https://astoryinpieces.itch.io/curseddaysgb
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Lunasima%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/astoryinpieces
+  type: patreon
+- name: Ko-fi
+  url: https://ko-fi.com/astoryinpieces
+  type: kofi
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ \n\n Please note:\
+  \ The browser demo online contains the game's last development release up to its\
+  \ first major progression check as a free teaser. As a demo, it does not store save\
+  \ data , so all menu options to save your game will not actually do so . Saving\
+  \ is only functional in the downloadable files you can play off-site, and it's the\
+  \ only way to play longer sessions or save multiple playthroughs. The browser demo\
+  \ will not receive updates after the game's release beyond bug fixes to keep it\
+  \ in-line with the game's current state. If you enjoyed the demo, and would like\
+  \ to experience the entire game, please consider purchasing a copy for $3.00 ~ \n\
+  \n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n Subscribe to my Patreon (18+),\
+  \ or donate to my  Ko-fi , if you'd like to financially support my work and help\
+  \ me keep making more! \n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n While\
+  \ intended for general audiences, this game does include depictions of animated\
+  \ violence, discussions of death, and some horror imagery. \n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\
+  \n Keyboard Controls: \r\n\nZ / J (A Button) -  Interact / Choose  |  Attack   \
+  \ [Combat] \n\nX / K (B Button) -  Cancel  |  Guard    [Combat] \n\nWASD / Arrow\
+  \ keys (Directional Pad)  -  Movement  |  Skills/Items    [Combat] \n\nEnter (Start\
+  \ Button) - Pause/Status  |  Ready Action    [Combat] \n\nShift (Select Button)\
+  \ - Enter Search Mode  |  Party Status [Combat] \n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\
+  \n Brought into the world as the sacrificial bird for a nest of snakes... \n\nYou\
+  \ were born only to be used by others as the living vessel for a powerful magic\
+  \ lineage. You've lived your life knowing that the curse placed on you would take\
+  \ effect someday, with only speculation on what that might even mean. When you find\
+  \ out there's a small village that used to host those who do the dangerous work\
+  \ known as \"dungeoneering\"- crossing a portal into the strange labyrinths known\
+  \ as dungeons in the hopes of returning with objects of magical power- you know\
+  \ you have to go there. With word coming to you that you've got only a short time\
+  \ left before the curse fully manifests itself, you decide to use whatever time\
+  \ you have to try and find some way to put a stop to it here. So having nothing\
+  \ left to lose, and t he potential to find a powerful enough magic item to cure\
+  \ the deepest curse , becoming a dungeoneer it is! But can you even manage against\
+  \ the monsters, magic, and misery of these places? Do you even want to..?\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\
+  \n My Final Cursed Days  is a fantasy, dungeon-crawling RPG made for the Game Boy! Play\
+  \ through your own story over the course of about 3-4 hours of play-time as you\
+  \ make your way through the period of your life left before the curse takes its\
+  \ nebulous effect. As your days go by, enjoy the following features in the game:\n\
+  \nDay and night life-sim-style time-management as you use your remaining days in\
+  \ the portal village getting to know the local characters, some of which only set\
+  \ themselves up after word has gotten around of your dungeoneering efforts!\n\n\
+  First-person dungeon-crawling with combat that's done in a semi-active, turn-based\
+  \ style. This makes encounters more tactical in a way that might be especially rewarding\
+  \ for more puzzle-minded players, but still very manageable and open to many different\
+  \ setups~\n\nCharacter customization including your starting stats, physical attributes,\
+  \ and what spells, items, and other effects you bring with you into the dungeon.\
+  \ These things can and will change as you play, sometimes voluntarily, sometimes\
+  \ not . So don't get too attached, maybe!\n\nHave a chat with any NPC in the village!\
+  \ Some might be just for fun, some might have useful information for you, but carry\
+  \ on the conversation well and you might be rewarded with equipment or items~\n\n\
+  Discover hidden objects and other strange things in the dungeon by entering Search\
+  \ Mode to scour certain areas in point-and-click style! You aren't the first dungeoneer\
+  \ to be here, and some of the previous ones left things behind, for all kinds of\
+  \ reasons, let's just say. You can make use of some of it, but some things might\
+  \ be best brought back to someone more knowledgeable.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\
+  \nYou can purchase a copy of My Final Cursed Days by paying at least the minimum\
+  \ price of $3.00. This gives you access to the following versions and all their\
+  \ updates:\r\n\n  + the Game Boy rom (playable on original hardware via flash-cart,\
+  \ on your favorite emulation device, or your preferred desktop GB emulator!) \r\n\
+  \n  + an Analog Pocket file \r\n\n  + a new 3DS .cia file \r\n\n  + a Windows .exe\
+  \ version \n\n + a map of each dungeon's layout (just in case!) \n\n + so, so much\
+  \ thanks!! <3 <3"

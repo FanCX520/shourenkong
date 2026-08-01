@@ -1,4 +1,4 @@
-id: lookouts
+﻿id: lookouts
 title: Lookouts
 title_en: Lookouts
 cover: https://img.itch.zone/aW1nLzg1NDkwNjEucG5n/original/h4A40i.png
@@ -18,9 +18,48 @@ features: []
 links:
 - name: itch.io
   url: https://paranoidhawk.itch.io/lookouts
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Anonymous%20Pro%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Two lookouts meet in a desert, far from the sight of their gangs.\r\
+  \n\nWith more in common than they could've expected, they scout out a town with\
+  \ rumours of gold.\r\n\nWhat will become of this fateful meeting?\r\n\n-----------------\n\
+  \nLookouts is a romance visual novel about two gay trans masc outlaws in the old\
+  \ west, finding refuge in each other, and a little hope for a better life.\n\nWith\
+  \ roughly 45,000 words of story and a 5-6 hour reading time, it's a much expanded\
+  \ version of the original made for the Gay Western Jam. The original jam version\
+  \ can be played  here !\n\nControls: Click or press spacebar to progress/show dialogue.\
+  \ The menu bar will show up in the top right hand corner if you tap/mouse over it.\r\
+  \n\n Loading the game in the browser version may take a while depending on your\
+  \ internet connection. If it looks like it isn't loading, don't worry, it is! Just\
+  \ give it a minute or two. \n\nCW for: alcohol, smoking, gun violence (with SFX), gun\
+  \ death, blood, injury, mild transphobia, discussions of racism and settler violence.\
+  \ Injuries aren't described in graphic detail but there are some visual aids and\
+  \ allusions.\n\n-----------------\n\nMade with love by:\r\n\nCol (Art and Character\
+  \ Design)\r\n\nHawky (Programming and Story)\r\n\nFeaturing music by the talented\
+  \ Jamiee of  fakegamercomics \r\n\n Marble Claws is Hawky and Col's next venture\
+  \ in making games. Check the team's itchio account here , tumblr here , and Bluesky\
+  \ here .\n\nIf you'd like to get in contact regarding Lookouts, feel free to email\
+  \ us at marbleclaws [at] gmail [dot] com.\n\n-----------------\n\nIf you enjoyed\
+  \ the game and want some extra super cool stuff, consider buying the  Gold Edition\
+  \ of Lookouts. If you click the Download Now button, for only £5/$6.50 you get a\
+  \ zip file containing:\n\nHigh quality original versions of all the art from the\
+  \ game\r\n\nExclusive wallpapers for desktop and mobile\r\n\nThe full banging OST\n\
+  \nA bunch of extra original art of doodles and designs by Col\r\n\nFive mini comics\
+  \ with the characters\n\nA development artbook\n\nThe Lookouts OST  by Jamie can\
+  \ also be bought and listened to individually over here on Bandcamp! \n\n Merch\
+  \ is available now! Go to our store to buy Lookouts stickers, postcards, shirts,\
+  \ or a physical edition of the artbook!  https://marbleclaws.bigcartel.com/"
+gallery:
+- https://img.itch.zone/aW1hZ2UvNTMyODIzLzg2MjM2OTEuZ2lm/original/7fT10T.gif
+- https://img.itch.zone/aW1hZ2UvNTMyODIzLzg1NDg5OTYucG5n/original/KFrNy5.png
+- https://img.itch.zone/aW1hZ2UvNTMyODIzLzg1NDg5OTcucG5n/original/Grpasq.png
+- https://img.itch.zone/aW1hZ2UvNTMyODIzLzg1NDg5OTgucG5n/original/RbOW%2Bj.png
+- https://img.itch.zone/aW1hZ2UvNTMyODIzLzg2MzA3ODYucG5n/original/5X4CQK.png

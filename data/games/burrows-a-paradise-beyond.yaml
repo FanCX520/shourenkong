@@ -1,4 +1,4 @@
-id: burrows-a-paradise-beyond
+﻿id: burrows-a-paradise-beyond
 title: BURROWS a paradise beyond
 title_en: BURROWS a paradise beyond
 cover: https://img.itch.zone/aW1nLzExMDE1MTM5LnBuZw==/original/SWS3JB.png
@@ -19,9 +19,27 @@ features: []
 links:
 - name: itch.io
   url: https://harmoyena.itch.io/burrows-a-paradise-beyond
+  type: itch
+- name: 官网
+  url: https://soundcloud.com/saturnascends/from-a-tree
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "\"If I'd known fate would catch up with me at my most vulnerable\
+  \ moment, I'd have gone back. Done things differently.\" \n\n BURROWS a paradise\
+  \ beyond  is a special one-shot Visual Novel that was made to celebrate BURROWS'\
+  \ first anniversary!\n\nExperience a new story, featuring some of your favorite\
+  \ BURROWS characters!\n\nThis Visual novel features:\n\nNearly 20,000 words of content\r\
+  \n\nFive fully sprited characters, each with multiple sets of expressions\r\n\n\
+  More than Fifteen CG images, some of which are animated\r\n\nA complete custom soundtrack\
+  \ with multiple artists\r\n\nSeveral unlockable scenes, as well as a full secret\
+  \ ending!\r\n\nMore BURROWS content for you to enjoy!\r\n\nBefore reading this VN,\
+  \ I strongly suggest you read the source material, which you can find by clicking\
+  \ here!\n\n <a href=\" https://nikkonator5000.itch.io/burrows%22%3EBurrows by Nikko</a>\
+  \ \n\nBURROWS a paradise beyond is currently available for PC, Linux, and Mac. There\
+  \ are no plans for an Android build at the moment, as it would require an entire\
+  \ new UI. Sorry about that!"

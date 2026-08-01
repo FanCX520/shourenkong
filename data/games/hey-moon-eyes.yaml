@@ -1,4 +1,4 @@
-id: hey-moon-eyes
+﻿id: hey-moon-eyes
 title: Hey, Moon Eyes
 title_en: Hey, Moon Eyes
 cover: https://img.itch.zone/aW1nLzI3MTM1OTgyLmdpZg==/original/qKN%2BPT.gif
@@ -19,9 +19,37 @@ features: []
 links:
 - name: itch.io
   url: https://neiffarious.itch.io/hey-moon-eyes
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Open%20Sans%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Ko-fi
+  url: https://ko-fi.com/neiff56155
+  type: kofi
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "'Hey, Moon Eyes!' Is a linear, sfw, Romantic, Sci-Fi, furry visual\
+  \ novel about learning to cherish every precious moment before it passes.\n\nFollow\
+  \ the story of Revri and Duncan from their first meeting at the outset of an impossible,\
+  \ one-way journey, to its inevitable end.\n\nWhat they find will be everything they\
+  \ could have imagined and more.  Alien wonders, and terrors, a world, a life, all\
+  \ theirs to build. But what of the costs?\n\nIf only they could have known, if only\
+  \ they had acted differently. All of this could have been avoided...\n\nBut, then,\
+  \ they would do it all again anyway.\n\n Art \n\n'Hey, Moon Eyes!' is made possible\
+  \ by the hard work of skilled artists. \n\nCGs, Menu, and BGs by Roar\n\nCharacter\
+  \ Designs by RoanRedLion \nSprites by SirDrakes \nLogo by Jruva \nUI elements by\
+  \ JasperHuxley \nPortraits by Raigmann \r\n\n Follow on Itch and Bluesky for Updates\
+  \ \n\nAdditional Credits\n\nWith Music by Scott Buckley :\n\n 'Castles in the Sky'\
+  \ by Scott Buckley - released under CC-BY 4.0. \n\n 'Memories Of Stone' by Scott\
+  \ Buckley - released under CC-BY 4.0.\n\n 'Theory of Machines' by Scott Buckley\
+  \ - released under CC-BY 4.0.\n\n 'Fading' by Scott Buckley - released under CC-BY\
+  \ 4.0.\n\n 'Penumbra' by Scott Buckley - released under CC-BY 4.0.\n\n Additional\
+  \ Track by PierceTheSeaLion \n\n Wattsons Kinetic Text Tags \n\n Feniks EasyRenpyGui\
+  \ \n\n Glitch Shader by GRIMUMU \n\nRecommended Projects\n\n 'Minotaur Hotel' by\
+  \ Minoh Workshop \n 'L'automne'  By Bjaker\n\n' Roads Yet Traveled ' by CryptidDog\n\
+  \n' Under Heaven' by Faintly Spotted\n\n 'Moonlight Castle' - Has CGs by Roar!  \
+  \    \n 'Limits' by SirDrakes"

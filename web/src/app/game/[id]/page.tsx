@@ -1,10 +1,13 @@
 import Link from "next/link";
+import type { CSSProperties } from "react";
 import { notFound } from "next/navigation";
 import { getAllGames, getGameById, getRelatedGames } from "@/lib/games";
 import { RatingBadge } from "@/components/game/RatingBadge";
 import { TagBadge } from "@/components/game/TagBadge";
 import { GameGrid } from "@/components/game/GameCard";
-import { ExternalIcon, GamepadIcon } from "@/components/ui/Icons";
+import { GalleryLightbox } from "@/components/game/GalleryLightbox";
+import { GameLinks } from "@/components/game/GameLinks";
+import { GamepadIcon } from "@/components/ui/Icons";
 
 export function generateStaticParams() {
   return getAllGames().map((g) => ({ id: g.id }));
@@ -101,17 +104,30 @@ export default async function GamePage({
               ))}
             </div>
 
-            <div className="mt-auto flex flex-wrap gap-2 pt-2">
-              {game.links.map((link) => (
-                <a key={link.url} href={link.url} target="_blank" rel="noreferrer" className="btn btn-primary">
-                  {link.name}
-                  <ExternalIcon size={13} />
-                </a>
-              ))}
+            <div className="mt-auto pt-2">
+              <GameLinks links={game.links} />
             </div>
           </div>
         </div>
       </article>
+
+      {/* 完整简介（itch 原文，保留段落） */}
+      {game.description_full && (
+        <section className="card anim-fade-up mt-4 p-5 sm:p-6" style={{ "--index": 1 } as CSSProperties}>
+          <h2 className="mb-3 text-[16px] font-semibold">详细介绍</h2>
+          <div className="whitespace-pre-line text-[14px] leading-relaxed text-[var(--text-secondary)]">
+            {game.description_full}
+          </div>
+        </section>
+      )}
+
+      {/* 画廊 */}
+      {game.gallery && game.gallery.length > 0 && (
+        <section className="anim-fade-up mt-6" style={{ "--index": 2 } as CSSProperties}>
+          <h2 className="mb-3 text-[16px] font-semibold">画廊（{game.gallery.length}）</h2>
+          <GalleryLightbox images={game.gallery} />
+        </section>
+      )}
 
       {related.length > 0 && (
         <section className="mt-10">

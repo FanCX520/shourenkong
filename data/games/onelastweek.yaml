@@ -1,4 +1,4 @@
-id: onelastweek
+﻿id: onelastweek
 title: One Last Week
 title_en: One Last Week
 cover: https://img.itch.zone/aW1nLzIxMzM4ODUyLnBuZw==/original/Tfp9Mn.png
@@ -20,9 +20,38 @@ features: []
 links:
 - name: itch.io
   url: https://chmron.itch.io/onelastweek
+  type: itch
+- name: 官网
+  url: https://bsky.app/profile/chmron.bsky.social
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Content Warning: One Last Week deals with sensitive topics, including\
+  \ suicidal ideation, and is generally a pretty depressing time. \r\n\n The web version\
+  \ might be slower to run and choppier than the downloadable version - as such, it\
+  \ isn't the ideal way to experience the story.\n\n ------- \n\nThe world is ending.\n\
+  \nThe governments of the world have all fallen apart, the power grid is down, the\
+  \ cell towers aren't functioning anymore, and the cities have been all but emptied\
+  \ out. Slowly but surely, a deadly infection spreads across the land, destroying\
+  \ the landscape, attaching to anyone who comes into contact with it, tearing them\
+  \ apart from the inside and turning them into hosts who spread it further.\n\nHowever,\
+  \ Judah and Birch, two survivors who find each other through the whims of fate,\
+  \ don't really care. Not much point in doing so, after all - the two are stuck on\
+  \ the top floor of a skyscraper, unable to leave the building due to the infection congregating\
+  \ in its lower floors.\n\nAnd so, with nothing better to do, they spend their days\
+  \ passing the time by chatting, sleeping, working out, and tuning in to a daily\
+  \ radio program hosted by a fellow survivor.\n\nOf course, the ending of this story\
+  \ has already been decided. Sooner or later, the infection will  come to end it\
+  \ all. But until then?\n\nThey've got all the time in the world.\n\n ------- \n\n\
+  \ One Last Week is a gay visual novel made for the  May Wolf 2025 Game Jam . It\
+  \ is 13000 words long, with all visual assets and writing having been made by Chmron,\
+  \ who you can find on Bluesky or Twitter ."
+gallery:
+- https://img.itch.zone/aW1hZ2UvMzU4NTU0Ni8yMTMzODg5OC5wbmc=/original/UrLZ%2FV.png
+- https://img.itch.zone/aW1hZ2UvMzU4NTU0Ni8yMTMzODkwMS5wbmc=/original/VxXjmQ.png
+- https://img.itch.zone/aW1hZ2UvMzU4NTU0Ni8yMTMzODkwMC5wbmc=/original/076MtY.png
+- https://img.itch.zone/aW1hZ2UvMzU4NTU0Ni8yMTMzODg5OS5wbmc=/original/Xxdgpz.png

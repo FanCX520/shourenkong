@@ -1,4 +1,4 @@
-id: silverpine
+﻿id: silverpine
 title: Silverpine
 title_en: Silverpine
 cover: https://img.itch.zone/aW1nLzE4ODQzNTM2LnBuZw==/original/cq80Up.png
@@ -17,9 +17,19 @@ features: []
 links:
 - name: itch.io
   url: https://three-eyes-software.itch.io/silverpine
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Cinzel%20Decorative%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: Silverpine is an experimental fantasy lifesim with NPCs powered
+  by a local AI model.
+gallery:
+- https://img.itch.zone/aW1hZ2UvMjk1NzQ4NS8yNTU4NTQ5My5qcGc=/original/q9kNTf.jpg
+- https://img.itch.zone/aW1hZ2UvMjk1NzQ4NS8yNTkzNTc3MC5wbmc=/original/uA9kq9.png
+- https://img.itch.zone/aW1hZ2UvMjk1NzQ4NS8yNTkzNTc3MS5wbmc=/original/PT7kIK.png

@@ -1,4 +1,4 @@
-id: bloodsuckers
+﻿id: bloodsuckers
 title: Bloodsuckers
 title_en: Bloodsuckers
 cover: https://img.itch.zone/aW1nLzE5NjY4NjUzLmpwZw==/original/r7ncAb.jpg
@@ -20,9 +20,34 @@ features: []
 links:
 - name: itch.io
   url: https://kraajlanding.itch.io/bloodsuckers
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Average%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Bloodsuckers  is a linear furry visual novel that melds love, loss,\
+  \ and murder. Bare the fangs of tiger and vampire Elias as he infiltrates a mysterious\
+  \ compound, his mind centered on one thing. The Hunt. \n\nTONIGHT HE WILL KILL.\n\
+  \nHe remembers the Hunt. It comes back to him so easily. So simply. The chase. The\
+  \ guilt. The ecstasy. \n\nElias had sworn-off this part of himself. Renounced it\
+  \ long ago. Made a promise. But it's different tonight, he tells himself. His muscles\
+  \ are weak. His fur graying. Starving. Always starving. He doesn't need much. Just\
+  \ a little. Just enough.\n\nBLOOD CHANGES YOU.\r\n\nThe parking lot is empty. He\
+  \ slips between the streetlights. The cameras don't see. The shadows are his friends.\
+  \ They tell him things. When to go. Where. He climbs the fence. He finds the window.\
+  \ And then he's inside.\n\nThe Hunt is on.\n\nThis work of fiction was created for\
+  \ Love + Attraction Jam 2025 . Big thanks to Nikko  and all my fellow jammers! Go\
+  \ check out their submissions too!\n\nThe game contains content that may not be\
+  \ comfortable for all readers. A list of content warnings is provided below. Be\
+  \ aware that this list may not be all-encompassing. Player discretion is advised.\n\
+  \n Content Warnings \r\n\nGraphic Violence\n\nAttempted Suicide\n\nChild Abuse\n\
+  \nLoud Noises\n\nFlashing Images"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMzI5Mzg2Mi8yMDA4NDgxOS5wbmc=/original/gg16tZ.png
+- https://img.itch.zone/aW1hZ2UvMzI5Mzg2Mi8yMDA4NDgxNy5qcGc=/original/oKaC4o.jpg
+- https://img.itch.zone/aW1hZ2UvMzI5Mzg2Mi8yMDA4NDgxOC5wbmc=/original/N2ILrE.png

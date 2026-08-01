@@ -1,4 +1,4 @@
-id: dynamine
+﻿id: dynamine
 title: Dynamine
 title_en: Dynamine
 cover: https://img.itch.zone/aW1nLzI2MjY4NjgzLnBuZw==/original/3fOIzr.png
@@ -19,9 +19,57 @@ features: []
 links:
 - name: itch.io
   url: https://hexagonnico.itch.io/dynamine
+  type: itch
+- name: Steam
+  url: https://store.steampowered.com/app/4480100/Dynamine
+  type: steam
+- name: 官网
+  url: https://bsky.app/profile/hexagonnico.bsky.social
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: 'What if Minesweeper was actually about mining ? Your goal in Dynamine
+  is to mine for ores and sell them to make money while avoiding explosives. The rules
+  are the same as the classical Minesweeper but inside an incremental mining game.
+  Dig a cell to reveal its contents and find ores.
+
+
+  Sell your valuables to make money , buy upgrades and special tools to help you dig
+  and make money faster, then collect even more ores that you can sell to make even
+  more money!
+
+
+  Find the elevator in every layer of the mine to go deeper and reach the more valuable
+  minerals. How deep can you go? Be careful though, the deeper layers are also more
+  dangerous!
+
+
+  Explore an infinite procedurally-generated world , find different biomes with different
+  resources, find abandoned structures , and sometimes even special treasures.
+
+
+  As you keep digging and your cave becomes larger and larger, you are going to need
+  to set up minecart tracks to move around.
+
+
+  Selling raw ores is not profitable enough anymore? Set up some furnaces to process
+  them and increase their value!
+
+
+  The numbers on the ground indicate how many explosives are in the 8 adjacent cells.
+
+
+  Dig a cell to reveal its content. It could be empty, contain a mineral, or reveal
+  a large open area. If you dig an explosive cell, it''s game over!'
+gallery:
+- https://img.itch.zone/aW1hZ2UvNDAwMzA0NS8yNjI2ODU0NS5wbmc=/original/K%2FQHhr.png
+- https://img.itch.zone/aW1hZ2UvNDAwMzA0NS8yNjI2ODU0Ni5wbmc=/original/fu4Pr3.png
+- https://img.itch.zone/aW1hZ2UvNDAwMzA0NS8yNjI2ODU0OC5wbmc=/original/MGLGa6.png
+- https://img.itch.zone/aW1hZ2UvNDAwMzA0NS8yNjI2ODU0OS5wbmc=/original/LF3CMG.png
+- https://img.itch.zone/aW1hZ2UvNDAwMzA0NS8yNjI2ODU1MC5wbmc=/original/XjkRbl.png
+- https://img.itch.zone/aW1hZ2UvNDAwMzA0NS8yNjI2ODU1Mi5wbmc=/original/r%2F0GPr.png
+- https://img.itch.zone/aW1hZ2UvNDAwMzA0NS8yNjI2ODU1My5wbmc=/original/7g3r6k.png

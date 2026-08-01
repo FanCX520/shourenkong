@@ -1,4 +1,4 @@
-id: fox-flux-deluxe
+﻿id: fox-flux-deluxe
 title: fox flux DELUXE
 title_en: fox flux DELUXE
 cover: https://img.itch.zone/aW1nLzEzMjcwMjk3LnBuZw==/original/imbqvi.png
@@ -19,9 +19,76 @@ features: []
 links:
 - name: itch.io
   url: https://eevee.itch.io/fox-flux-deluxe
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Nunito%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/eevee
+  type: patreon
+- name: Discord
+  url: https://discord.gg/8aBpBQW
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "fox flux DELUXE is a puzzle-platformer about being a little cartoon\
+  \ fox who turns into things rather easily.  Sometimes that's quite helpful for puzzling\
+  \ and/or platforming!  Other times, it is...  less helpful.\n\nAlong the way you\
+  \ may also contest with elaborate contraptions, play a completely unrelated minigame,\
+  \ or decide to ignore all of that and just grab all the candy in sight.  But keep\
+  \ your eye on the prize: you've gotta collect enough hearts to rescue your girlfriend,\
+  \ who has been kidnapped by...  herself.  Don't worry about it.\n\nabout the game\n\
+  \nThe game is still a \U0001F6A7 work-in-progress \U0001F6A7, but there's a fully\
+  \ functional demo of the first few levels!  That should be enough to whet your appetite,\
+  \ and maybe even give you a few hours of running around.\n\nA few features are accelerated\
+  \ so you can play with them early; a few others have been cut out because um I didn't\
+  \ finish them yet.  But the important stuff is there.\n\nThe original iteration\
+  \ of this game was fox flux , a jam game from way back in 2017.  I've been plugging\
+  \ away at this version on and off ever since — and it's taken a while because I\
+  \ had to take some detours to do stuff like learn to draw .  The jam game was very\
+  \ nearly the first pixel art I ever made!\n\nHere is an obligatory bulleted list\
+  \ of features:\n\nTransform into stuff, and back again (hopefully)\n\nSolve little\
+  \ puzzles — or avoid little puzzles, if you prefer\n\nNavigate your way around various\
+  \ thingamajigs that might react to different variants of you in different ways\n\
+  \nMake your way through the world entirely non-violently because what kind of monster\
+  \ would go around stomping on wildlife\n\nBump into large bees\n\nPlay an old arcade\
+  \ minigame to earn little bonus artwork\n\nVisit Star Anise's shop for the best\
+  \ deals on whatever he found lying around\n\nPush a big rock\n\nCollect treasures\
+  \ that go into a satisfying grid where you can look at them\n\nWonder how the fuck\
+  \ you're supposed to get that star\n\nI don't know when this will be finished —\
+  \ there's a lot to do, and this is largely a one-fox operation.  But if you're \"\
+  hype\" (as the kids say) you can chip in on my Patreon to get new builds of the\
+  \ game irregularly; tell me when I totally broke something; and even join the secret\
+  \ Discord channel where I've already spoiled the plot.  You can also check out:\n\
+  \nthe dev logs I post here (which I think you might get emailed about if you follow\
+  \ my itch account , maybe?)\r\n\nmy bluesky where sometimes i talk about gamedev and\
+  \ sometimes i make dumb jokes instead\n\nthe Discord channel \r\n\nI might update\
+  \ the demo with some missing  features  later on — stuff like music and a useful options menu\
+  \ — but won't be adding any more  levels or story.  If you want more of those, you'll\
+  \ have to either pledge, or wait until I finish!\n\nplaying\n\nThe controls are\
+  \ currently a little dubious and can't be rebound (yet), but I've been playing with\
+  \ them for months, so they can't be that bad!  They're mostly prompted in-game,\
+  \ but in case you forget:\n\narrow keys to move\n\nspacebar to jump + select in\
+  \ menus\n\nE to interact\n\nF to use a special ability\n\nR to use an inventory\
+  \ item\n\nEsc for menu\n\nF11 to toggle fullscreen\n\nGamepads also work, in theory.\n\
+  \nThe game saves automatically.\n\nknown issues\n\nSome sound effects and special-purpose\
+  \ music tracks are missing.  Making those is hard whoa\n\nAny art you don't like\
+  \ is a work in progress\n\nI didn't do a Mac or Linux build yet sorry\n\nIt is possible,\
+  \ though considerable effort and ingenuity, to render some levels unwinnable.  This\
+  \ is a feature.  I'm not your mom\n\nPersonally I think the farm level might be\
+  \ a bit too long but that's just more game for you to enjoy I guess\n\ntech notes\n\
+  \nLinux, Mac, and 32-bit Windows users: you want to install LÖVE 11.x either from\
+  \ the LÖVE website or your package manager, grab the .love file, and drag the latter\
+  \ onto the former.  Or run `love fox-flux-deluxe.love` in a terminal, if appropriate.\n\
+  \n(Note that official releases of LÖVE up through 11.4 have a bug that can cause\
+  \ rare but erratic behavior, including sporadic crashes and the complete failure\
+  \ of collision detection.  This is fixed in 11.5, and in the Windows build here.)"
+gallery:
+- https://img.itch.zone/aW1hZ2UvNzE1NzIxLzExMTY4OTc5LnBuZw==/original/P0Nrz9.png
+- https://img.itch.zone/aW1hZ2UvNzE1NzIxLzExMTY4OTgxLnBuZw==/original/qN8%2Fp2.png
+- https://img.itch.zone/aW1hZ2UvNzE1NzIxLzExMTY4OTgyLnBuZw==/original/kfkIKT.png
+- https://img.itch.zone/aW1hZ2UvNzE1NzIxLzExMTY4OTgzLnBuZw==/original/xuUk0u.png

@@ -1,4 +1,4 @@
-id: gotosnowtown
+﻿id: gotosnowtown
 title: 出发！去落雪镇(Go! To SnowTown)
 title_en: 出发！去落雪镇(Go! To SnowTown)
 cover: https://img.itch.zone/aW1nLzIyMDkyMTMyLnBuZw==/original/pojQNh.png
@@ -19,9 +19,48 @@ features: []
 links:
 - name: itch.io
   url: https://yuxiu.itch.io/gotosnowtown
+  type: itch
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "1989年1月，盐湖镇的少年迈特罗做了一个艰难的决定——卖掉母亲生日时赠予他的相机。父母的相继离世让这个家不再温暖，曾经一同前往落雪镇观赏极光的美好约定也化为泡影。面对未来，他感到前所未有的迷茫。\n\
+  \n家已变得不再安全，在继父的威胁下，迈特罗别无选择，只能逃离这个已经破碎的家。凭借着寄托了母亲意志的北极星，他毅然决然地朝着北方进发。前路未知，等待他的是严寒的挑战还是陌生人的善意？迈特罗能否成功抵达心中向往的落雪镇，并目睹那本应属于他们一家的绚丽极光？\r\
+  \n\n《出发去落雪镇》是一款正在制作中的买断制兽人视觉小说游戏。玩家将跟随迈特罗的脚步，体验一段关于勇气、希望与寻找自我的旅程。\n\n [AI-generated\
+  \ content] \n 本游戏的部分 背景图片、UI组件 和 本地化 使用生成式AI技术辅助创作。 \n\n~~~~\n\nJanuary 1989. Meteor,\
+  \ a young man from Salt Lake Town, made a difficult decision—to sell the camera\
+  \ his mother gave him for his birthday. The successive loss of both parents had\
+  \ left his home devoid of warmth, and the beautiful promise of witnessing the aurora\
+  \ together in SnowTown had vanished like a dream. Facing the future, he felt an\
+  \ unprecedented sense of confusion.\r\n\nHome was no longer safe. Under the threat\
+  \ of his stepfather, Meteor had no choice but to flee the broken household. Guided\
+  \ by the lodestar—a symbol of his mother’s will—he resolutely set out toward the\
+  \ north. Ahead lay the unknown: would he face the challenge of harsh cold, or the\
+  \ kindness of strangers? Would Meteor reach the SnowTown he yearned for and witness\
+  \ the dazzling aurora that was meant to belong to his family?\r\n\n Go! to SnowTown\
+  \  is a furry visual novel currently in development. Players will follow Meteor’s\
+  \ footsteps and experience a journey about courage, hope, and self-discovery.\n\n\
+  \ [AI-generated content]  \n\n Part of the game's Background images , UI components\
+  \ , and L ocalization s were created with the aid of generative AI technology. \n\
+  \n~~~~\n\n1989年1月、ソルトレークタワンの少年メテオは母親の誕生日に贈られたカメラを売却するという辛い決断を下した。両親が相次いで亡くなったことで、この家はもはや温かくなくなり、スノータウンで一緒にオーロラを見に行くという素晴らしい約束も水泡に帰した。未来に直面し、彼はこれまでにないほど迷いを感じていた。\n\
+  \n家はもはや安全ではなく、継父の脅威のもと、マイテロはこの壊れた家を離れることを他に選択肢がなかった。母の意志が込められた北極星に頼り、彼は決然と北へと進む。前路は未知で、彼を待ち受けているのは厳寒の挑戦なのか、それとも見知らぬ人の善意なのか？マイテロは心から憧れていたスノータウンに無事到着し、彼ら一家が本来見られるべき美しい極光を目にすることができるだろうか？\n\
+  \n『出発！スノータワンへ』は開発中のオムニカスト制のオークビジュアルノベルゲームである。プレイヤーはメトロの足跡をたどり、勇気、希望、そして自己探求の旅を体験する。\n\
+  \n [AI-generated content]  \n\n本ゲームの一部の 背景画像 、 UIコンポーネント 、および ローカライゼーション には、生成AI技術を活用して創作を支援しています。\n\
+  \n~~~~\n\n1989년 1월, 소금호 마을의 소년 메이트로는 어머니 생일 선물로 받은 카메라를 팔기로 어려운 결정을 내렸다. 부모의 잇달은\
+  \ 죽음으로 집안은 더 이상 따뜻하지 않았고, 눈이 내리는 마을에서 함께 오로라를 보러 갔던 아름다운 약속도 물거품이 되었다. 미래를 마주한 그는\
+  \ 전에 없던 막막함을 느꼈다.\n\n집은 더 이상 안전하지 않게 되었고, 후부의 위협 아래에서 메트로는 이미 부서진 집을 떠나야만 했다. 어머니의\
+  \ 의지가 담긴 북극성을 바탕으로, 그는 단호하게 북쪽으로 향했다. 앞날은 알 수 없었고, 그를 기다리는 것은 혹독한 추위의 도전이 될지, 낯선\
+  \ 사람의 선처가 될지? 메트로는 마음속에 간직한 눈이 내리는 마을에 성공적으로 도착할 수 있을까, 그리고 그들이 당연히 누려야 할 화려한 북극광을\
+  \ 목격할 수 있을까?\n\n《눈이 내리는 마을로 떠나다》는 현재 제작 중인 일회성 구매형 오크 비주얼 노벨 게임입니다. 플레이어는 메트로의 발걸음을\
+  \ 따라 용기, 희망 그리고 자아 찾기에 관한 여정을 경험하게 됩니다.\n\n [AI-generated content]  \n\n본 게임의 일부\
+  \ 배경 이미지 , UI 컴포넌트 및 현지화에 생성형 AI 기술을 활용해 보조 창작을 합니다."
+gallery:
+- https://img.itch.zone/aW1hZ2UvMzcxMjIzOS8yNTcwMjI3NS5qcGc=/original/U52hQY.jpg
+- https://img.itch.zone/aW1hZ2UvMzcxMjIzOS8yNTcwMjI3My5qcGc=/original/ggYXYb.jpg
+- https://img.itch.zone/aW1hZ2UvMzcxMjIzOS8yNTcwMjI3Ni5qcGc=/original/jL5eMm.jpg
+- https://img.itch.zone/aW1hZ2UvMzcxMjIzOS8yNTcwMjI3NC5qcGc=/original/C2c8P3.jpg
+- https://img.itch.zone/aW1hZ2UvMzcxMjIzOS8yNTcwMjI3OC5qcGc=/original/XyUaHi.jpg
+- https://img.itch.zone/aW1hZ2UvMzcxMjIzOS8yNTcwMjI5MC5qcGc=/original/tgS1cU.jpg
+- https://img.itch.zone/aW1hZ2UvMzcxMjIzOS8yNTcwMjI5Mi5qcGc=/original/nkgsub.jpg

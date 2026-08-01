@@ -1,4 +1,4 @@
-id: steadfast
+﻿id: steadfast
 title: Steadfast
 title_en: Steadfast
 cover: https://img.itch.zone/aW1nLzUxMTI2MTQucG5n/original/s%2Fvis6.png
@@ -19,9 +19,35 @@ features: []
 links:
 - name: itch.io
   url: https://drakes64.itch.io/steadfast
+  type: itch
+- name: 官网
+  url: https://www.freepik.com
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "=================================================\n\n A short story...\
+  \ \n\n Steady your heart, my friend. \n\n=================================================\n\
+  \n \"The perfect life may not exist in this rotten world.\"\n\"But does that mean\
+  \ we shouldn't try...?\" \n\n- F\n\n=================================================\n\
+  \n \"Like a moth to a flame...\" \n\n-W\n\n=================================================\n\
+  \nAuthor's Note: \n\nSteadfast is a short story by my dear friend Drakes and I. \n\
+  What started as a small project, turned into a story that surpassed my expectations\
+  \ and then some.\nI've learned a lot during the course of this project, not just\
+  \ with development and writing, but also about perspective on things.\n\nWith that\
+  \ said, as it is a short story I feel like it is best not to give much away before\
+  \ the start.\nIn essence, it's a romantic story, set in a medieval setting.\n\n\
+  The world is not always as it seems, and how you view it is not necessarily how\
+  \ someone else sees it.\n-GruntSteel\n\n------------------------------------------\n\
+  \nNever knew that creating something with a dear friend can be so much fun!\n\n\
+  A lot of love and effort has been put into this project, and now it is time to share\
+  \ it with the world.\n\nI hope that you'd enjoy reading through this novel!\n\n\
+  Have a good one everyone, take care...\n\n ...and know your Limits . ;)\n\n-Drakes\n\
+  \n=================================================\n\nCredits:\n\nStory by GruntSteel\
+  \ and Drakes .\n\nWriting by GruntSteel .\n\nCharacter Assets by Drakes .\n\nMusic\
+  \ by Camazule. \n\nSome Background are sourced from freepik.com - @upklyak, some\
+  \ from pexels .\n\nSound effects sourced from mixkit.co and zapsplat.com \n\n=================================================\n\
+  \ Note: This project took around 2 and a half weeks to finish. \n\n================================================="

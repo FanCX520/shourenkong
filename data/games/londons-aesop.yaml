@@ -1,4 +1,4 @@
-id: londons-aesop
+﻿id: londons-aesop
 title: London&#039;s Aesop
 title_en: London&#039;s Aesop
 cover: https://img.itch.zone/aW1nLzU1MDE1OTYucG5n/original/Pqsr2u.png
@@ -19,9 +19,48 @@ features: []
 links:
 - name: itch.io
   url: https://hyenadev.itch.io/londons-aesop
+  type: itch
+- name: Discord
+  url: https://discord.gg/DDKCwxY
+  type: discord
+- name: Ko-fi
+  url: https://ko-fi.com/hyenadev
+  type: kofi
+- name: 官网
+  url: https://incompetech.com/music/royalty-free/
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Follow the game on Twitter:  https://twitter.com/AesopLondon \n\
+  Join our Discord server here:  https://discord.gg/DDKCwxY )\nI now have a Kofi!\
+  \ Please donate here:  https://ko-fi.com/hyenadev \n\n---------------------------------------------------------------------------------------------------\
+  \ MYSTERIOUS ARTIFACTS IN THE CITY OF LONDON\n A YOUNG MAN RUNNING FROM HIS PAST\n\
+  \ A HYENA IN NEED OF A FRIEND \n\n ------------------------------------------------------------------------------------------------\
+  \ \n\n London's Aesop is a furry visual novel set in Britain's glorious capital.\
+  \  Step into the shoes of Ethan Lockwood, a lonely young man with a heart full of\
+  \ secrets. A night out reveals the existence of another world and a meeting with\
+  \ Iroko, a hyena soldier on a mission.  Iroko is searching for the Aesops, a wide\
+  \ array of tools that grant incredible powers.  Now the two must work to gather\
+  \ them before they turn London inside-out. \n\nEvery choice made matters: Will Ethan\
+  \ and Iroko become friends? Inseparable companions? Maybe something more? Even a\
+  \ single misstep could lead to a cruel fate. Face the past you left behind, uncover\
+  \ the mystery of the Aesops, and try not to lose your mind. \n\n---------------------------------------------------------------------------------------------------\n\
+  \n                                                                       FEATURES\n\
+                                                                      ----------------\
+  \ \n\n30,000+ words of dialogue (2-3 hours of playtime)\n\nA wide array of music\
+  \ and sounds\n\nNumerous choices to make\n\nFull character artwork\n\n---------------------------------------------------------------------------------------------------\n\
+  \n                                                                        CREDITS\n\
+                                                                         --------------\
+  \ \n\nWritten, directed and coded by HyenaDev (Me!)\n\nCharacter art by @UniqueEar\
+  \ and @inkiecloud \n\nMusic by Kevin MacLeod (Public use)\n\nSound effects: freesound.org\
+  \ \n\nBackgrounds: pexels.com / pixabay.com \n\nAndroid build compiled by  @inkiecloud"
+gallery:
+- https://img.itch.zone/aW1hZ2UvOTE4NDk3LzUyMTUzNDAucG5n/original/v3536H.png
+- https://img.itch.zone/aW1hZ2UvOTE4NDk3LzUyMTUzNDEucG5n/original/Y9Dnq3.png
+- https://img.itch.zone/aW1hZ2UvOTE4NDk3LzUyMTUzNDIucG5n/original/kulkDz.png
+- https://img.itch.zone/aW1hZ2UvOTE4NDk3LzUyMTU0NzcucG5n/original/sT%2BGud.png
+- https://img.itch.zone/aW1hZ2UvOTE4NDk3LzUyMTUzNDcucG5n/original/M%2B7S9a.png

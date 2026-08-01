@@ -1,4 +1,4 @@
-id: starwind-shrine
+﻿id: starwind-shrine
 title: Starwind Shrine
 title_en: Starwind Shrine
 cover: https://img.itch.zone/aW1nLzExOTc5MjQxLnBuZw==/original/HSkrTM.png
@@ -17,9 +17,29 @@ features: []
 links:
 - name: itch.io
   url: https://rubic.itch.io/starwind-shrine
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Manrope%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "CONTROLS \n\n Escape\r\n Pause\r\n WASD or Arrow Keys\r\n Move\r\
+  \n Space\r\n Press to jump Left Mouse Breathe (and try holding it!) \r\n\nBreathing\
+  \ allows you to push and pull objects in the world. You may even find it useful\
+  \ to hold your breath as long as possible!\n\n STARWIND SHRINE \n\nStarwind Shrine\
+  \ is a short and calm puzzle game about exploring a shrine.\n\n You awaken at the\
+  \ door of a long-abandoned shrine. It seems vaguely familiar. You are Melanie, the\
+  \ ephemeral keeper of Starwind Shrine.\n\nDo you remember this place? Find a path\
+  \ through the grounds and light torches along the way! \r\n\nStarwind Shrine is\
+  \ a physics-based puzzle game with a few clever tricks up its sleeve. It was submitted\
+  \ to the Level 99 Jam under the theme \"Take a deep breath.\" It leans into the\
+  \ theme by allowing the player to use strong gusts of wind to push and pull pieces\
+  \ of the puzzle together as they traverse the shrine.\n\n THE TEAM \n\n rubic (@paradoxrevolver)\
+  \ — Team Lead, Creative Director, Programmer\n\n ShyCryptid (@CryptidShy) — 3D Character\
+  \ Artist, 3D Animator\n\n keestak (@keestak) — Music, Sound FX, Visual FX, Programmer\n\
+  \n Camelot (@CameraCore) — Graphics Artist, UI Artist, Character Designer, Level\
+  \ Designer\n\n Kavol (@RotaryCobra) — 3D Environment Artist, Texture Artist"

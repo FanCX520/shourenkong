@@ -1,4 +1,4 @@
-id: i-want-to-wear-your-wool
+﻿id: i-want-to-wear-your-wool
 title: I Want to Wear Your Wool
 title_en: I Want to Wear Your Wool
 cover: https://img.itch.zone/aW1nLzI2NDEwNTU5LnBuZw==/original/mn35sE.png
@@ -21,9 +21,33 @@ features: []
 links:
 - name: itch.io
   url: https://cuteshadow.itch.io/i-want-to-wear-your-wool
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Jersey%2025%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "As spring arrives, Fable the wolf wants to turn over a new leaf\
+  \ and make friends with the other animals in the glade. Along the way, they meet\
+  \ a sheep who is a little too eager to be eaten.\n\n Please note only the web build\
+  \ currently has audio. \n\n Rating  the game 5 stars means more people will see\
+  \ it! ⭐\n\nFeatures\n\n1 complete story\n\n6000 words\n\n11 special illustrations\n\
+  \npixel-art rpg style\n\n original soundtrack \n\nfull voice acting\n\nCredits\n\
+  \nDirector\n\nProgrammer\n\nJustinn itch ,  bsky \n\nWriter\n\nLiliana itch \n\n\
+  Editor\n\nSerina  itch \n\nCharacter Designer\n\nIllustrator\n\nTeana itch \n\n\
+  Sprite Artist\n\nmikan  itch \n\nUI Artist\n\nAlina itch \n\nPlaytesting\n\nsumi\n\
+  \nComposer\n\nDalton Attig  Page \n\nSound Designer\n\nJeff Penny Page \n\nVoice\
+  \ Director\n\nAudio Engineer\n\nAine  itch \n\nFable VA\n\nRebecca Mondry-Zanaglio \
+  \ Carrd \n\nLana VA\n\nViolet Hayami  Carrd \n\nJuniper VA\n\nSam Grace  Page \n\
+  \nAnya VA\n\nAira Jun Page \n\nMaggie VA\n\nElissa Park Carrd \n\nAdditional Credits\n\
+  \n Ren'Py Speech Pauses by Kigyo"
+gallery:
+- https://img.itch.zone/aW1hZ2UvNDQyODkzNy8yNjM5MDc2MC5wbmc=/original/qf712M.png
+- https://img.itch.zone/aW1hZ2UvNDQyODkzNy8yNjM5MDc2Mi5wbmc=/original/O8ljCZ.png
+- https://img.itch.zone/aW1hZ2UvNDQyODkzNy8yNjM5MTI3Ny5wbmc=/original/8fAu%2Bc.png
+- https://img.itch.zone/aW1hZ2UvNDQyODkzNy8yNjM5MDc2My5wbmc=/original/0dbBYX.png
+- https://img.itch.zone/aW1hZ2UvNDQyODkzNy8yNjM5MDc2MS5wbmc=/original/UhhZuE.png

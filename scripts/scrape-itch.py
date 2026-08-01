@@ -128,6 +128,11 @@ def parse_game(url, html):
 def save(game):
     CANDIDATES.mkdir(parents=True, exist_ok=True)
     path = CANDIDATES / (game["id"] + ".yaml")
+    # 先删后写，绕过 Windows 对已存在文件的写锁（本地 IDE/沙箱）
+    try:
+        path.unlink()
+    except OSError:
+        pass
     path.write_text(yaml.safe_dump(game, allow_unicode=True, sort_keys=False, default_flow_style=False), encoding="utf-8")
     return path
 
@@ -143,7 +148,12 @@ def write_index():
                 items.append({"id": d.get("id"), "title": d.get("title"), "file": p.name})
         except Exception:
             pass
-    (CANDIDATES / "_index.json").write_text(json.dumps(items, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    idx = CANDIDATES / "_index.json"
+    try:
+        idx.unlink()
+    except OSError:
+        pass
+    idx.write_text(json.dumps(items, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print("index", len(items))
 
 def scrape_tag(tag, pages, delay, known):

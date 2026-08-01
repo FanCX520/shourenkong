@@ -1,4 +1,4 @@
-id: just-friends-visual-novel
+﻿id: just-friends-visual-novel
 title: Just Friends - Visual Novel
 title_en: Just Friends - Visual Novel
 cover: https://img.itch.zone/aW1nLzIwMzI3MDQzLnBuZw==/original/0E6Nhb.png
@@ -19,9 +19,70 @@ features: []
 links:
 - name: itch.io
   url: https://yekkusu.itch.io/just-friends-visual-novel
+  type: itch
+- name: Patreon
+  url: https://www.patreon.com/join/justfriends_visualnovel
+  type: patreon
+- name: Telegram
+  url: https://t.me/just_friends_VN
+  type: telegram
+- name: 官网
+  url: https://www.change.org/p/tell-mastercard-visa-activist-groups-stop-controlling-what-we-can-watch-read-or-play
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Just Friends is a Visual Novel that started as a small project\
+  \ that should have ended long ago. It was meant to be just a prototype for creating\
+  \ other VNs afterward, but the project got so big and interesting that looked like\
+  \ it would be a shame not to be developed into a full VN. \n\nAiden is a human who\
+  \ works hard and has too little time for himself, but suddenly he got the chance\
+  \ to spend a few days in a very beautiful resort to do whatever he pleases but work.\
+  \ During his time in a place where he never intended to be but was somehow thrown\
+  \ into it, will he find a good time or just waste his time away?\n\nGo with Aiden\
+  \ to this resort, live through his eyes what will happen in this short but very\
+  \ interesting chapter of his life, and maybe forge connections with people he never\
+  \ thought it would be possible for him to have in his life!\n\n Just Friends is\
+  \ an ongoing project on  Just Friends Patreon . The project has public releases\
+  \ here every three to four months, if you want monthly content you need to become\
+  \ a tier 2+ patron.  \n\n Current Public Build: Version 0.61.1.35 \n\n Current Patron\
+  \ Build: Version 0.85.0.46\n\n Next Public Updates: \n\n Build 0.63.0.35 - September\
+  \ 2026 \n\n Build 0.64.0.35 - November 2026 \n\n Build 0.65.0.35 -December 25th\
+  \ 2026  \n\n Build 0.67.1.35 - February 2027 \n\n Important Notes: \n\nPublic Builds\
+  \ are older builds released far in the past for Patrons. Any bugs found in these\
+  \ builds cannot be fixed, unless they are gamebreaking issues, you'll have to endure.\
+  \ Game breaking issues will be replaced by another build if found and reported.\n\
+  \nFor all effects, you can try older save files into newer builds however there's\
+  \ chances of crashes, so always start a new game on a new update. There is a failsafe\
+  \ in Just Friends but I don't remember when it was coded in 3.5.\n\nOnly PATREON\
+  \ SUPPORTERS can get the most recent builds AND monthly updates.\n\n MAC and ANDROID\
+  \ versions of the game are not available for Just Friends. MAC because I need to\
+  \ actually buy a machine and a license to test in that system and it's too expensive\
+  \ for someone who's barely making 200 bucks monthly with this project while working\
+  \ alone in it, and ANDROID because android builds only started being properly developed\
+  \ in the Godot 4 version of the game.  \nI tried to push Android versions of the\
+  \ Godot 3 but they just don't work properly and it's too much work to make them\
+  \ work on an older engine. If you need an Android Version of Just Friends, consider\
+  \ becoming a Patron at Tier 2+.\n\nThe android version of Just Friends is only available\
+  \ on Builds of Godot 4 version of the game, which for now, are Patreon only.\n\n\
+  If you want a Cheat Sheet for the game, Tier 2+ patrons always have access to the\
+  \ most recent ones (I update it once every year for patrons). Public Builds do not\
+  \ receive that perk, sorry. \n\n If you want to support the game without becoming\
+  \ a Patreon you can:  \n Buy the Demo here on itch/io. Any value you pay will help\
+  \ me.\n\nGo to my PATREON . On this link in the bottom of the page you can  Create\
+  \ a custom pledge.  These work as anonymous pledges, you can donate anything from\
+  \ 1 USD to anything your heard desires. However,  This feature DOES NOT give you\
+  \ any tier rewards.  If you want to become a regular patreon and get the rewards\
+  \ you have to chose one of the four regular tiers. After that, you can still donate\
+  \ more via the Custom Pledge at the bottom of that page. Thanks in advance!\n\n\
+  Just Friends Public Builds should update every two months from now on since there's\
+  \ enough of a gap for me to keep updates constant for the public. Please consider\
+  \ supporting the project on Patreon. Thanks.\n\n For more updates, try joining the\
+  \ open channel for this project on Telegram:  Telegram: Contact @just_friends_VN\
+  \  - The channel is fairly new and was created to avoid any Twitter Shenanigans\
+  \ with his new head. Even if there are no members there right now (at the time I'm\
+  \ putting this here) I will for now publish the updates of the game I usually do\
+  \ on Twitter in this channel too."

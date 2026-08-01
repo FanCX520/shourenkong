@@ -1,4 +1,4 @@
-id: specimen29sfw
+﻿id: specimen29sfw
 title: Specimen 29 sfw
 title_en: Specimen 29 sfw
 cover: https://img.itch.zone/aW1nLzI0ODYxMzQyLnBuZw==/original/SqH6pw.png
@@ -19,9 +19,32 @@ features: []
 links:
 - name: itch.io
   url: https://smughyenastudios.itch.io/specimen29sfw
+  type: itch
+- name: 官网
+  url: https://bsky.app/profile/shirobigwuf.bsky.social
+  type: official
+- name: Discord
+  url: https://discord.gg/tNDpMsPRk2
+  type: discord
+- name: Patreon
+  url: https://patreon.com/SmugHyenaStudios?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Hey there, this is the backup page for 29, created in light of\
+  \ recent events on Itch.io. Any and all support will be greatly appreciated.\n\n\
+  Specimen 29 is a Furry Visual Novel that follows the story of Noah, a human abducted\
+  \ and experimented on by a mysterious group of people. After years of isolation\
+  \ and experimentation, Noah is saved by a group of mercenaries who offer to help\
+  \ him in his current predicament.\r\n\nFollow along as Noah discovers the mysteries\
+  \ of those who abducted him and their larger goals of ushering the Galaxy into a\
+  \ new era.\r\n\nThis is a Gay furry visual novel. Although it isn't the main focus\
+  \ of the VN, it is featured heavily.\r\n\nThe story is written by me (Peros)\r\n\
+  \nCoding by Taliel\r\n\nIllustrations by Shiro Okami ,  SnakeBytz  and  Maraxon\
+  \ .\n\n Also, extra help was given by Fenreon and other beloved friends.\r\n\nIf\
+  \ you want to stay up to date, feel free to join the  Discord or follow us on  Bsky\
+  \ .\r\n\nFor those who wish to do so, you can also support us on Patreon ."

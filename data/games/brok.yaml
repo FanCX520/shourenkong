@@ -1,4 +1,4 @@
-id: brok
+﻿id: brok
 title: BROK the InvestiGator
 title_en: BROK the InvestiGator
 cover: https://img.itch.zone/aW1nLzIyMDM4NDYzLnBuZw==/original/K6NP%2By.png
@@ -19,9 +19,87 @@ features: []
 links:
 - name: itch.io
   url: https://cowcat.itch.io/brok
+  type: itch
+- name: 官网
+  url: https://www.brokgame.com/accessibility.php
+  type: official
+- name: Steam
+  url: https://store.steampowered.com/app/1318790
+  type: steam
+- name: Discord
+  url: https://discord.gg/brok
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Narrative-driven adventure game that blends action and investigation\
+  \ in never-before-seen ways. Will you use your brain... or your brawn? \n\nIn a\
+  \ futuristic \"light cyberpunk\" world where animals have replaced humans, privileged\
+  \ citizens live under a dome protected from the ambient pollution while others struggle\
+  \ to make a living outside. \n\nBrok, a private detective and former boxer, lives\
+  \ with Graff, the son of his deceased wife. Although he could never elucidate her\
+  \ accident, recent events may shed some light on an even more tragic outcome...\
+  \ one that may be linked to their own existence. \n\nWill they be able to withstand\
+  \ the threats of this corrupted world and face their own destiny?\n\nFEATURES\n\n\
+  A deep and emotional narrative-rich experience filled with characters reminiscent\
+  \ of classic 80s/90s cartoons.\nThe first game to combine a \"Classic Adventure\"\
+  \ with \"Beat'em up\" and RPG elements!\n\nSolve puzzles with your wits... or muscles!\n\
+  \nMake choices impacting gameplay and/or story\n\nEasy mode for pure \"Point & Click\"\
+  \ gameplay (fights can be skipped)\n\nLevel up to beat enemies and bosses\n\nCombine\
+  \ clues to uncover the truth!\n\nIn-game hints\n\nAll controls supported (mouse,\
+  \ keyboard or controller)\n\nFully voice acted\n\nText available in English, French,\
+  \ Portuguese (Brazilian), Simplified and Traditional Chinese, German, Italian, Japanese,\
+  \ Korean, Polish, Russian and Spanish\n\n Each itch.io purchase includes a Steam\
+  \ key! (in addition to the DRM Free downloads) \n\nENJOY THIS ADVENTURE WITH FRIENDS\n\
+  \nUp to 4 players can experience the adventure together!\nPlayer 1 can use either\
+  \ keyboard/mouse or a controller.\nEach co-op player requires the use of a controller.\
+  \ (any kind supported: Xbox, PS4, PS5...)\n\nThey can:\n\nParticipate in fights\n\
+  \nGain experience and level up\n\nExamine the surroundings\n\nCollect hidden \"\
+  shadow ads\"\n\nBuy food and hints\n\nReact with sounds and emojis\n\n6 playable\
+  \ characters\n\nACCESSIBILITY\n\nBROK is the first full-fledged adventure game to\
+  \ be fully playable by blind or visually impaired players! (added in version 1.3)\n\
+  \n- Fully narrated via quality text-to-speech and audiodescriptions (characters,\
+  \ locations and scenes.)\n\n- Puzzles adapted for blindness.\n\n- All puzzles and\
+  \ fights can be skipped.\n\n- Adapted tutorials.\n\n- Buttons to repeat the last\
+  \ voice speech and instructions.\n\n- Positional audio for fights\n\n- No online\
+  \ connectivity required (after the download).\n\n- No specific device required:\
+  \ play with keyboard or a controller.\n\n- Additional options: larger fonts and\
+  \ increased contrast (backgrounds and enemies.)\n\n- To enter the accessibility\
+  \ menu, press SPACE (or Y on a Xbox controller) on the title screen, then follow\
+  \ the audio instructions.\n\n- For best audio prompts, choose your type of controller\
+  \ in the options.\n\n IMPORTANT: Accessibility speeches are only available in English. \
+  \ \n\nHowever, a new option has been added to the Windows version to play speeches\
+  \ in other languages:\n- Enable \"clipboard narration\" at the bottom of the accessibility\
+  \ menu. All the text will be sent to the clipboard.\n- Install a text-to-speech\
+  \ software on your computer such as NVDA with a \"Clipboard Reader\" plugin.\n-\
+  \ Languages supported: Simplified Chinese, French (the other languages are partially\
+  \ supported)\nMore information and plugin download:  https://www.brokgame.com/accessibility.php\
+  \ \n\nSYSTEM REQUIREMENTS\n\nRequires a 64-bit processor and operating system.\n\
+  \n Windows: \n\nWindows 7, 8.1, 10 or 11 (64 bits)\nProcessor: 1.5 GHz Dual Core\n\
+  Memory: 4 GB RAM\nGraphics: Intel(R) HD Graphics 5000, Nvidia or ATI card with at\
+  \ least 1GB VRAM\nDirectX: Version 11\nStorage: 2 GB available space\n\n Mac: \n\
+  \nOS X 10.15 Catalina or later\nProcessor: 2 GHz Dual Core\nMemory: 4 GB RAM\nGraphics:\
+  \ Intel(R) HD Graphics 5000, Nvidia or ATI card with at least 1GB VRAM\nStorage:\
+  \ 2 GB available space\nIn-game achievements (no Galaxy support)\n\n Linux: \n\n\
+  Ubuntu 18.04 or later (64 bit only)\nProcessor: 2.5 GHz Quad Core\nMemory: 4 GB\
+  \ RAM\nGraphics: Modern Intel chipset, Nvidia or ATI card with at least 1GB VRAM\n\
+  Storage: 2 GB available space\n\nPLEASE NOTE: GameMaker only officially supports\
+  \ Ubuntu. I will not provide support for other Linux distributions, although the\
+  \ game will probably run fine.\n\n iiRcade: \n\nSince the discontinuation of these\
+  \ arcade machines and their digital store, I am including this build, along with\
+  \ configuration files. This is an option to legally get the game for iiRcade hardware\
+  \ owners. Please note that I will not do updates for this version.\n\nAlthough this\
+  \ is an .apk file, I do not recommend using it on a phone as this has no touch support\
+  \ and some commands are bound to player 2 controls."
+gallery:
+- https://img.itch.zone/aW1hZ2UvODM5OTQ2LzQ3MDg4OTcucG5n/original/a5jOc%2B.png
+- https://img.itch.zone/aW1hZ2UvODM5OTQ2LzQ3MDg5MDIucG5n/original/g%2FZsbA.png
+- https://img.itch.zone/aW1hZ2UvODM5OTQ2LzQ3MDg4OTgucG5n/original/y1QeGS.png
+- https://img.itch.zone/aW1hZ2UvODM5OTQ2LzQ3MDg4OTkucG5n/original/8sDiRI.png
+- https://img.itch.zone/aW1hZ2UvODM5OTQ2LzQ3MDg5MDUucG5n/original/kf6cFh.png
+- https://img.itch.zone/aW1hZ2UvODM5OTQ2LzQ3MDg5MDQucG5n/original/s5zk6r.png
+- https://img.itch.zone/aW1hZ2UvODM5OTQ2LzQ3MDg5MDEucG5n/original/kwlNbT.png
+- https://img.itch.zone/aW1hZ2UvODM5OTQ2LzQ3MDg5MDAucG5n/original/g8DCAk.png

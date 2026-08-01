@@ -1,4 +1,4 @@
-id: parsnip
+﻿id: parsnip
 title: Parsnip
 title_en: Parsnip
 cover: https://img.itch.zone/aW1hZ2UvMTQ0NzMyLzExMjI2NDcucG5n/original/ol1TCe.png
@@ -17,9 +17,26 @@ features: []
 links:
 - name: itch.io
   url: https://bunbirb.itch.io/parsnip
+  type: itch
+- name: 官网
+  url: http://indiegames.com/2018/03/trust_your_instincts_while_que.html
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "WARNING AS OF 2024: This game is pretty old, and often crashes\
+  \ as of the last year or so. Explaination here: https://itch.io/post/11456173 \n\
+  \nParsnip is a character focused point and click adventure game about a hungry rabbit\
+  \ and his quest for cake.\n\nTragedy strikes when Parsnip realises he has run out\
+  \ of ingredients, and he must set off on an incredible adventure to ask his neighbours\
+  \ for help.\n\n Features: \n\nTraditionally animated hand drawn graphics!\n\nA point\
+  \ and click adventure with an emphasis on characters!\n\nPoor optimisation!\n\n\
+  Over 500 lines of mildly amusing dialogue!\n\nLike, a whole hour of gameplay!\n\n\
+  \ Some Reviews: \n\n http://indiegames.com/2018/03/trust_your_instincts_while_que.html\
+  \ \n\n https://www.freegameplanet.com/parsnip-download-game/ \n\n http://www.siliconera.com/2018/04/04/parsnip-surprisingly-concerning-journey-bun...\
+  \ \n\n Sequel: \n\n https://digital-poppy.itch.io/trixie \n\n Recommended Specs:\
+  \ \n\n CPU GPU RAM OS Intel Core i5-6200U 2.30Ghz (2 core) Intel HD Graphics 520\
+  \ 4GB Win 7 64"

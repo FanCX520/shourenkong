@@ -1,4 +1,4 @@
-id: sparks-a-tale-of-ink
+﻿id: sparks-a-tale-of-ink
 title: Sparks, a tale of ink
 title_en: Sparks, a tale of ink
 cover: https://img.itch.zone/aW1nLzEzNTMyMDE2LnBuZw==/original/mvIQSo.png
@@ -18,9 +18,30 @@ features: []
 links:
 - name: itch.io
   url: https://sparks-fvn.itch.io/sparks-a-tale-of-ink
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Zen%20Old%20Mincho%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Discord
+  url: https://discord.gg/y3g6zyjs4m
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Overview\n\nAfter the so-called Sovereign ascended the world’s\
+  \ throne as a new God, strange powers awoke in everyone inhabiting the planet.\n\
+  \nZhangken, a student interested in this very history, has his doubts about the\
+  \ truthfulness of the existing records on this tale.\n\nHe stumbles upon a clue\
+  \ that steers him onto a road of discovery. Truths that were buried never to be\
+  \ uncovered, await him.\r\n\nMysteries, monsters and the very workings of the world\
+  \ are standing between him and his goals. Yet luckily, he does not have to overcome\
+  \ these ordeals by himself, as his friends have his back along the way\r\n\nSparks\
+  \ A Tale of Ink will branch into two routes in a later chapter for the reader to\
+  \ discover different truths to piece the entire tale together on their own.\r\n\n\
+  For information on the project, follow us on Twitter or join our Discord server!\n\
+  \nCreator and writer: Chris \n\nSprite artist: Nekku \n\nCg artist: Kousen  \r\n\
+  \nBG artist: Kemmy \r\n\nSupporting artist and UI: Jasper \r\n\nMusic by: Kurenai\
+  \ , Pokke \n\nProgramming: Dyllan \n\nSocials"

@@ -1,4 +1,4 @@
-id: super-phantasy-fighters
+﻿id: super-phantasy-fighters
 title: SUPER PHANTASY FIGHTERS
 title_en: SUPER PHANTASY FIGHTERS
 cover: https://img.itch.zone/aW1nLzE4MzQwMjc0LnBuZw==/original/Z%2BuTN7.png
@@ -19,9 +19,71 @@ features: []
 links:
 - name: itch.io
   url: https://andrewp-fun.itch.io/super-phantasy-fighters
+  type: itch
+- name: 官网
+  url: https://bsky.app/profile/andrewp.fun
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "THE BATTLE OF YOUR PHANTASY\n\nSUPER PHANTASY FIGHTERS is a 2.5D\
+  \ multiplayer platform fighter ... in the flavor of a PSO2 fan game! You read that\
+  \ right. And you can live your own power phantasy as a monster beating the crap\
+  \ out of other monsters.\r\nIf you're a fan of BIG ASS MONSTERS, this is the game for you!\n\
+  \nCompared to other Phantasy Star  fangames outside the JRPG genre, which are made as mods on\
+  \ top of existing mods,  SUPER PHANTASY FIGHTERS is made entirely from the ground up in Unity\
+  \ Engine , with PSO2 assets ported over featuring an original fighting game framework\
+  \ inspired by PSO2's combat.\n\nThe gameplay is straightforward if you’ve played\
+  \ any Super Smash Bros. or similar title, attack your opponents to get their damage\
+  \ percentage up, then KO them! But, there's an unconventional twist with each character!\
+  \ Take your expectations of a fighting game and throw it all out the window!\n\n\
+  \ This is currently a prototype, and is planned for more content updates and bug\
+  \ fixes. \n\n Language Support: \n\n Language Full Audio Interface/Text English\
+  \ ╳ ◎ Japanese ◎ △ \r\n\nCOMPETITIVE PLAY? HELL YES.\r\n\nYou can play up to 4 players!\
+  \ This is the first multiplayer-focused game I’ve worked on.\r\n\nThe game was made\
+  \ in mind to be played right out-of-the-box. Simply plug controllers (of the same\
+  \ type) and START PLAYING! Xbox, Playstation, and Nintendo Switch Pro controllers\
+  \ are supported.\r\n\nYou can also fight against CPU opponents if you choose to\
+  \ play solo.\r\n\nIf you choose to play the game competitively, to compensate for\
+  \ the general slower pace in this game, there are ways to make the most out of fighting,\
+  \ such as Step canceling attacks frame-0. Yes. Frame-zero canceling unlike PSO2.\
+  \ The game will instantly respond to button inputs, so think and act quickly!\r\n\
+  \nMANY CHARACTERS TO CHOOSE FROM\r\n\nThe currently growing roster of fighters has\
+  \ something for everybody! Try out each fighter to see if they match your play style!\
+  \ Do you like to go unga-bunga? Tryhard? Diabolical!? There's a fighter tailored\
+  \ just for you! You'll never know what kind of zany matchups you'll get!\n\nVARIETY\
+  \ OF STAGES\r\n\nThere are many different stages from PSO2 essentially ported in\
+  \ the game. Sega fans are also in for a special treat, as we have stages from other\
+  \ Sega games! We also have stages featured from other games I was a part of previously,\
+  \ such as PROJECT ANKLEBREAKER and PINBALL MASTER FLIPPER.\r\n\nCAUGHT IN 4K? NAH,\
+  \ 24K\n\nAs you pause the game, you can take screenshots with the [SELECT] Button.\r\
+  \n\nYou can also upscale the screenshot output relative to your current display\
+  \ up to ×6, meaning if you have a 4K monitor, you can take screenshots up to 24K!\
+  \ Talk about HD!\r\n\nYou can use the Fixed Camera Mode, which stays on even if\
+  \ you unpause the game. Perfect for those who like to take screenshots of the combat\
+  \ or want to record videos!\r\n\nPERSONALIZATION\r\n\nIn the game there is a small\
+  \ UGC feature called the [My Card], similar to ARKS Cards from PSO2. You can give\
+  \ yourself a name, write a bio, and choose from over 400 Stamps from PSO2:NGS! This\
+  \ data will be used in later versions of the game.\r\n\nThere is also a [My Records]\
+  \ which keeps track of various things done in-game. Check it out sometime!\n\nRESTORED\
+  \ GRAPHICS\n\nSay goodbye to infamously plastic models caused by NGS's lighting\
+  \ and deferred rendering. This game utilizes Unity's U niversal R ender P ipeline\
+  \ (URP) to restore  and enhance  the original look of the monsters prior the March\
+  \ 2021 graphics update. Each fighter is imported with enhancements such as upscaled\
+  \ textures and other improvements such as shaders for those meticulous details the\
+  \ original artists at SEGA worked hard on.\n\n===CONTROLS===\r\n\n※Controller recommended\n\
+  \nMENU CONTROLS\r\n\nLeft/Right stick, D-Pad : Selection\r\n\nⒶ (× and ○) : Confirm\r\
+  \n\nⒷ (△ and □) : Cancel\r\n\nGAME CONTROLS (also explained in-game)\r\n\n PHOTO\
+  \ MODE CONTROLS (while paused) \n\nGAME CONTROLS (Keyboard+Mouse)\n\n ※Screenshots\
+  \ will be saved in /SUPER_PHANTASY_FIGHTERS_Data/SCREENSHOT/  \n\n ====DISCLAIMER====\r\
+  \n\nPowered by “CRIWARE”. CRIWARE is a trademark of CRI Middleware Co., Ltd.\r\n\
+  \nThis is a fan-made game prototype. It is in no way, shape, or form affiliated,\
+  \ produced by, or under license from SEGA Corporation or any company whose assets\
+  \ have been used.\r\n\nAll audio, visuals, font assets, logos, and brands shown\
+  \ belong to their respective owners and/or I.P holders, otherwise noted. No infringement\
+  \ has been deliberately intended, as this is a non-profit passion project. To view credits and\
+  \ attribution, please select [VIEW CREDITS] in-game via the title screen.\n\nNo\
+  \ generative AI was used in the production of this game."

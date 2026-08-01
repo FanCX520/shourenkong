@@ -1,4 +1,4 @@
-id: bob
+﻿id: bob
 title: Bend or Break
 title_en: Bend or Break
 cover: https://img.itch.zone/aW1nLzE1NTgwMTcyLnBuZw==/original/klmfPk.png
@@ -20,9 +20,30 @@ features: []
 links:
 - name: itch.io
   url: https://skulle2n.itch.io/bob
+  type: itch
+- name: Ko-fi
+  url: https://ko-fi.com/skulle2n
+  type: kofi
+- name: Discord
+  url: https://discord.gg/phd6Bpsz
+  type: discord
+- name: 官网
+  url: https://bsky.app
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "here's the chapter 6 yeah, what tags should i add?\n\nActual Description:\n\
+  Theo the hooman got transported into another world as he finds himself a wolfman\
+  \ boyfriend.\n\n-Bob is an SFW Short Linear Gay Furry Visual Novel(in the making).\n\
+  \nEvery bit of support helps me do what I love! Join me at https://ko-fi.com/skulle2n\
+  \ \nBend or Break Discord Server(I'm active here)-  https://discord.gg/72hUv8V7TY\
+  \  \nTwitter(Dead Account)-  https://twitter.com/Skullebob\n Bluesky(i need some\
+  \ followers, i beg)-  https://bsky.app \n\nps.\n\ni'm super active in Reddit Furry\
+  \ Visual Subreddit so if you wanna talk, go there. you can see me posting other\
+  \ people's visual novel as Yohei there cuz i love visual novels and because of them\
+  \ i had the motivation to make one of my own as a passion project.\n\nI apologize\
+  \ for being slow. But I absolutely will not forget this fvn."

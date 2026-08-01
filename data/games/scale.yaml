@@ -1,4 +1,4 @@
-id: scale
+﻿id: scale
 title: Scale Salon
 title_en: Scale Salon
 cover: https://img.itch.zone/aW1nLzE3NDYxMTY2LnBuZw==/original/QYq54h.png
@@ -19,9 +19,20 @@ features: []
 links:
 - name: itch.io
   url: https://golen.itch.io/scale
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Fredoka%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Scale Salon\n\n Theme : Built to scale\n\nRun a salon for scaly\
+  \ critters. Earn money and scale up your business.\n\nBuy and upgrade your stations,\
+  \ hire more employees and move to bigger salons for bigger profits!\n\nControls\n\
+  \nDrag the customer to the station they request\n\nClick the customer on the station\
+  \ to send a free employee to work on them\n\nTeam\n\n Golen (code)\n\nLumie (code\
+  \ & art)\n\n Luxx (art)\n\n ArcticFqx (code)\n\n Mato (music)\n\n Kiso (art)\n\n\
+  \ Soulsong (art)\n\n Nemi (art)\n\n Dreeda (code)\n\nFrassy (qa)"

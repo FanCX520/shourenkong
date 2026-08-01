@@ -1,4 +1,4 @@
-id: one-thousand-acts-of-decency
+﻿id: one-thousand-acts-of-decency
 title: One Thousand Acts of Decency
 title_en: One Thousand Acts of Decency
 cover: https://img.itch.zone/aW1nLzE2OTk1MDcwLnBuZw==/original/dVqQdt.png
@@ -19,9 +19,62 @@ features: []
 links:
 - name: itch.io
   url: https://domedev.itch.io/one-thousand-acts-of-decency
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Anonymous%20Pro%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: http://patreon.com/OneThousandActsofDecency
+  type: patreon
+- name: Discord
+  url: https://discord.gg/jkHEQdCzW6
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Current versions: \n\n -v0.3.2 (PC) \n\n -v0.3.2p  (Android)\n\n\
+  \ Trapped inside a mysterious Dome and being forced to solve a murder case, Chive\
+  \ O’Higgins must work together with a cast of oddball characters to investigate\
+  \ and debate the facts of the case and catch the killer.\n\nIt’s an unremarkable\
+  \ December 26th when Chive is unceremoniously thrust into a murder case, when his\
+  \ enigmatic neighbor, Mischief Applegate, is found stabbed to death in his apartment\
+  \ building’s lobby. Left with no other choice but to solve the murder, Chive is\
+  \ joined by his easy-going and excitable cousin, Shallot Fogg, as well as a prurient\
+  \ telemarker named Herb Petters, and a spirited savant named RJ Miller. With an\
+  \ enigmatic time limit counting down, the four of them must comb over every inch\
+  \ of the crime scene to gather the evidence they need to unmask the culprit behind\
+  \ Mischief’s murder. As time passes, and the truth unravels, it slowly becomes clear\
+  \ that what appeared to be a simple homicide is anything but.\r\n\nOne Thousand\
+  \ Acts of Decency is a murder-mystery visual novel with a wide case of quirky, anthropomorphic\
+  \ characters, with the cast of the first case being just a small selection of the\
+  \ witnesses and suspects Chive enounters as he investigates other strange incidents.\
+  \ As cases are solved, story arcs spanning multiple cases will come to their conclusion\
+  \ as the truth behind the Dome will be brought into the light. Combining the gameplay\
+  \ stylings of Danganronpa and Ace Attorney, One Thousand Acts of Decency presents\
+  \ a new twist on the genre by bringing the debates to the very same locations being\
+  \ investigated. The visual novel runs on Windows, Linux, Mac, and Android, and can\
+  \ be controlled with a mouse, a keyboard, a controller, or a touch screen.\r\n\n\
+  One Thousand Acts of Decency contains three exciting cases to solve, which, in total, are\
+  \ approximately sixteen hours in length, or around 275,278 words.\n\nThe  One Thousand\
+  \ Acts of Decency soundtrack can be found here: (some song titles and motifs may\
+  \ contain spoilers.)\n\n https://www.youtube.com/playlist?list=PLC0L2H6DwTbSlM6MC7IlT4BNEJuXxSg8f\
+  \ \n\n Keyboard Controls \r\n\nArrow Keys/WASD - Navigate menus, Move reticle\n\n\
+  Space/X - Select/Confirm\r\n\nZ/Backspace - Go Back, Cancel, Fast Forward (Hold)\n\
+  \nC - Save\r\n\nR - View transcript\n\nV - Load\n\nRight Shift/Left Shift/E - Open\
+  \ evidence, Present evidence\r\n\nReturn/I - Inquire\n\nEsc - Open Options menu\n\
+  \nMouse Controls \r\n\nPointing - Navigate menus, Move reticle\r\n\nMouse Left-\
+  \ Select/Confirm/Choose Option\n\nMouse Right - Go Back, Cancel, Fast Forward (Hold)\n\
+  \nGamepad Controls \r\n\nLeft Analog/D-Pad  - Navigate menus, Move reticle\r\n\n\
+  A - Select/Confirm\r\n\nB - Go Back, Cancel, Fast Forward (Hold)\r\n\nSelect - Save\r\
+  \n\nY - View transcript\r\n\nStart - Load\r\n\nLeft Trigger/Left Bumper - Open evidence, Present\
+  \ evidence\r\n\nRight Trigger/Right Bumper- Inquire"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMTkwNjc2My8yMTMwMTExOC5wbmc=/original/INN5H4.png
+- https://img.itch.zone/aW1hZ2UvMTkwNjc2My8xOTM1MTMyNC5wbmc=/original/8eMk3L.png
+- https://img.itch.zone/aW1hZ2UvMTkwNjc2My8xNzYzMzMzMS5wbmc=/original/%2F1D4sz.png
+- https://img.itch.zone/aW1hZ2UvMTkwNjc2My8xNTA1MjkwNC5wbmc=/original/lVfEks.png
+- https://img.itch.zone/aW1hZ2UvMTkwNjc2My8xOTE1NzMzOC5wbmc=/original/IIiqjZ.png
+- https://img.itch.zone/aW1hZ2UvMTkwNjc2My8xNTkzNjk5MC5wbmc=/original/AmB%2BBG.png

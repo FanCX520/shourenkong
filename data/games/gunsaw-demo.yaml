@@ -1,4 +1,4 @@
-id: gunsaw-demo
+﻿id: gunsaw-demo
 title: Gunsaw Demo
 title_en: Gunsaw Demo
 cover: https://img.itch.zone/aW1nLzEyMTkxNTgyLnBuZw==/original/pCl8Cc.png
@@ -16,9 +16,31 @@ features: []
 links:
 - name: itch.io
   url: https://orsonik.itch.io/gunsaw-demo
+  type: itch
+- name: Discord
+  url: https://discord.gg/d8xz6mBAab
+  type: discord
+- name: 官网
+  url: https://gunsaw-level-codes.jimmyking.dev
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: 'A 2D physics-based shooter, where a bunch of anthropomorphic animals
+  go and blow eachother''s brains out.
+
+
+  Due to the indefinite hiatus, I have uploaded all the progress I have made so far
+  publicly. This includes all the characters and the level editor, even if unpolished.
+
+
+  Discord server: https://discord.gg/d8xz6mBAab'
+gallery:
+- https://img.itch.zone/aW1hZ2UvMjA3MjkxOC8xMjE5MTgyMS5wbmc=/original/zRJl4c.png
+- https://img.itch.zone/aW1hZ2UvMjA3MjkxOC8xMjE5MTgyMC5wbmc=/original/qAdJWz.png
+- https://img.itch.zone/aW1hZ2UvMjA3MjkxOC8xMjE5MTgxOS5wbmc=/original/g3Fz5T.png
+- https://img.itch.zone/aW1hZ2UvMjA3MjkxOC8xMjE5MTgxNy5wbmc=/original/qPagof.png
+- https://img.itch.zone/aW1hZ2UvMjA3MjkxOC8xMjE5MTgxOC5wbmc=/original/VdJViq.png

@@ -1,4 +1,4 @@
-id: lets-watch-steamboat-willie
+﻿id: lets-watch-steamboat-willie
 title: Let&#039;s Watch Steamboat Willie!
 title_en: Let&#039;s Watch Steamboat Willie!
 cover: https://img.itch.zone/aW1nLzE3OTgyMjI0LmdpZg==/original/y7XdlR.gif
@@ -20,9 +20,33 @@ features: []
 links:
 - name: itch.io
   url: https://alexisroyce.itch.io/lets-watch-steamboat-willie
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Cambay%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Two film nerds sit down for a comfy evening watching old movies.\
+  \ Next up is Steamboat Willie, and they quickly take to bickering.\r\n\n By the\
+  \ time the cartoon is over, one of them will be dead.\r\n\nFeatures\n\nOne classic\
+  \ cartoon from 1928, obtained legally and presented uncensored, \r\n\nAuto-advancing\
+  \ gameplay, game ends when Steamboat Willie does,\r\n\nFull Voice Acting,\r\n\n\
+  Original Jazz Soundtrack,\r\n\nConvenient web playable build...\r\n\n...Or download\
+  \ for best quality!\r\n\nContent warning txt document,\n\n No Good ending ? \r\n\
+  \nCast & Crew\n\nVoice of Lee - Juniper Lee Thalia Watkins\n\nVoice of Niles - Josh\
+  \ Wells\n\nTeam Lead, Writing, Coding - Alexis Royce \r\n\nSprite & Concept Artist\
+  \ - May Sparrow / queenburd \r\n\nAudio Director - Floweramon \n\nComposer, Piano,\
+  \ Voice - Kayla Price / Rainbow_Cookies \r\n\nBass, Horns - Jade Decker / twigxcabaret \r\
+  \n\nDrums, percussion - Adair Greysen\r\n\nMixing intro/outro music - Sophie Hissen\n\
+  \nCopywriter - Victor Lownie / windienine \n\nCoded in Ren'Py \n\nSoundtrack available\
+  \ on Bandcamp !\n\nFor more from these characters:\n\n <a href=\" NonPlatonic\"\
+  \ class=\"redactor-linkify-object\">https://alexisroyce.itch.io/nonplatonic-forms-teaser-demo\"\
+  >NonPlatonic Forms Teaser Demo by AlexisRoyce</a>"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMjkwNTQ5Mi8xNzk3ODU0OC5naWY=/original/easb8W.gif
+- https://img.itch.zone/aW1hZ2UvMjkwNTQ5Mi8xNzk3ODEzNy5naWY=/original/9yRlMA.gif
+- https://img.itch.zone/aW1hZ2UvMjkwNTQ5Mi8xNzgzODA0MC5wbmc=/original/2ykGPK.png

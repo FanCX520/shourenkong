@@ -1,4 +1,4 @@
-id: syntaxia
+﻿id: syntaxia
 title: SYNTAXIA
 title_en: SYNTAXIA
 cover: https://img.itch.zone/aW1nLzE5MTQ0MTIyLmdpZg==/original/SCDK73.gif
@@ -20,6 +20,16 @@ features: []
 links:
 - name: itch.io
   url: https://spelkollektivet.itch.io/syntaxia
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Cormorant%20Infant%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Steam
+  url: https://store.steampowered.com/app/2920940?utm_source=itch
+  type: steam
+- name: Discord
+  url: https://discord.gg/kS3kVhCCzE
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'

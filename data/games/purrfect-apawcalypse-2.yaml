@@ -1,4 +1,4 @@
-id: purrfect-apawcalypse-2
+﻿id: purrfect-apawcalypse-2
 title: 'Purrfect Apawcalypse: Purrgatory Furever'
 title_en: 'Purrfect Apawcalypse: Purrgatory Furever'
 cover: https://img.itch.zone/aW1nLzI2MTExODAucG5n/original/jyGYiy.png
@@ -20,9 +20,46 @@ features: []
 links:
 - name: itch.io
   url: https://90percentstudios.itch.io/purrfect-apawcalypse-2
+  type: itch
+- name: 官网
+  url: https://www.renpy.org/
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/90percentstudios
+  type: patreon
+- name: Steam
+  url: https://store.steampowered.com/app/1559430/Purrfect_Apawcalypse_Purrgatory_Furever/
+  type: steam
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "One thousand students from the Hachiko High School massacre have\
+  \ risen from the dead to crash Olive's birthday party! Trapped in the Grimalkin\
+  \ Estate, Olive and their pals will have to figure out how these dogs were resurrected,\
+  \ why Sparky's acting so strange, and why Angel's old body is out to get them. \n\
+  \n But remember: Just because you're trying to survive the zombie apawcalypse, doesn't\
+  \ mean you can't try and make your friends happy! \n\n  ~~~\r\n\n This game contains cartoon\
+  \ gore, bifurcated dogs, headless dogs, generally dogs not having a great time,\
+  \ along with strong language and mature themes. Recommended for ages 15+, play at\
+  \ your own discretion! \r\n\n ~~~\r\n\nPurrfect Apawcalypse is a dark comedy interactive\
+  \ fiction about dogs, cats and the apocalypse. The places you go, characters you\
+  \ meet and choices you make will lead you either to death or happiness, so choose\
+  \ wisely!\n\nThis game was created by Denny with programming help by Andy , created\
+  \ using Renpy ! Follow us on social media to stay updated, check out the OST on\
+  \ YouTube , get behind the scenes content on our Patreon or get merch from our store\
+  \ ! Thanks for playing!\n\nPortuguese (Brazil) translation by Rance Guertena !\n\
+  \nRussian translation by Кузня Переводов !\n\nJapanese translation by même with\
+  \ translation testing by ashi_yuri, 民, 猫屋敷, 活け造り, isasaka uki and 九十九一三!\n\nChinese\
+  \ translation by 荼郁 and 雾子!\r\n\nPolish translation by Kotom!\n\n~~~\n\nThis is\
+  \ the second game in the trilogy! Play them in this order!\n\n Love at Furst Bite\
+  \ \n\n Purrgatory Furever \n\n Patches' Infurno"
+gallery:
+- https://img.itch.zone/aW1hZ2UvNTA0MDc4LzI2MTExOTIucG5n/original/9bh20L.png
+- https://img.itch.zone/aW1hZ2UvNTA0MDc4LzI2MTExOTMucG5n/original/XyWFO%2B.png
+- https://img.itch.zone/aW1hZ2UvNTA0MDc4LzI2MTExOTUucG5n/original/04704U.png
+- https://img.itch.zone/aW1hZ2UvNTA0MDc4LzI2MTExOTQucG5n/original/qKEpAU.png
+- https://img.itch.zone/aW1hZ2UvNTA0MDc4LzI2MTcxNzkucG5n/original/8t9WDs.png
+- https://img.itch.zone/aW1hZ2UvNTA0MDc4LzI2MTEyMDYucG5n/original/X6Ikqd.png

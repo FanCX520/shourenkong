@@ -1,4 +1,4 @@
-id: the-jig-is-up
+﻿id: the-jig-is-up
 title: The Jig is Up!
 title_en: The Jig is Up!
 cover: https://img.itch.zone/aW1nLzkzMzA0ODQucG5n/original/%2Bzd4RG.png
@@ -19,9 +19,28 @@ features: []
 links:
 - name: itch.io
   url: https://alexisroyce.itch.io/the-jig-is-up
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Nunito%20Sans%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/alexisroyce
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "From the fans that brought you Is Lupin Still Flirting , comes\
+  \ another tale of master thief Lupin the Third, as he sets his sights on cool gunman\
+  \ Jigen Daisuke. Keep social stats balanced as you help Lupin win over Jigen’s trust,\
+  \ without getting Jigen fed up with Lupin's constant BS. \n\nCan you complete the\
+  \ legendary partnership, or will Lupin's selfishness sever their bond once and for\
+  \ all? We welcome both fans of the franchise and newcomers alike to enjoy three\
+  \ rousing rounds of wisecracking flirting.\n\nWe are pleased to present:\n\nOver\
+  \ 22k words,\n\nMultiple paths through each of our three chapters,\n\nOne True End,\
+  \ with several alternates along the way,\n\nCasual conversation mechanics, with\
+  \ stats like \"Trust\" and \"Patience,\"\n\nA soundtrack that includes brand-new\
+  \ arrangements of classic songs from the history of Lupin the Third,\n\nAn art style\
+  \ painted in traditional watercolor and gouache,\n\nAnd more!"

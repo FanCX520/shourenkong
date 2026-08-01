@@ -1,4 +1,4 @@
-id: aim-to-capture
+﻿id: aim-to-capture
 title: Aim to Capture
 title_en: Aim to Capture
 cover: https://img.itch.zone/aW1nLzIxNzY2OTAxLnBuZw==/original/5Q6P85.png
@@ -19,9 +19,46 @@ features: []
 links:
 - name: itch.io
   url: https://mysteryjamgames.itch.io/aim-to-capture
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Lexend%20Deca%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/c/MysteryJamGames
+  type: patreon
+- name: Discord
+  url: https://discord.gg/m3yB2TypNP
+  type: discord
+- name: Steam
+  url: https://store.steampowered.com/app/3914330/Aim_to_Capture
+  type: steam
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Aim to Capture  is a stylish horror visual novel where you take\
+  \ on the role of a spy diving into the memories of others to find dirt on a sinister\
+  \ biocorporation.\r\n\n Episode One  drops you into a mind of a worn-out delivery\
+  \ guy who stumbles upon something strange and terrifying at the end of his shift.\
+  \ Reflect, make choices, develop his character, and experience rich interactive\
+  \ elements as you unravel the mystery that's taken hold of his mind.\r\n\n ✦   Traits! \
+  \ ✦  \n\n Your decisions unlock a wide variety of character traits, each offering\
+  \ unique reactions and choices that shape Bint’s journey and lead to multiple possible\
+  \ endings. \r\nA full playthrough of Episode One takes around 3–4 hours.\r\n\n ✦\
+  \   Alchemy of Thoughts!  ✦  \n\n Sometimes, you’ll get a chance to pause and enter\
+  \ a Reflection phase where you can chain thoughts together to create new traits\
+  \ and explore Bint’s mind and memories.\r\n\n ✦ Interactivity! ✦ \n\n Stumble upon\
+  \ interactive bits and puzzles, packed with lore, odd details, and things that just\
+  \ might change how you see the story.\r\n\n ✦ Finding the Monster! ✦ \n\n FIND THE\
+  \ MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND\
+  \ THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER\
+  \ FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER\
+  \ FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER\
+  \ FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER\
+  \ FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER\
+  \ FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER\
+  \ FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER\
+  \ FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER FIND THE MONSTER\r\n\n Episode\
+  \ One is OUT NOW!"

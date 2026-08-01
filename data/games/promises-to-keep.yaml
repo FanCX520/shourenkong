@@ -1,4 +1,4 @@
-id: promises-to-keep
+﻿id: promises-to-keep
 title: Promises to Keep
 title_en: Promises to Keep
 cover: https://img.itch.zone/aW1nLzE2NjcyMzgwLnBuZw==/original/mcqvvz.png
@@ -19,9 +19,55 @@ features: []
 links:
 - name: itch.io
   url: https://promises-to-keep-vn.itch.io/promises-to-keep
+  type: itch
+- name: Patreon
+  url: https://www.patreon.com/c/PromisesToKeep
+  type: patreon
+- name: 官网
+  url: https://renefoetsie.bandcamp.com/album/promises-to-keep
+  type: official
+- name: Discord
+  url: https://discord.gg/tBbH9UY3Za
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Promises to Keep (PTK) is a queer, furry, safe-for-work (16+) visual\
+  \ novel. Please be warned that while entirely safe-for-work, PTK does feature themes\
+  \ of religious & familial trauma, injury, mental illness, minor body horror, grief,\
+  \ and homophobia. Some scenes may not be suitable for individuals with epilepsy\
+  \ (but there are in-game warnings for these scenes). v0.10 is now available (Day\
+  \ 4 for everyone's route except Ollie's). This version has around 13 hours of content\
+  \ in total, featuring an original soundtrack of 25+ songs, 100+ beautifully drawn\
+  \ backgrounds and fully-illustrated CGs, and hundreds of unique character sprites.  Find\
+  \ us on Twitter and support us on Patreon  for early game updates, exclusive content, art\
+  \ raffles, and if you’d like to be featured in PTK as a cameo!\n\nA promise is the\
+  \ greatest, most significant thing anyone can make, in a reality where nothing is\
+  \ permanent. They are guarantees we make to one another, knowing that guarantees\
+  \ are fruitless; their existence contradicts the fleeting, temporary nature of our\
+  \ universe. Yet, they live on in the face of this futility.\r\n\nSo, what happens\
+  \ when the promises you make to yourself go cold? When your promises to others are\
+  \ left empty?\r\n\nPTK follows the journey of a post-college snow leopard after\
+  \ returning to his childhood home. After a year of wishful thinking, living in the\
+  \ footsteps of his past and the childhood promises he has yet to fulfill, he's convinced\
+  \ there's nothing more for him here. Then, disaster strikes.\r\n\nJoin him in a\
+  \ story of deep self-discovery, reunion, and light-hearted romance as he grows with\
+  \ a vibrant group of individuals brought together by unlikely circumstances.\r\n\
+  \n** Please note that all content is subject to change as the game undergoes further\
+  \ development, and that the current version may not fully represent the final game.\
+  \ **\n\n------\n\n Original Soundtrack: \n\nThe PTK OST is available on Bandcamp\
+  \ ! The OST costs ~$10, and currently includes pieces up until the end of every\
+  \ Day 3.  Further albums will new pieces will be released as they're produced for\
+  \ future game updates. $10+ Patreon members get the full OST complimentary with\
+  \ their subscription and $1 & $5 Patreon members get a discount code for the OST. \
+  \ Check our Patreon page for more information on redeeming a full OST code or a\
+  \ discount code!\n\n------\n\n Translations: \n\nLooking for translations of PTK?\
+  \ Here's a list of unofficial fan-translations that we've been extremely fortunate\
+  \ to receive from the community -- please note that as developers, we don't necessarily\
+  \ speak the languages used in these translations, and as such, can't thoroughly\
+  \ vet the games to ensure they reflect the original version accurately. Download\
+  \ at your own risk:\n\n 中文翻譯 by NeOASIS (v0.7)  - Password: NeOasis\n\n แปลไทย (v0.10)\
+  \ \n\n Tradução Português-Brasil by Mike Wolfster (v0.6)"

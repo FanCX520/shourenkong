@@ -1,4 +1,4 @@
-id: scav-prototype
+﻿id: scav-prototype
 title: 'Casualties: Unknown'
 title_en: 'Casualties: Unknown'
 cover: https://img.itch.zone/aW1nLzI0NDU0NjY4LnBuZw==/original/mnn%2FOr.png
@@ -17,9 +17,33 @@ features: []
 links:
 - name: itch.io
   url: https://orsonik.itch.io/scav-prototype
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=ABeeZee%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Steam
+  url: https://store.steampowered.com/app/4576510/Casualties_Unknown_Demo/
+  type: steam
+- name: Discord
+  url: https://discord.gg/VeCSKv7AKa
+  type: discord
+- name: Ko-fi
+  url: https://ko-fi.com/mirandalover
+  type: kofi
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Descend into the depths of the Target Planet's cave network to\
+  \ retrieve a critical piece of cargo, encountering many horrifying obstacles and\
+  \ problems on the way, to your character's dismay. Survival chances are near 0%—expect\
+  \ to die a lot along the way.\r\n\nCaution and patience are greatly rewarded in\
+  \ the depths. Any mistake can spiral into an ugly, permanent death.\n\nPlay the\
+  \ tutorial before starting a run. It's good to understand some of the core mechanics\
+  \ before descending.\n\nTranslations are available! Language files are placed in\
+  \ the game's Data/Lang directory. The repo with them is  located here. Note: Most\
+  \ translations aside from EN are unfinished, and not made by me.\n\n Discord server\
+  \ \n\n Original Soundtrack \n\nThis game contains scenes of violence, gore and depictions\
+  \ of depression and self harm."

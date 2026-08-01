@@ -1,4 +1,4 @@
-id: badtime-stories
+﻿id: badtime-stories
 title: Badtime Stories
 title_en: Badtime Stories
 cover: https://img.itch.zone/aW1nLzIxMDYxNDcucG5n/original/nTHgvH.png
@@ -18,9 +18,23 @@ features: []
 links:
 - name: itch.io
   url: https://kalchivo.itch.io/badtime-stories
+  type: itch
+- name: Patreon
+  url: http://patreon.com/kalchivo
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: 'PUBLIC UPDATE! (OCTOBER 14th 2019)
+
+
+  Meet new anthro guys with new stories every month.
+
+
+  A visual novel with short stories with explicit sexual contents.
+
+
+  Currently being developed at patreon.com/kalchivo'

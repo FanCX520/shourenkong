@@ -1,4 +1,4 @@
-id: runeterra-furry-romance
+﻿id: runeterra-furry-romance
 title: 符文之地兽人收集(Runeterra Furry Romance)
 title_en: 符文之地兽人收集(Runeterra Furry Romance)
 cover: https://img.itch.zone/aW1nLzI4MTk5NTQ3LnBuZw==/original/2Mck%2FO.png
@@ -19,9 +19,62 @@ features: []
 links:
 - name: itch.io
   url: https://darko-dev.itch.io/runeterra-furry-romance
+  type: itch
+- name: Patreon
+  url: https://www.patreon.com/darko_dev
+  type: patreon
+- name: 官网
+  url: https://ifdian.net/a/darko-dev
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Languages: English, 简体中文,  Japanese\n\n[English Version]\n\n\U0001F43E\
+  \ Welcome to \"Runeterra Furry Romance\"!\n\nThis is a League of Legends fan-made\
+  \ romance visual novel. In this game, you will have the chance to encounter and\
+  \ romance 11 furry characters .\n\n \U0001F4B0 Price & Support \nThis game is 100%\
+  \ FREE —everyone can enjoy the full story without spending a dime.\nIf you love\
+  \ my work and want to help speed up development, you can support me on Patreon .\
+  \ Your generosity keeps this solo project going!\n\n\U0001F3A8 Content Rating\n\n\
+  This project is SFW; however, it is more mature than a standard romance story.\n\
+  \n It features revealing outfits and high-tension, romantic CGs. \r\n\n All content\
+  \ is designed to remain within compliant boundaries, focusing on providing an aesthetically\
+  \ pleasing and evocative experience. \r\n\n\U0001F4D6 Story Tone & Pacing\n\n Overall\
+  \ Vibe : The atmosphere is lighthearted and cheerful, focusing on providing an immersive\
+  \ romantic experience. \r\n\n Pacing : The narrative follows a steady progression.\
+  \ Relationships are built through meaningful interactions rather than rushing, but\
+  \ without unnecessary delays in the plot. \r\n\n Branching Paths : Occasional heavy\
+  \ \"Death Routes\" exist in certain story branches, though these can be avoided\
+  \ through specific player choices. \r\n\n\U0001F6E0️ Development & AI Disclosure\n\
+  \nThis is a solo independent project. Transparency regarding development is as follows:\n\
+  \n Code / Writing / Design : Handcrafted and written line-by-line by the developer.\
+  \ \r\n\n Art Assets : Generated using AI, followed by extensive manual refinement\
+  \ and editing to ensure visual quality and consistency. \r\n\n Audio : SFX from\
+  \ free public domain sources; Music AI-generated. \r\n\n\U0001F4C8 Current Progress\n\
+  \nThe current build is now live. The storyline of Chapter 1 has concluded.\n\n Future\
+  \ Roadmap : The full game is planned to include five main chapters, along with epilogues\
+  \ for each ending. (The narrative structure may be subject to minor adjustments\
+  \ in the future). \r\n\nFollowing the project is encouraged for those who wish to\
+  \ support independent development.\n\n【中文版本】\n\n\U0001F43E 欢迎来到《符文之地兽人收集》！\n\n本作是一款《英雄联盟》（League\
+  \ of Legends）的同人恋爱视觉小说。在游戏中，你将有机会与 11 位可攻略的兽人角色 展开深度互动，开启属于你的兽人羁绊之旅。\n\n \U0001F4B0\
+  \ 关于价格与赞助 \n本作 完全免费 ，所有人都可以体验到全部游戏剧情。\n如果你喜欢我的作品并希望加速游戏的开发，欢迎前往我的 Patreon 或 爱发电\
+  \  为我提供赞助支持！你的每一份投喂都是我持续创作的最大动力\n\n\U0001F3A8 游戏尺度说明\n\n本作不是限制级游戏，但也绝非平淡的纯爱清水。\n\
+  \n 游戏中包含 性感的着装 以及 充满张力的 CG 。 \r\n\n 所有内容均在合规范围之内，旨在为玩家提供脸红心跳的视觉福利。 \r\n\n\U0001F4D6\
+  \ 剧情基调与节奏\n\n 整体氛围 ：轻松、欢快，专注于为你提供纯粹的恋爱沉浸感。 \r\n\n 情感节奏 ：好感度会随着剧情自然、慢慢地培养，拒绝快餐爱情；但也不会故意拉扯太久，节奏适中。\
+  \ \r\n\n 分支风险 ：剧情中偶尔会触发沉重的 死亡路线 ，但只要通过谨慎的选项完全可以规避。 \r\n\n\U0001F6E0️ 开发模式与 AI 使用声明\n\
+  \n这是一个人的独立开发项目，为了对玩家负责，以下为透明的开发信息：\n\n 程序 / 剧本 / 设计 ：完全由作者本人亲手一行行编写与创作。 \r\n\n 美术资产\
+  \ ：全部由 AI 生成，但 绝非直接套用 。大部分立绘与 CG 均经过作者后期 手动精修与微调 ，以保障优秀的视觉与审美体验。 \r\n\n 音乐与音效 ：音效来源于各大网络免费公版素材库，音乐由AI生成。\
+  \ \n\n\U0001F4C8 当前开发进度\n\n目前已发布正式版，内容包含 第一章的全部剧情 。\n\n 长远规划 ：游戏预计包含五大核心章节，以及各个结局的专属后日谈（未来可能会根据反馈微调剧情结构）。\
+  \ \r\n\n如果你喜欢这个项目， 请点击关注我 ！玩家的支持是我持续更新的最大动力。"
+gallery:
+- https://img.itch.zone/aW1hZ2UvNDczMDY0NC8yODU3ODMyOS5qcGc=/original/j76kwb.jpg
+- https://img.itch.zone/aW1hZ2UvNDczMDY0NC8yODU3ODM5NC5qcGc=/original/lOKNgw.jpg
+- https://img.itch.zone/aW1hZ2UvNDczMDY0NC8yODU3ODQwOS5qcGc=/original/Wp7vtO.jpg
+- https://img.itch.zone/aW1hZ2UvNDczMDY0NC8yODU3ODM5Ni5qcGc=/original/%2BjY9sr.jpg
+- https://img.itch.zone/aW1hZ2UvNDczMDY0NC8yODE5OTg0NS5qcGc=/original/lHFcl4.jpg
+- https://img.itch.zone/aW1hZ2UvNDczMDY0NC8yODE5OTg0Ni5qcGc=/original/Ge6mWe.jpg
+- https://img.itch.zone/aW1hZ2UvNDczMDY0NC8yODE5OTg0OS5qcGc=/original/LbHSX%2F.jpg
+- https://img.itch.zone/aW1hZ2UvNDczMDY0NC8yODE5OTg0OC5qcGc=/original/QSlub2.jpg

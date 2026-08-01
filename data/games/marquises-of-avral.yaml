@@ -1,4 +1,4 @@
-id: marquises-of-avral
+﻿id: marquises-of-avral
 title: Маркізи Авралу
 title_en: Маркізи Авралу
 cover: https://img.itch.zone/aW1nLzI4ODI0NzkxLnBuZw==/original/ziuCkJ.png
@@ -18,9 +18,47 @@ features: []
 links:
 - name: itch.io
   url: https://true-pengon.itch.io/marquises-of-avral
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=ABeeZee%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/c/True_Pengon
+  type: patreon
+- name: Telegram
+  url: https://t.me/heralds_of_the_avirentes_ukraine
+  type: telegram
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Міні-інструкція по керуванню:\nESC - вихід у меню налаштувань\n\
+  ПКМ - відкриває екран збережень\nTAB - відкриває екран завантажень\nPgUp - повернення\
+  \ до попередніх реплік.\n\nПрогавлений дедлайн - одне з найстрашніших речей в нашому\
+  \ сучасному світі, бо він у своєму невпинному жаху настільки тяжкий і невідворотний,\
+  \ що дай тільки йому волю розростися -  зжере тебе всього одразу і не подавиться. \n\
+  Хоча... може для таких невідкладних діл стане спасінням сама пекельна сутність з\
+  \ глибин Пекла?... Хоча чи зможе? Та за яку ціну?\n\nНа всі ці питання ви знайдете\
+  \ відповіді самі, погравши у невеличку новелу, бо ніч...\n Ніч буде довгою. \n\n\
+  Ця новелка зроблена для Ukrainian Visual Novel Jam #7, тому не все аудіо закінчене,\
+  \ не весь візуал готовий, але що головне - гарний текст тут вже є. \nА тому - насолоджуйтесь!\
+  \ Буду радий всім коментарям.\n\nГра має повне українське озвучення.\n\n Команда,\
+  \ яка працювала над Маркізами Авралу: \n\n True_Pengon — керівник команди, автор\
+  \ ідеї, сценарист, художник, ваш голос_зі_стін\n\n Tea_mate   — кодерка, художня\
+  \ редакторка\n\n TellerySpyro_GTX  що ще й  батько драконів — кодер\n\n Kawar3r\
+  \ — композитор, дизайнер звуків, голос Маркуса, редактор\n\n Щирий   — голос Себнока\n\
+  \n Олег Куліков — голос Наберія\n\n Bohdan — дизайнер інтерфейсу\n\n Бик Ноно  \
+  \ — перекладач англійської версії\n\nОсоблива подяка локалізаційній спілці  CloverDUB\
+  \ — якби не вони, Себноку довелося б вивчити жестову мову.\n\n-------------------------\n\
+  \nMissing a deadline is one of the most terrifying things in our modern world, because\
+  \ in its relentless horror, it is so crushing and inevitable that if you let it\
+  \ run wild—it will devour you whole in an instant and not even choke. \nAlthough…\
+  \ maybe for such urgent matters, the very essence of Hell itself, from the depths\
+  \ of Hell, will be your salvation?... But can it? And at what cost?\n\nYou’ll find\
+  \ the answers to all these questions for yourselves by playing this short visual\
+  \ novel, because the night…\nThe night will be long.\n\nThis visual novel was created\
+  \ for Ukrainian Visual Novel Jam #7, so not all the audio is finished, and not all\
+  \ the visuals are ready, but most importantly—the story is already great. \nSo—enjoy!\
+  \ I’d love to hear your comments.\n\nThe game includes an English text translation."

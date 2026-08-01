@@ -1,4 +1,4 @@
-id: before-you-depart
+﻿id: before-you-depart
 title: Before You Depart
 title_en: Before You Depart
 cover: https://img.itch.zone/aW1nLzEyMzMyNjk1LnBuZw==/original/AdHBUU.png
@@ -19,9 +19,22 @@ features: []
 links:
 - name: itch.io
   url: https://teamlycoris.itch.io/before-you-depart
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Raleway%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Canines are often companions for life. Some can even be companions\
+  \ in death... \n\nThis is a SFW visual novel, but player discretion is advised.\
+  \ Our story deals with heavy topics such as:\n\nTerminal Illness\n\nMental Health\n\
+  \nDeath & Grief\n\nThis project was made for the  May Wolf Visual Novel Game Jam\
+  \ . Please go check out the submission made by the other developers!\n\nThis visual\
+  \ novel is a 100% complete experience. Any updates made in the future will be for\
+  \ bug fixes, quality-of-life improvements, or implementing features we didn't have\
+  \ time to create.\n\nLove our story? Check out the  Before You Depart, Asset Pack\
+  \ ! You can download high quality images and our original soundtrack."

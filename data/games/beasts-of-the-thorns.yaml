@@ -1,4 +1,4 @@
-id: beasts-of-the-thorns
+﻿id: beasts-of-the-thorns
 title: Beasts of the Thorns
 title_en: Beasts of the Thorns
 cover: https://img.itch.zone/aW1nLzE5NjMwNDgyLnBuZw==/original/%2FOLq6Y.png
@@ -16,9 +16,36 @@ features: []
 links:
 - name: itch.io
   url: https://wolfsregen.itch.io/beasts-of-the-thorns
+  type: itch
+- name: 官网
+  url: https://linktr.ee/KILLERBLOOD
+  type: official
+- name: Discord
+  url: https://discord.gg/5n7Pa4XcMU
+  type: discord
+- name: Patreon
+  url: https://www.patreon.com/BeastsoftheThorns
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "某天早上醒來你發現自己的頭不見了，更糟的是你被發現是魔物都拉漢(Dullahan)。在被人類流放的過程中，與你的魔物朋友踏上魔物避難所外境(Frontier)，嘗試在外境學院完成你的學業，卻發現外境風雨欲來。\n\
+  One morning you woke up and found your head went missing. As you'd awakened as a\
+  \ Dullahan, people banished you and your monster friends to The Frontier, a shelter\
+  \ for monsters. You and your friends will give your all to graduate from Frontier\
+  \ College, but an unpredictable storm approaches...\n\n●Written，Illustrations，Programming\
+  \ by Wolfsregen \n受版權法保護，勿做他用。\n●Coding support By Terry+ Honeybedger \n●music By\
+  \ Killerblood\nhttps://killerblood.itch.io/ \n●遊戲正在開發中，任何建議都是歡迎的。\n\n●可以在這裡留意見Feedback\
+  \ here:\n\nDiscord: https://discord.gg/RSMMgSax5d \n\n\"Fraternity of the Wild Hunt\"\
+  \n\npatreon: https://www.patreon.com/BeastsoftheThorns \n\nX: https://twitter.com/aveuglecat\
+  \ \n\nPlurk: https://www.plurk.com/Wolfsregen \n\nPortal: https://portaly.cc/wolfsregen\n\
+  \nemail:angwinwolfsregen@gmail.com\n\n因為單人開發的緣故，所以計畫以每兩個月更新一次的頻率製作《Beasts of the\
+  \ Thorns》。 目前我一個人處理整個製程，包含劇本、場景、人物以及程式設計。任何經濟上的支援都有助於我加快開發的速度。我希望能有足夠的錢將部份工作委託別人處理，特別是我自己無法處理的部分，如音樂以及翻譯。\n\
+  \nDue to being a solo developer, I plan to release \"Beasts of the Thorns\" with\
+  \ updates every two months. Currently, I handle the entire process on my own, including\
+  \ the script, scenes, characters, and programming. Any financial support would significantly\
+  \ speed up the development. I hope to have enough funds to outsource some of the\
+  \ work, especially the parts I can't handle myself, such as music and translation."

@@ -1,4 +1,4 @@
-id: trixie
+﻿id: trixie
 title: The Testimony of Trixie Glimmer Smith
 title_en: The Testimony of Trixie Glimmer Smith
 cover: https://img.itch.zone/aW1hZ2UvMjgyMzM1LzEzODY2MjIucG5n/original/FEfruX.png
@@ -18,10 +18,38 @@ features: []
 links:
 - name: itch.io
   url: https://digital-poppy.itch.io/trixie
+  type: itch
+- name: 官网
+  url: https://soundcloud.com/d-eastes/sets/testimony-ost
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
-
+description_full: "After finding the cursed play 'The King in Yellow' , Trixie Glimmer\
+  \ Smith, a slacking student at Bluebell University recounts the terrible events\
+  \ that set her a week behind in her coursework.\n\nThis story follows on from the\
+  \ events of Parsnip (free download here)  with a host of new characters and an expanded\
+  \ world, although you can still enjoy it without playing Parsnip. \n\nTrixie is\
+  \ around 3-5 hours long, if you want to play all the content.\n\n Check out the\
+  \ free demo below! \n\n Features \n\n Insight: \n\nThroughout the game events may\
+  \ start to take their toll on Trixie's mind. As Trixie gains insight her narration\
+  \ becomes ever more unreliable.\n\nUnlike many sanity systems Trixie's insight system\
+  \ is hidden, meaning you never know for sure when you are being affected by it.\n\
+  \nThis system also means additional playthroughs of the game may vary! \n\n Can\
+  \ you really trust anything Trixie sees? Can you afford not to? \n\n Multiple Paths:\
+  \ \n\nTrixie can choose to spend her week with the Friendly, albeit slightly scary\
+  \ shopkeeper Heidi, the excitable baker Gregg or the chill milkwoman Bell.\n\nAt\
+  \ points the three routes may intertwine, giving different perspectives on the same\
+  \ story.\n\nThe game also has two main potential endings, with additional minor\
+  \ alternate endings.\n\n A Strange World: \n\nSet in a world of anthropomorphic\
+  \ animals, psychic birds and cosmic gods, Trixie explores the rural England inspired\
+  \ Bluefields County and discovers some of the horrors that secretly lurk in it's\
+  \ scenic countryside.\n\n Art Book: \n\nIf you spend $6.99 on Trixie you get an\
+  \ Art book with the game! Exciting stuff! It contains all sorts of concept art, \
+  \ bios and fun trivia about the game, the characters and the world.\n\n Content\
+  \ Warnings: \n\nTrixie Glimmer Smith contains a few mild descriptions of violence,\
+  \ horror, implied sexual content, some exploration of negative trans feelings and\
+  \ some bad language."

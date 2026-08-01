@@ -1,4 +1,4 @@
-id: stranded
+﻿id: stranded
 title: Stranded
 title_en: Stranded
 cover: https://img.itch.zone/aW1nLzc1MzAzODUucG5n/original/jgxuXp.png
@@ -19,9 +19,31 @@ features: []
 links:
 - name: itch.io
   url: https://thestrayproject.itch.io/stranded
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Aleo%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Ko-fi
+  url: https://ko-fi.com/strayproject
+  type: kofi
+- name: Discord
+  url: https://discord.gg/4Rp2sVzAHk
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "A GAME BY THE STRAY PROJECT\r\n\n A survival story set on an unknown\
+  \ island! \n\nA holiday vacation goe s completely wrong after your plane crashes\
+  \ onto an unknown island. Pl a y as the protagonist of the story who manages to\
+  \ sur v ive the crash along with a few oth e r survivors.\n\n Meet the other survivors!\
+  \ \n\nDecide the fu t ure of your own existence while forging favorable relations\
+  \ h ips with the r e st of the survivors. Their lives co m pletely rest in your\
+  \ hands.\r\n\n Preview of the game! \n\nFind the hidden secrets within the unsuspecting\
+  \ island and do your best to survive."
+gallery:
+- https://img.itch.zone/aW1hZ2UvNzk2MzMzLzYzNTYwNjYucG5n/original/7Ax2%2F2.png
+- https://img.itch.zone/aW1hZ2UvNzk2MzMzLzYzNTYwNjcucG5n/original/d9xt6P.png
+- https://img.itch.zone/aW1hZ2UvNzk2MzMzLzYzNTYwNjgucG5n/original/dG%2BfPG.png

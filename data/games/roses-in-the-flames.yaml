@@ -1,4 +1,4 @@
-id: roses-in-the-flames
+﻿id: roses-in-the-flames
 title: Roses In The Flames
 title_en: Roses In The Flames
 cover: https://img.itch.zone/aW1nLzI2Njc5MjM1LnBuZw==/original/%2F3ZWI4.png
@@ -18,9 +18,39 @@ features: []
 links:
 - name: itch.io
   url: https://cringledragons.itch.io/roses-in-the-flames
+  type: itch
+- name: Discord
+  url: https://discord.gg/rosesintheflames
+  type: discord
+- name: Steam
+  url: https://store.steampowered.com/app/3822380/Roses_in_The_Flames_Demo/
+  type: steam
+- name: 官网
+  url: https://dragonsforgestudios.com/
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Our discord server has reopened. Consider joining the link below: \n\
+  \n https://discord.gg/rosesintheflames \n\nAt first, in this demo you become acquainted\
+  \ in a new world with living dragons.\n\nIn the main game, you will become drawn\
+  \ into a growing conspiracy that stretches far beyond the capital of Drachenshire.\
+  \ Every choice you pull brings you deeper into conflict where trust can easily be\
+  \ broken and survival comes first at all costs! \n\nOur team has been faced with\
+  \ this question many times. Is the full game going to be released? Answer: Yes.\
+  \ The main game is still being produced and will be released at a future date as\
+  \ a whole game. \n\nPremise: You are the main character who had the mysterious fate\
+  \ of walking through a magical pond and only to discover after resurfacing, you\
+  \ find out it's a world inhabited by Dragons.\n\nWe're currently producing a new\
+  \ demo and planning to update our audiences. \n\nThank you for your patience.\n\n\
+  \ Revised July 29th, 2026."
+gallery:
+- https://img.itch.zone/aW1hZ2UvMzYxMTgyNi8yMTUwMDQ1NC5wbmc=/original/h89qzS.png
+- https://img.itch.zone/aW1hZ2UvMzYxMTgyNi8yMTUwMDQ2MC5wbmc=/original/zSqVXC.png
+- https://img.itch.zone/aW1hZ2UvMzYxMTgyNi8yMTUwMDQ1Ni5wbmc=/original/qGgHW0.png
+- https://img.itch.zone/aW1hZ2UvMzYxMTgyNi8yMTUwMDQ2NS5wbmc=/original/gXCCBP.png
+- https://img.itch.zone/aW1hZ2UvMzYxMTgyNi8yMTUwMDQ1Ny5wbmc=/original/AHi2L9.png
+- https://img.itch.zone/aW1hZ2UvMzYxMTgyNi8yMTUwMDQ3NS5wbmc=/original/FkymIz.png

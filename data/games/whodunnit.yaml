@@ -1,4 +1,4 @@
-id: whodunnit
+﻿id: whodunnit
 title: WHODUNNIT
 title_en: WHODUNNIT
 cover: https://img.itch.zone/aW1nLzI1MDAwMDY0LnBuZw==/original/jWeNZ6.png
@@ -19,9 +19,46 @@ features: []
 links:
 - name: itch.io
   url: https://donattico.itch.io/whodunnit
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Zilla%20Slab%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Patreon
+  url: https://patreon.com/WHODUNNIT
+  type: patreon
+- name: Steam
+  url: https://store.steampowered.com/app/3851280/WHODUNNIT/
+  type: steam
+- name: Discord
+  url: https://discord.gg/u88thRxg4F
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Howie Falk has a tough time being anything on purpose.\n\n... and\
+  \ then he got laid.\n\n WHODUNNIT is a comedic mystery visual novel following a\
+  \ man who must answer a burning question: who the hell did he hook up with last\
+  \ night?\n\nAnd just who did he think he was when he said yes?\n\nConduct investigations\
+  \ through point-and-click mechanics, interrogate a large cast of characters, and\
+  \ cobble together theories as Howie chases down the ghost of his own gay virginity\
+  \ — and trips, repeatedly, over the problems of everyone else.\n\nReactive dialogues\n\
+  \nA fully original, jazzy soundtrack \n\nHand-drawn environments with animated elements\n\
+  \nStylish, kinetic menus and screens\n\nQuality of life/accessibility features like\
+  \ line pinning, performance mode, toggled sentence pausing, and reduced motion/camera\
+  \ effects\n\n Support us on Patreon! \n\nBy subscribing to us on Patreon, you will\
+  \ get access to early builds when they're available, an exclusive Discord role,\
+  \ development logs/write-ups/updates, and support our objective to keep our games\
+  \ completely free .\r\n\n Wishlist the game on Steam! \n\nWishlists are incredibly\
+  \ helpful to help the game get momentum on Steam, in order to reach new players\
+  \ and get opportunities. We'd really appreciate your wishlists and reviews on the\
+  \ demo!"
+gallery:
+- https://img.itch.zone/aW1hZ2UvNDE4OTE0MC8yNDk5Nzk4OC5wbmc=/original/47nW1P.png
+- https://img.itch.zone/aW1hZ2UvNDE4OTE0MC8yNDk5Nzk4Mi5wbmc=/original/gShwbG.png
+- https://img.itch.zone/aW1hZ2UvNDE4OTE0MC8yNDk5Nzk5OS5wbmc=/original/X3lELS.png
+- https://img.itch.zone/aW1hZ2UvNDE4OTE0MC8yNDk5ODAwOC5wbmc=/original/Y18MJz.png
+- https://img.itch.zone/aW1hZ2UvNDE4OTE0MC8yNTAwMjY0MC5wbmc=/original/f3MtiA.png
+- https://img.itch.zone/aW1hZ2UvNDE4OTE0MC8yNDk5Nzk4Ni5wbmc=/original/K63f1u.png

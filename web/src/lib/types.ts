@@ -1,9 +1,23 @@
 export type Rating = "全年龄" | "软色情" | "R18" | "R18G";
 export type Status = "完结" | "进行中" | "停更";
 
+export type LinkType =
+  | "itch"
+  | "steam"
+  | "official"
+  | "patreon"
+  | "discord"
+  | "kofi"
+  | "telegram"
+  | "fanbox"
+  | "qq"
+  | "other";
+
 export type GameLink = {
   name: string;
   url: string;
+  /** 链接类型，决定图标与分组展示 */
+  type?: LinkType;
 };
 
 /** image / gif 用 img；video 用 video 或外链 embed */
@@ -23,6 +37,10 @@ export type Game = {
   cover?: string;
   description: string;
   description_en?: string;
+  /** 完整简介（itch 页面全文，保留段落） */
+  description_full?: string;
+  /** 画廊截图 URL 列表（原图） */
+  gallery?: string[];
   species: string[];
   rating: Rating;
   genres?: string[];

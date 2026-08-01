@@ -4,8 +4,10 @@ import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useMemo, useState, useEffect } from "react";
 import { ThemeToggle } from "@/components/ui/ThemeToggle";
+import { PalettePicker } from "@/components/ui/PalettePicker";
 import { CloseIcon, GamepadIcon, MenuIcon, SearchIcon, ShuffleIcon } from "@/components/ui/Icons";
 import { getAllGames } from "@/lib/games";
+import siteConfig from "@/data/site.json";
 
 const NAV = [
   { href: "/", label: "首页" },
@@ -113,6 +115,7 @@ export function SiteHeader() {
           <span className="hidden xs:inline sm:inline">随机</span>
         </button>
 
+        <PalettePicker defaultPalette={siteConfig.defaultPalette} />
         <ThemeToggle />
       </div>
 

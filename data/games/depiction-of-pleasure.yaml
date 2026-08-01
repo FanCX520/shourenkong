@@ -1,4 +1,4 @@
-id: depiction-of-pleasure
+﻿id: depiction-of-pleasure
 title: Depiction of Pleasure
 title_en: Depiction of Pleasure
 cover: https://img.itch.zone/aW1nLzIxNDc2NjQwLnBuZw==/original/2egCrq.png
@@ -19,9 +19,26 @@ features: []
 links:
 - name: itch.io
   url: https://phwoggers.itch.io/depiction-of-pleasure
+  type: itch
+- name: 官网
+  url: https://bsky.app/profile/phwog.bsky.social
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "The world is flooded with a deathly addictive substance. The arrival\
+  \ of a creature speaking a strange language disrupts the struggles of a king and\
+  \ his loyal follower. Will they discover the nature of the creature and their world?\n\
+  \nDepiction of Pleasure is a fantasy adventure story about indulgence, language,\
+  \ and how we view ourselves. It contains partial nudity and no explicit material,\
+  \ but features mature themes. If it were rated, it would be PEGI-16. Out of abundance\
+  \ of caution, it's labeled as adult. It currently sits at 9k words which is about\
+  \ an hour read.\n\nAll 74 sprites, 24 backgrounds, the 30 special assets, the 8\
+  \ CGs with 115 variations, are hand painted and recorded and available in the devlog.\n\
+  \nCheck out these other projects that the creators have worked on!\n\nphwog (Writing,\
+  \ art, music, programmer) :  BLUESKY \n\n https://echoproject.itch.io/echo \n\n\
+  \ https://echoproject.itch.io/a-role-to-play \n\n https://keithballard.itch.io/since-november\
+  \ \n\nwyatt (Editor) :  BLUESKY \n https://stringzerovn.itch.io/string-zero"

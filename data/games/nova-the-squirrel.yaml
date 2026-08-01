@@ -1,4 +1,4 @@
-id: nova-the-squirrel
+﻿id: nova-the-squirrel
 title: Nova the Squirrel
 title_en: Nova the Squirrel
 cover: https://img.itch.zone/aW1nLzE3Mzk1NDUucG5n/original/hp8U0F.png
@@ -15,9 +15,29 @@ features: []
 links:
 - name: itch.io
   url: https://novasquirrel.itch.io/nova-the-squirrel
+  type: itch
+- name: 官网
+  url: https://www.mesen.ca/
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Nova the Squirrel is a platformer game for the Nintendo Entertainment\
+  \ System, playable in an emulator (such as Mesen ) or on a flashcart such as RetroUSB's\
+  \ PowerPak . \n\nExplore 33 levels and fight 7 bosses across five different worlds\
+  \ in an attempt to save the world of Latte from the evil \"Scheme Team\".\n\nCopy\
+  \ the abilities of your enemies. (10 in all!)\n\nOver 35 different types of enemies,\
+  \ plus variants.\n\nInteresting puzzle mechanics.\n\nFancy soundtrack full of effects,\
+  \ by Vuurniac Squarewave. \nComposer's Bandcamp , YouTube \n\nSquirrel Domino music\
+  \ by  maple \n\nModern design: no lives or time limits, tons of checkpoints.\n\n\
+  A collectible in every stage for those wanting a challenge.\n\nBonus challenge levels\
+  \ after the main game.\n\nBonus game: Double Action Blaster Guys.\n\nThis game is\
+  \ open source! You can find its source code at its   GitHub repository . While the\
+  \ tools are not very user-friendly yet, if you feel like getting into the code you\
+  \ can build new levels for the game with a drag-and-drop level editor, or modify\
+  \ the game as you please.  Here is a second repository that's intended to be a more\
+  \ generic version of the engine, meant to be a cleaner starting point for a new\
+  \ game."

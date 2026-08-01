@@ -1,4 +1,4 @@
-id: catburglar
+﻿id: catburglar
 title: Catburglar
 title_en: Catburglar
 cover: https://img.itch.zone/aW1nLzE0MDc2MjkwLnBuZw==/original/bwx7gb.png
@@ -19,9 +19,26 @@ features: []
 links:
 - name: itch.io
   url: https://johngabrieluk.itch.io/catburglar
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Questrial%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "Help yourself to the city's valuables in Catburglar , a stealth\
+  \ platformer inspired by Trilby: The Art of Theft. Play as Cynth, and use your wits\
+  \ and agility to steal through a series of highrise apartments, outwitting guards\
+  \ and security cameras as you make your way to your goal.\n\nControls\n\nUse the\
+  \ arrow keys to move.\nUse X to interact.\n\nCredits\n\nDirected, written, and developed\
+  \ by John Gabriel \nPixel art by Jerico Landry \nDigital art and character design\
+  \ by Kyveri \nMusic by Sacha Feldman \nFeaturing Carrie Drovdlic as the voice of\
+  \ Cynth\n\n Catburglar was made for the sixty-third Godot Wild Jam."
+gallery:
+- https://img.itch.zone/aW1hZ2UvMjM3NTIzNC8xNDA3NjA3OS5wbmc=/original/kxqAKt.png
+- https://img.itch.zone/aW1hZ2UvMjM3NTIzNC8xNDA3NjA4MC5wbmc=/original/%2BG%2F%2BWJ.png
+- https://img.itch.zone/aW1hZ2UvMjM3NTIzNC8xNDA3NjA4MS5wbmc=/original/CUoRqS.png
+- https://img.itch.zone/aW1hZ2UvMjM3NTIzNC8xNDA3NjA4Mi5wbmc=/original/nK%2BVUp.png

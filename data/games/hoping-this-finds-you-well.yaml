@@ -1,4 +1,4 @@
-id: hoping-this-finds-you-well
+﻿id: hoping-this-finds-you-well
 title: Hoping This Finds You Well
 title_en: Hoping This Finds You Well
 cover: https://img.itch.zone/aW1nLzI4NjAwNjg4LmpwZw==/original/YLBMTY.jpg
@@ -19,9 +19,39 @@ features: []
 links:
 - name: itch.io
   url: https://alexisroyce.itch.io/hoping-this-finds-you-well
+  type: itch
+- name: Patreon
+  url: https://www.patreon.com/alexisroyce
+  type: patreon
+- name: 官网
+  url: https://forms.gle/5MPdGVnVm8y8DEXV9
+  type: official
+- name: Steam
+  url: https://store.steampowered.com/app/2874300/Hoping_this_Finds_You_Well/
+  type: steam
+- name: Discord
+  url: https://discord.gg/7hDQx9Qe
+  type: discord
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "An experiment in letter writing, meant to evoke the distinctly\
+  \ sweet homoeroticism of Victorian and Edwardian literature. Follow the correspondence\
+  \ of two professors, in the months before one of them makes a decision he'll never\
+  \ be able to take back.\n\nA visual novel with a cute mechanic: Slide the letters\
+  \ back and forth across the screen, to experience the time the letter is written,\
+  \ and when it is read!\n\nAbout 10,000 words in length,\n\nA fantasy setting with\
+  \ demons,\n\nTwo scientists, one of them arguably quite mad!\n\nIf you enjoyed this\
+  \ game, you can continue Harry and Hawley’s story in: The Case of the Serialized\
+  \ Killer! \n\n <a href=\"<a href=\"https://alexisroyce.itch.io/murder-mystery\"\
+  >The\" class=\"redactor-linkify-object\">https://alexisroyce.itch.io/murder-mystery\"\
+  >The</a> Case of the Serialized Killer by AlexisRoyce, Camden Dawn, Tsushi</a>"
+gallery:
+- https://img.itch.zone/aW1hZ2UvMTg0NzY0MC8xNTk2MTUxNy5wbmc=/original/NAxVtU.png
+- https://img.itch.zone/aW1hZ2UvMTg0NzY0MC8xNTU4MDMyNy5wbmc=/original/jlB615.png
+- https://img.itch.zone/aW1hZ2UvMTg0NzY0MC8xNTU4MDMyOC5wbmc=/original/WfyaBy.png
+- https://img.itch.zone/aW1hZ2UvMTg0NzY0MC8xMDkyODcwNC5wbmc=/original/2D0bJJ.png
+- https://img.itch.zone/aW1hZ2UvMTg0NzY0MC8xNTk2MTM2OC5wbmc=/original/Kb7zcK.png

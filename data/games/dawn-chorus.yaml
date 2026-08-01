@@ -1,4 +1,4 @@
-id: dawn-chorus
+﻿id: dawn-chorus
 title: Dawn Chorus
 title_en: Dawn Chorus
 cover: https://img.itch.zone/aW1nLzIyNjc4MTgxLnBuZw==/original/lH%2FAOV.png
@@ -19,9 +19,50 @@ features: []
 links:
 - name: itch.io
   url: https://dawn-chorus.itch.io/dawn-chorus
+  type: itch
+- name: Patreon
+  url: https://www.patreon.com/DawnChorusVN/posts/dawn-chorus-v0-161941094
+  type: patreon
+- name: 官网
+  url: https://bsky.app/profile/keoblau.bsky.social
+  type: official
+- name: Telegram
+  url: https://t.me/dawnchorusvn
+  type: telegram
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Dawn Chorus is a wholesome, non-linear romance visual novel set\
+  \ in the cold and snow-clad Norway. \n\n Moving to another country for studies is\
+  \ a huge step, but also a chance for a new beginning. Two months into the first\
+  \ semester, you are about to take part in a science camp in a remote guesthouse\
+  \ above the Arctic Circle. There, you will meet a wide cast of characters, each\
+  \ with their own story. Will you choose to rekindle old friendships, deepen the\
+  \ bond with your acquaintances, or meet someone new? Will you uncover what secrets\
+  \ your friends might be hiding? And will those friendships blossom into something\
+  \ more?\n\nThe game is currently in development, with updates released monthly.\
+  \ Each update is first available on Patreon and then released here a month later.\
+  \ At the moment none of the routes are finished and all will have 5 days.\n\nAdult\
+  \ content patch is available here .\n\nDawn Chorus v0.55 (all* routes) - released\
+  \ on Itch on 10.04\nDawn Chorus v0.56 (Devon & Bjorn) - released on Itch on 22.05\n\
+  \ Dawn Chorus v0.57 (Mikko & Rune)  - released on Patreon on 26.06, to be released\
+  \ on Itch on 25.07\n\n Broken Harbours v2.0  (Rune & Devon side story) -  now available\
+  \ again, reworked and expanded! \n\nIf you would like to support the development\
+  \ of Dawn Chorus and gain access to early releases, together with other benefits\
+  \ like sneak peeks or polls, check out our Patreon here . \n\nOur team: \n\nAdditional\
+  \ illustrations were done by  Bakemonoy ,  Prince O' Sky ,   Tintiai ,  Jandar  and\
+  \ Ghost . Additional writing was done by Branny .\nMain menu background drawn by\
+  \ White Leonard .\n\nFollow us on our Telegram channel , Twitter  or, better,  Bluesky\
+  \ !"
+gallery:
+- https://img.itch.zone/aW1hZ2UvNzA4NTg5LzIzMzcyODEyLmpwZw==/original/LXbq%2B8.jpg
+- https://img.itch.zone/aW1hZ2UvNzA4NTg5LzIzMzcyODAzLmpwZw==/original/h1iAf8.jpg
+- https://img.itch.zone/aW1hZ2UvNzA4NTg5LzIzMzcyODAyLmpwZw==/original/O6rxcq.jpg
+- https://img.itch.zone/aW1hZ2UvNzA4NTg5LzIzMzcyODAwLmpwZw==/original/ZNIcQy.jpg
+- https://img.itch.zone/aW1hZ2UvNzA4NTg5LzE2MTcwNjE4LnBuZw==/original/l7jMvH.png
+- https://img.itch.zone/aW1hZ2UvNzA4NTg5LzIzMzcyODA1LmpwZw==/original/dK8R64.jpg
+- https://img.itch.zone/aW1hZ2UvNzA4NTg5LzIzMzcyODA0LmpwZw==/original/9VffMH.jpg
+- https://img.itch.zone/aW1hZ2UvNzA4NTg5LzIzMzcyODAxLmpwZw==/original/KX5CMT.jpg

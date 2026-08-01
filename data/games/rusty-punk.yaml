@@ -1,4 +1,4 @@
-id: rusty-punk
+﻿id: rusty-punk
 title: Rusty punk
 title_en: Rusty punk
 cover: https://img.itch.zone/aW1nLzg1NzIyODgucG5n/original/53tFfV.png
@@ -19,9 +19,21 @@ features: []
 links:
 - name: itch.io
   url: https://hroft32.itch.io/rusty-punk
+  type: itch
+- name: 官网
+  url: https://www.furaffinity.net/user/hroft32/
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Embark on a dangerous adventure, overcome all the difficulties\
+  \ of survival in the post-apocalypse world. Create your own unique character and\
+  \ make friends.\nAnd try not to die in a world full of danger!\n\nProject director:\
+  \ Hroft32 \n\nThanks for the help in creating the project: VELIAL1987 \n\nEnglish\
+  \ is not my native language, so don't judge strictly, this is just the first version.\
+  \ We will definitely correct all errors.\n\n Attention! Game rating 18+, contains\
+  \ adult (M/M) content\n\nJoin a sandy world soaked through with caked blood, and\
+  \ all this against the backdrop of fame and adventure!"

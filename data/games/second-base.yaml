@@ -1,4 +1,4 @@
-id: second-base
+﻿id: second-base
 title: SECOND BASE - CHAPTER 1A
 title_en: SECOND BASE - CHAPTER 1A
 cover: https://img.itch.zone/aW1nLzIzNTU1NTgwLnBuZw==/original/GuzMQc.png
@@ -19,9 +19,41 @@ features: []
 links:
 - name: itch.io
   url: https://dalmond-team.itch.io/second-base
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Reddit%20Sans%3A400%2C400italic%2C700%2C700italic
+  type: official
+- name: Discord
+  url: https://discord.gg/s2kwAs6uxB
+  type: discord
+- name: Patreon
+  url: https://patreon.com/TheDalmondTeam?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: false
 notes: promoted from candidates on 2026-08-01
+description_full: "In the great wide state of Philadelphia (yes, in this universe\
+  \ it's a state) lies a small town named Cherry Hill . Located in the town's busy\
+  \ streets is  Cherimoya College , a prestigious university filled with students\
+  \ from all walks of life. \n\nAfter the fall semester, several of the college baseball\
+  \ team's players graduated, leaving the team barebones. Given a lack of players,\
+  \ many of the students will try their hand at becoming part of The Green Beetles\
+  \ , incentivised by the promise of a scholarship. \n\n Follow the lives of  Jerry\
+  \ Dalmond and Parker King , two students who cross paths at the beginning of the\
+  \ new term.\n\n Jerry  is a 20 year old dalmatian who's currently a sophomore in\
+  \ sociology. \n\nHe prefers not to stand out from the crowd but enjoys hanging out\
+  \ with people. Jerry's considered a reliable person by many in his class. He's a\
+  \ little bit of a low-energy goofball, the type of guy to take a shower in his clothes\
+  \ so he gets two things cleaned. \n\nHis love life? Nowhere to be seen. Dust.\n\n\
+  \ Parker  is a 21 year old kangaroo, currently in his junior year in Architecture. \n\
+  \nHis looks and popularity from the baseball team might lead you to believe he’s\
+  \ an extroverted guy. Well.. not exactly. While he’s not completely antisocial,\
+  \ his people skills aren’t that great, and he struggles to open up to others.\n\n\
+  His love life is great! ...Or at least it was until a few weeks ago.\n\nWatch their\
+  \ story unfold from both of their perspectives. Reading both sides is recommended\
+  \ to enjoy the full experience.\n\nCan love really bloom on the baseball field?\n\
+  \n Will they be able to reach... SECOND BASE ? \n\n THIS VISUAL NOVEL IS SUITED\
+  \ FOR MATURE AUDIENCES (+18)."

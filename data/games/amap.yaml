@@ -1,4 +1,4 @@
-id: amap
+﻿id: amap
 title: All Men Are Pigs
 title_en: All Men Are Pigs
 cover: https://img.itch.zone/aW1nLzEyNDk0NTY5LnBuZw==/original/K6HiIS.png
@@ -19,9 +19,32 @@ features: []
 links:
 - name: itch.io
   url: https://kaimakigames.itch.io/amap
+  type: itch
+- name: 官网
+  url: https://fonts.googleapis.com/css?family=Lexend%3A400%2C400italic%2C700%2C700italic
+  type: official
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "All Men Are Pigs has now been released! \n\n A queer Visual novel\
+  \ with a tropical flavor. As the main character, you get to move to a Caribbean\
+  \ island named Santa Locura, working the summer away in a bar named The Inqueersition\
+  \ .\n\nYour day to day routine gets derailed by the men you meet, all of them hiding\
+  \ a dealbreaker in their closet. What IS their deal? WHY is it so hard to find a\
+  \ proper man? Do you even NEED a man?\n\n...well, this is a dating sim, so we’ll\
+  \ go with “yes”.\n\nYou will get to interact with your friends, coworkers and possible\
+  \ love interests in a variety of ways. Will you manage to land the man of your dreams\
+  \ and love him despite the issues they might have, or will they chew you up and\
+  \ spit you like gum?\n\n MAIN LEAD: \n\n MAX:   Max just moved to the island looking\
+  \ for a chance at a fresh start. He has NO idea what’s in store for him. But he’s\
+  \ young, he’s cute,and life usually works out just fine for those kind of people.\n\
+  \nUnless they make the wrong choice every. Single. Time.\n\n (if you backed us on\
+  \ Kickstarter and have already pre-paid for the game, please hit this link so you\
+  \ can automatically own the game on itch.io: \n\n https://kaimakigames.itch.io/all-men-are-pigs/backer-access\
+  \  ) \n\nEnjoy many more characters\n\n OUR DEMO IS NOW OUT! Available for Windows\
+  \ and Android (so far) \r\n\nYou can follow us on Twitter as well, at  https://twitter.com/GamesKaimaki\
+  \ \n\nCordially,\n\n Kaimaki Games\r\n\n DISCLAIMER: This game is intended for mature\
+  \ audiences (18+)."

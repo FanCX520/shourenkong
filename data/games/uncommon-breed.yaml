@@ -1,4 +1,4 @@
-id: uncommon-breed
+﻿id: uncommon-breed
 title: Uncommon Breed (A Furry RPG / Dating sim)
 title_en: Uncommon Breed (A Furry RPG / Dating sim)
 cover: https://img.itch.zone/aW1hZ2UvMjE5NzMzLzE0ODI5MDgucG5n/original/q%2BFhwb.png
@@ -19,9 +19,20 @@ features: []
 links:
 - name: itch.io
   url: https://uncommonbreedvn.itch.io/uncommon-breed
+  type: itch
+- name: 官网
+  url: https://t.co/LK48RIcrcd?amp=1
+  type: official
+- name: Patreon
+  url: https://www.patreon.com/UncommonBreedVn
+  type: patreon
 status: 进行中
 release_date: null
 updated_at: '2026-08-01'
 source: itch
 nsfw: true
 notes: promoted from candidates on 2026-08-01
+description_full: "Want to support outside of Patreon/Itch?\n\nBuy me a coffee @ \
+  \ ko-fi.com/sabremakesgames  ^_^\r\n\nCheck out my merch @   panickedfox.games  :3\n\
+  \n -----------------------------------------------------------------------------------------------------------\
+  \ \n\n Warning this game contain: Fantasy Violence , Sexual Content"
