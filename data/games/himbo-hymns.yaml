@@ -1,0 +1,27 @@
+id: himbo-hymns
+title: Himbo Hymns
+title_en: Himbo Hymns
+cover: https://img.itch.zone/aW1nLzI0Njc5MjM4LnBuZw==/original/4AbJ%2Fn.png
+description: Have you ever wanted a himbo for Christmas?
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://lil-beastman.itch.io/himbo-hymns
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

@@ -1,0 +1,28 @@
+id: brawler-heat
+title: Brawler Heat
+title_en: Brawler Heat
+cover: https://img.itch.zone/aW1nLzIxNDY1NzU3LnBuZw==/original/Q3adAa.png
+description: Play in your browser
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://morishasu.itch.io/brawler-heat
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

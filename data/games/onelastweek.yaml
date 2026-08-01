@@ -1,0 +1,28 @@
+id: onelastweek
+title: One Last Week
+title_en: One Last Week
+cover: https://img.itch.zone/aW1nLzIxMzM4ODUyLnBuZw==/original/Tfp9Mn.png
+description: The world is ending. You're gonna be alright.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://chmron.itch.io/onelastweek
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

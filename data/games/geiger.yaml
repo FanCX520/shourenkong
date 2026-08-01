@@ -1,0 +1,28 @@
+id: geiger
+title: Geiger
+title_en: Geiger
+cover: https://img.itch.zone/aW1nLzIxNDcyMzU0LmpwZw==/original/T7eNBk.jpg
+description: War always takes from the undeserving... "Thank you for your service."
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://erebuswulfe.itch.io/geiger
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

@@ -1,0 +1,27 @@
+id: dikkimen
+title: Dikkimen
+title_en: Dikkimen
+cover: https://img.itch.zone/aW1nLzIwMjI3MDg1LnBuZw==/original/0blBFj.png
+description: A JOURNEY OF JOY DREAMWORLD ADVENTURE
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://colorinu-games.itch.io/dikkimen
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

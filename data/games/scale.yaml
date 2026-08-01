@@ -1,0 +1,27 @@
+id: scale
+title: Scale Salon
+title_en: Scale Salon
+cover: https://img.itch.zone/aW1nLzE3NDYxMTY2LnBuZw==/original/QYq54h.png
+description: Run a salon for scaly critters. Earn money and scale up your business.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://golen.itch.io/scale
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

@@ -1,0 +1,26 @@
+id: medicine
+title: '药：绝望的解决手段(Medicine: The Remedy of Sheer Desperation)'
+title_en: '药：绝望的解决手段(Medicine: The Remedy of Sheer Desperation)'
+cover: https://img.itch.zone/aW1nLzczMDUwOTMuanBn/original/78EIdp.jpg
+description: 探索孤独，绝望与爱。
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://yuxiu.itch.io/medicine
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

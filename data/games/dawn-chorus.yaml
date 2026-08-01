@@ -1,0 +1,27 @@
+id: dawn-chorus
+title: Dawn Chorus
+title_en: Dawn Chorus
+cover: https://img.itch.zone/aW1nLzIyNjc4MTgxLnBuZw==/original/lH%2FAOV.png
+description: A queer romance visual novel
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://dawn-chorus.itch.io/dawn-chorus
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: promoted from candidates on 2026-08-01

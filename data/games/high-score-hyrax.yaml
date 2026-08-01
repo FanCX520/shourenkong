@@ -1,0 +1,28 @@
+id: high-score-hyrax
+title: High Score Hyrax
+title_en: High Score Hyrax
+cover: https://img.itch.zone/aW1nLzI0MzEwNjEyLnBuZw==/original/tL87Ma.png
+description: Game Over. Insert a coin to try again.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://chmron.itch.io/high-score-hyrax
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

@@ -1,0 +1,26 @@
+id: thenightchaser
+title: 追夜人 (The Night Chaser)
+title_en: 追夜人 (The Night Chaser)
+cover: https://img.itch.zone/aW1nLzI1Nzg5OTk4LnBuZw==/original/BF%2BqMq.png
+description: 一场意外旅行，两个孤独灵魂。
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://cambrian42.itch.io/thenightchaser
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

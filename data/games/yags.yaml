@@ -1,0 +1,27 @@
+id: yags
+title: 'Yearning: A Gay Story'
+title_en: 'Yearning: A Gay Story'
+cover: https://img.itch.zone/aW1nLzE4NDUwNjIuanBn/original/DbcjsW.jpg
+description: Come out in college! Meet people, make friends, and maybe find a boyfriend?
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://bobcgames.itch.io/yags
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

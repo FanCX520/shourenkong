@@ -1,0 +1,27 @@
+id: copycats-phenomenon
+title: Copycat's Phenomenon
+title_en: Copycat's Phenomenon
+cover: https://img.itch.zone/aW1nLzI1MDU4ODMuanBn/original/Ml%2Fi%2Bc.jpg
+description: spooky multiplayer horror game
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://reludum.itch.io/copycats-phenomenon
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

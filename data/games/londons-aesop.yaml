@@ -1,0 +1,27 @@
+id: londons-aesop
+title: London&#039;s Aesop
+title_en: London&#039;s Aesop
+cover: https://img.itch.zone/aW1nLzU1MDE1OTYucG5n/original/Pqsr2u.png
+description: An urban LGBT furry visual novel
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://hyenadev.itch.io/londons-aesop
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: promoted from candidates on 2026-08-01

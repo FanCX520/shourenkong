@@ -1,0 +1,25 @@
+id: parsnip
+title: Parsnip
+title_en: Parsnip
+cover: https://img.itch.zone/aW1hZ2UvMTQ0NzMyLzExMjI2NDcucG5n/original/ol1TCe.png
+description: A hungry rabbit quests for cake
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://bunbirb.itch.io/parsnip
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

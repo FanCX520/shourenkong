@@ -1,0 +1,26 @@
+id: homegrown-pet
+title: Homegrown Pet
+title_en: Homegrown Pet
+cover: https://img.itch.zone/aW1nLzc4NDYzODkucG5n/original/RreNwc.png
+description: You need to feed your pet quickly in 60 second before the authorities
+  arrives!!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://trisghost.itch.io/homegrown-pet
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

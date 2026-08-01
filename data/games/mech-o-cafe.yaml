@@ -1,0 +1,27 @@
+id: mech-o-cafe
+title: Mech-o Café
+title_en: Mech-o Café
+cover: https://img.itch.zone/aW1nLzE4ODQzNTE5LnBuZw==/original/Z4PNlJ.png
+description: A macho café AND robot café unlike any you’ve ever seen.
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://xanster.itch.io/mech-o-cafe
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: promoted from candidates on 2026-08-01

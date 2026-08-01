@@ -1,0 +1,23 @@
+id: nova-the-squirrel
+title: Nova the Squirrel
+title_en: Nova the Squirrel
+cover: https://img.itch.zone/aW1nLzE3Mzk1NDUucG5n/original/hp8U0F.png
+description: a platformer game for the NES with ability copying and puzzles
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://novasquirrel.itch.io/nova-the-squirrel
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

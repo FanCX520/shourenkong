@@ -1,0 +1,25 @@
+id: tunic
+title: TUNIC
+title_en: TUNIC
+cover: https://img.itch.zone/aW1nLzgxMjAyODIucG5n/original/0pRAJC.png
+description: Be Brave, Little Fox
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://finji.itch.io/tunic
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

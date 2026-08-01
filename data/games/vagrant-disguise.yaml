@@ -1,0 +1,27 @@
+id: vagrant-disguise
+title: A Vagrant Disguise
+title_en: A Vagrant Disguise
+cover: https://img.itch.zone/aW1nLzc2OTU1MDYucG5n/original/ddlbPE.png
+description: A restaurant owner and a homeless wolf reunite due to peculiar circumstances
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://kiransoft.itch.io/vagrant-disguise
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: promoted from candidates on 2026-08-01

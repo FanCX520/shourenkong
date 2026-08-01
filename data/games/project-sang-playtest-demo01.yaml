@@ -1,0 +1,25 @@
+id: project-sang-playtest-demo01
+title: 'Sang: The Desert Blade'
+title_en: 'Sang: The Desert Blade'
+cover: https://img.itch.zone/aW1nLzc1MjI0NTUucG5n/original/TCUDlC.png
+description: Action 2D RPG Inspired by Dark Souls and Zelda
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://fiskyfisko.itch.io/project-sang-playtest-demo01
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

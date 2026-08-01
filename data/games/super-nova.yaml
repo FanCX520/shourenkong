@@ -1,0 +1,27 @@
+id: super-nova
+title: Super-Nova
+title_en: Super-Nova
+cover: https://img.itch.zone/aW1nLzE1NzA2MDQzLmpwZw==/original/O%2BBWy8.jpg
+description: A story of heroes, villains, and everyone in between.
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://rotshild.itch.io/super-nova
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: promoted from candidates on 2026-08-01

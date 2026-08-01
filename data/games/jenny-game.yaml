@@ -1,0 +1,26 @@
+id: jenny-game
+title: JENNY
+title_en: JENNY
+cover: https://img.itch.zone/aW1nLzIzMDUyODYzLnBuZw==/original/Qn5ocy.png
+description: Smash demons, salarymen and the bureaucratic system in this chaotic hat-and-bat
+  twin-stick shooter.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://awk.itch.io/jenny-game
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

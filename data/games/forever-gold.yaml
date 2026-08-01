@@ -1,0 +1,28 @@
+id: forever-gold
+title: Forever Gold
+title_en: Forever Gold
+cover: https://img.itch.zone/aW1nLzIxMjU0MjA5LnBuZw==/original/Ph%2F42N.png
+description: A dark fantasy RPG.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://weaselbear.itch.io/forever-gold
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

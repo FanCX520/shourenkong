@@ -1,0 +1,25 @@
+id: starwind-shrine
+title: Starwind Shrine
+title_en: Starwind Shrine
+cover: https://img.itch.zone/aW1nLzExOTc5MjQxLnBuZw==/original/HSkrTM.png
+description: A short puzzle game about blowing wind and fire.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://rubic.itch.io/starwind-shrine
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

@@ -1,0 +1,27 @@
+id: a-role-to-play
+title: A Role to Play
+title_en: A Role to Play
+cover: https://img.itch.zone/aW1nLzEwNTAxMDY3LnBuZw==/original/noOdhM.png
+description: When you just want to be anyone else but you.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://echoproject.itch.io/a-role-to-play
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

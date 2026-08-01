@@ -1,0 +1,27 @@
+id: gotosnowtown
+title: 出发！去落雪镇(Go! To SnowTown)
+title_en: 出发！去落雪镇(Go! To SnowTown)
+cover: https://img.itch.zone/aW1nLzIyMDkyMTMyLnBuZw==/original/pojQNh.png
+description: 一段关于勇气、希望与寻找自我的旅程。
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://yuxiu.itch.io/gotosnowtown
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

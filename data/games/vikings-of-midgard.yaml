@@ -1,0 +1,27 @@
+id: vikings-of-midgard
+title: Vikings of Midgard
+title_en: Vikings of Midgard
+cover: https://img.itch.zone/aW1nLzQwNDg5MzkucG5n/original/iBiFrl.png
+description: Available for Windows, macOS, Linux
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://fenrir-lunaris.itch.io/vikings-of-midgard
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

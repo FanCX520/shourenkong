@@ -1,0 +1,27 @@
+id: rusty-punk
+title: Rusty punk
+title_en: Rusty punk
+cover: https://img.itch.zone/aW1nLzg1NzIyODgucG5n/original/53tFfV.png
+description: Sand and blood
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://hroft32.itch.io/rusty-punk
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: promoted from candidates on 2026-08-01

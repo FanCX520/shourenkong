@@ -1,0 +1,27 @@
+id: wayfinder
+title: 'Wayfinder: A Modern Tale of Furry (v1.95)'
+title_en: 'Wayfinder: A Modern Tale of Furry (v1.95)'
+cover: https://img.itch.zone/aW1nLzIyNTgzNTY1LnBuZw==/original/3eZdIC.png
+description: A modern furry fantasy...
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://wayfindervn.itch.io/wayfinder
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: promoted from candidates on 2026-08-01

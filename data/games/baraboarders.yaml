@@ -1,0 +1,27 @@
+id: baraboarders
+title: Bara Boarders
+title_en: Bara Boarders
+cover: https://img.itch.zone/aW1nLzE2MjcwMTMuanBn/original/g28dHt.jpg
+description: Surfer Dating Game
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://soulsoftea.itch.io/baraboarders
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01

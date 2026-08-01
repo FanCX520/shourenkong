@@ -1,0 +1,24 @@
+id: gunsaw-demo
+title: Gunsaw Demo
+title_en: Gunsaw Demo
+cover: https://img.itch.zone/aW1nLzEyMTkxNTgyLnBuZw==/original/pCl8Cc.png
+description: A 2D shooter with focus on ammo management
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://orsonik.itch.io/gunsaw-demo
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: promoted from candidates on 2026-08-01
