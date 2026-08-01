@@ -54,6 +54,18 @@ const payload = JSON.stringify(games, null, 2) + "\n";
 
 fs.mkdirSync(path.dirname(OUT_PUBLIC), { recursive: true });
 fs.mkdirSync(path.dirname(OUT_SRC), { recursive: true });
-fs.writeFileSync(OUT_PUBLIC, payload, "utf8");
-fs.writeFileSync(OUT_SRC, payload, "utf8");
+
+// Windows 下已存在的产物文件可能被文件监视器/杀软占用写锁，
+// 先 unlink 再写新文件可稳定绕过 EPERM。
+function safeWrite(target, content) {
+  try {
+    fs.unlinkSync(target);
+  } catch {
+    /* 文件不存在或被占用时忽略，下面 writeFileSync 会报错 */
+  }
+  fs.writeFileSync(target, content, "utf8");
+}
+
+safeWrite(OUT_PUBLIC, payload);
+safeWrite(OUT_SRC, payload);
 console.log(`synced ${games.length} games → web/src/data/games.json + public`);

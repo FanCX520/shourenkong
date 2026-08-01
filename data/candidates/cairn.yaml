@@ -1,0 +1,25 @@
+id: cairn
+title: Cairn
+title_en: Cairn
+cover: https://img.itch.zone/aW1nLzk5MDk2MjIucG5n/original/DvS67A.png
+description: A game about climbing and leaving a path for others.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://rubic.itch.io/cairn
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

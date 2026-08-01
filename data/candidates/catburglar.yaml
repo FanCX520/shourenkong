@@ -1,0 +1,27 @@
+id: catburglar
+title: Catburglar
+title_en: Catburglar
+cover: https://img.itch.zone/aW1nLzE0MDc2MjkwLnBuZw==/original/bwx7gb.png
+description: Help yourself to whatever you fancy.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://johngabrieluk.itch.io/catburglar
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

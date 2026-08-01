@@ -1,0 +1,27 @@
+id: dawntide
+title: Dawntide
+title_en: Dawntide
+cover: https://img.itch.zone/aW1nLzkyNTYzNjIucG5n/original/gyaZ9P.png
+description: Available for Windows, macOS, Linux, Android
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://dawntidedev.itch.io/dawntide
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/

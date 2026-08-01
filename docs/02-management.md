@@ -31,9 +31,18 @@
 3. 本地运行 `python scripts/validate-games.py` 自检
 4. 提交 Pull Request → Actions 自动校验
 
-**方式三：从 itch 批量导入（后续）**
-1. 运行抓取脚本生成 `data/candidates/`
-2. 在后台或本地确认后转为正式条目
+**方式三：从 itch 批量导入（已可用）**
+1. 运行 `python scripts/scrape-itch.py --tag furry --pages 1` 生成 `data/candidates/*.yaml`
+2. 打开后台 `/admin` 的「候选游戏（待审核）」集合，补全物种 / 简介 / 类型
+3. 审核通过：把文件从 `data/candidates/` 移到 `data/games/`（Git 操作），同时删除候选
+4. 不通过：直接删除候选文件
+5. push 后 Actions 自动校验并重新发布
+
+**日常「更新列表」节奏建议**
+1. 每周跑一次抓取脚本（换不同 tag：furry / kemono / bara / yiff 等）
+2. 后台审核候选 → 转正或删除
+3. 检查「停更 / 完结」状态是否需要人工更新
+4. 全量 push，Pages 自动重新构建
 
 ### 配置 Decap CMS 的必要步骤
 
@@ -45,7 +54,7 @@
 
 ### 后续可扩展
 
-- 增加「待审核队列」集合（candidates）
+- ~~增加「待审核队列」集合（candidates）~~ ✅ 已在 `config.yml` 落地
 - 网页表单投稿 → 自动开 Issue
 - 权限区分（编辑 vs 审核）
 - 封面图本地上传到 `public/uploads`

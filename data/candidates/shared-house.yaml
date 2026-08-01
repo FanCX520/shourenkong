@@ -1,0 +1,27 @@
+id: shared-house
+title: Shared House/与那家伙合租房/あいつとシェアハウス
+title_en: Shared House/与那家伙合租房/あいつとシェアハウス
+cover: https://img.itch.zone/aW1nLzI3MzMyNzMyLnBuZw==/original/SN1MC6.png
+description: A Youth Romance of Orange and Black
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://kurosawa4780.itch.io/shared-house
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/

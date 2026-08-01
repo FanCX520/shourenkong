@@ -1,0 +1,34 @@
+# 依赖与构建产物
+node_modules/
+web/node_modules/
+web/.next/
+web/out/
+out/
+dist/
+
+# 上传目录（由 CMS 管理，可选忽略）
+web/public/uploads/
+
+# 系统与日志
+.DS_Store
+Thumbs.db
+*.log
+
+# 环境与密钥
+.env
+.env.local
+.env*.local
+.dev.vars
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 技能安装副本(全局在 ~/.agents/skills，勿入仓库)
+.agents/
+agent/
+
+# WorkBuddy 本地代理状态(勿提交)
+.workbuddy/
+skills-lock.json

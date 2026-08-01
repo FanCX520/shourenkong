@@ -1,0 +1,27 @@
+id: the-wayward-tower
+title: The Wayward Tower
+title_en: The Wayward Tower
+cover: https://img.itch.zone/aW1nLzE2MzQxNTMzLmdpZg==/original/xs8Nnl.gif
+description: May the road lead me back to you once more.
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://team-wolf-in-a-tower.itch.io/the-wayward-tower
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/

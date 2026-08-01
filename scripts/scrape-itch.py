@@ -48,28 +48,32 @@ def known_ids():
     return ids
 
 def meta(html, prop):
-    needle = 'property="' + prop + '"'
-    i = html.find(needle)
-    if i < 0:
-        needle = "property='" + prop + "'"
-        i = html.find(needle)
-    if i < 0:
+    """从 meta 标签提取 content，兼容 name=/property= 两种写法与任意属性顺序。"""
+    m = re.search(r'<meta[^>]*?(?:name|property)=["\']' + re.escape(prop) + r'["\'][^>]*>', html, re.I)
+    if not m:
         return None
-    chunk = html[i:i+400]
-    for mark in ('content="', "content='"):
-        j = chunk.find(mark)
-        if j >= 0:
-            start = j + len(mark)
-            end = chunk.find(mark[-1], start)
-            if end > start:
-                return chunk[start:end].replace("&amp;", "&").strip()
-    return None
+    cm = re.search(r'content=["\']([^"\']*)["\']', m.group(0), re.I)
+    if not cm:
+        return None
+    return cm.group(1).replace("&amp;", "&").strip()
+
+def meta_title(html):
+    """标题：优先 <title> 标签（去掉作者后缀），fallback 到 og:title / twitter:title。"""
+    t = re.search(r"<title[^>]*>(.*?)</title>", html, re.I | re.S)
+    if t:
+        title = re.sub(r"\s+", " ", t.group(1)).strip()
+        if title and not title.lower() in ("itch.io", "untitled"):
+            return re.sub(r"\s+by\s+[^|<>]+$", "", title).strip()
+    return meta(html, "og:title") or meta(html, "twitter:title")
 
 def list_game_urls(html):
     out, seen = [], set()
     for m in re.finditer("https://([a-zA-Z0-9-]+)[.]itch[.]io/([a-zA-Z0-9._-]+)", html):
         user, game = m.group(1), m.group(2)
         if game in ("login", "register", "community", "feed", "jobs", "support"):
+            continue
+        # 排除静态资源：js/css 等带扩展名的文件
+        if re.search(r"[.](?:js|css|json|png|jpg|jpeg|gif|webp|svg|ico|woff2?|ttf|txt|map)$", game, re.I):
             continue
         url = "https://" + user + ".itch.io/" + game
         if url not in seen:
@@ -78,10 +82,19 @@ def list_game_urls(html):
     return out
 
 def parse_game(url, html):
-    title = meta(html, "og:title") or meta(html, "twitter:title") or "Untitled"
-    if " by " in title:
-        title = title.split(" by ")[0].strip()
-    desc = meta(html, "og:description") or meta(html, "description") or ""
+    title = meta_title(html) or "Untitled"
+    desc = meta(html, "og:description") or meta(html, "twitter:description") or meta(html, "description") or ""
+    if not desc:
+        # itch 正文描述容器：<div class="formatted_description user_formatted">...</div>
+        m = re.search(r'<div[^>]*class=["\'][^"\']*formatted_description[^"\']*["\'][^>]*>(.*?)</div>', html, re.I | re.S)
+        if m:
+            desc = re.sub(r"<[^>]+>", " ", m.group(1))
+            desc = re.sub(r"\s+", " ", desc).strip()
+    if desc:
+        import html as _html
+        desc = _html.unescape(desc)
+        desc = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", desc)
+        desc = desc.strip()
     cover = meta(html, "og:image") or meta(html, "twitter:image")
     path = urllib.parse.urlparse(url).path.strip("/")
     gid = slugify(path.split("/")[-1] if path else title)

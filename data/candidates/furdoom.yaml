@@ -1,0 +1,23 @@
+id: furdoom
+title: Hexabun - FurDoom
+title_en: Hexabun - FurDoom
+cover: https://img.itch.zone/aW1nLzE4OTM4MDk5LnBuZw==/original/B0VwaN.png
+description: Furdoom
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://korp-kat.itch.io/furdoom
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

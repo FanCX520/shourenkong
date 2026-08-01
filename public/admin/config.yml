@@ -1,25 +1,20 @@
-# Decap CMS 配置 - 兽人控.com
-# 文档：https://decapcms.org/docs/configuration-options/
+# Decap CMS - 兽人控.com
+# 文档: https://decapcms.org/docs/configuration-options/
+# 注意：本文件是 web/public/admin/config.yml 的同步副本，实际生效以 web/ 下为准。
 
 backend:
   name: github
   repo: FanCX520/shourenkong
   branch: main
-  base_url: https://api.github.com
-  # 可选：使用 Git Gateway 或直接 GitHub OAuth App
+  # 站点域名（OAuth 代理所在域名，不要末尾斜杠）
+  # 兽人控.com 的 punycode 形式如下；未绑域名前可先用 https://<项目名>.pages.dev
+  base_url: https://xn--gmq10evxz.com
+  auth_endpoint: api/auth
 
-# 本地开发时可临时改成：
-# backend:
-#   name: git-gateway
-# 或使用
-# local_backend: true
-
-media_folder: public/uploads
+media_folder: web/public/uploads
 public_folder: /uploads
 
 locale: zh_Hans
-
-# 发布时直接提交到 main（也可改成 editorial_workflow 走 PR）
 publish_mode: simple
 
 collections:
@@ -34,7 +29,7 @@ collections:
     identifier_field: id
     summary: "{{title}} ({{rating}})"
     fields:
-      - { label: "ID (slug)", name: id, widget: string, hint: "小写英文+连字符，例如 black-chapter，需与文件名一致" }
+      - { label: "ID (slug)", name: id, widget: string, hint: "小写英文+连字符，例如 black-chapter" }
       - { label: "标题（中文）", name: title, widget: string }
       - { label: "英文标题", name: title_en, widget: string, required: false }
       - { label: "日文标题", name: title_jp, widget: string, required: false }
@@ -87,7 +82,7 @@ collections:
         widget: select
         options: ["完结", "进行中", "停更"]
         default: "完结"
-      - { label: "发布日期", name: release_date, widget: string, required: false, hint: "YYYY-MM-DD" }
+      - { label: "发布日期", name: release_date, widget: string, required: false }
       - { label: "最后更新", name: updated_at, widget: string, required: false }
       - label: "来源"
         name: source
@@ -98,12 +93,78 @@ collections:
       - { label: "NSFW", name: nsfw, widget: boolean, default: false, required: false }
       - { label: "内部备注", name: notes, widget: text, required: false }
 
-  - name: docs
-    label: 文档
-    folder: docs
-    extension: md
-    format: frontmatter
+  # itch.io 自动抓取的候选条目，审核流程：
+  # 1. 在本集合中打开候选，补全物种 / 简介 / 类型等字段
+  # 2. 确认无误后把同名文件从 data/candidates/ 移到 data/games/（Git 操作）
+  # 3. GitHub Actions 会自动校验并重新发布
+  - name: candidates
+    label: 候选游戏（待审核）
+    label_singular: 候选游戏
+    folder: data/candidates
+    extension: yaml
+    format: yaml
     create: false
+    slug: "{{id}}"
+    identifier_field: id
+    summary: "{{title}} ({{rating}})"
     fields:
-      - { label: "标题", name: title, widget: string, required: false }
-      - { label: "正文", name: body, widget: markdown }
+      - { label: "ID (slug)", name: id, widget: string }
+      - { label: "标题", name: title, widget: string }
+      - { label: "英文标题", name: title_en, widget: string, required: false }
+      - { label: "封面图 URL", name: cover, widget: string, required: false }
+      - { label: "中文简介", name: description, widget: text }
+      - label: "物种"
+        name: species
+        widget: select
+        multiple: true
+        options: ["狼", "狐", "狗", "猫", "虎", "狮", "豹", "熊", "龙", "鸟", "兔", "鹿", "马", "牛", "羊", "鼠", "蝙蝠", "蛇", "鲨鱼", "恐龙", "兽人（广义）", "人类（含兽人角色）", "混合", "其他"]
+      - label: "内容分级"
+        name: rating
+        widget: select
+        options: ["全年龄", "软色情", "R18", "R18G"]
+        default: "全年龄"
+      - label: "游戏类型"
+        name: genres
+        widget: select
+        multiple: true
+        required: false
+        options: ["视觉小说", "RPG", "模拟经营", "养成", "动作", "平台", "射击", "解谜", "约会模拟", "沙盒", "开放世界", "其他"]
+      - label: "平台"
+        name: platforms
+        widget: select
+        multiple: true
+        required: false
+        options: ["Windows", "macOS", "Linux", "Android", "iOS", "Switch", "Web", "itch.io", "Steam", "其他"]
+      - label: "引擎"
+        name: engines
+        widget: select
+        multiple: true
+        required: false
+        options: ["Ren'Py", "Unity", "Godot", "RPG Maker", "HTML5", "原生", "其他"]
+      - label: "特征"
+        name: features
+        widget: select
+        multiple: true
+        required: false
+        options: ["bara", "yiff", "肌肉", "多结局", "免费", "付费", "WIP（进行中）", "完结", "中文支持", "官方中文", "民间汉化", "单人", "多人"]
+      - label: "外链"
+        name: links
+        widget: list
+        fields:
+          - { label: "名称", name: name, widget: string }
+          - { label: "URL", name: url, widget: string }
+      - label: "状态"
+        name: status
+        widget: select
+        options: ["完结", "进行中", "停更"]
+        default: "进行中"
+      - { label: "发布日期", name: release_date, widget: string, required: false }
+      - { label: "最后更新", name: updated_at, widget: string, required: false }
+      - label: "来源"
+        name: source
+        widget: select
+        options: ["manual", "itch", "steam", "github-pr"]
+        default: "itch"
+        required: false
+      - { label: "NSFW", name: nsfw, widget: boolean, default: false, required: false }
+      - { label: "内部备注", name: notes, widget: text, required: false }

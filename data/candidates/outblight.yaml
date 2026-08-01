@@ -1,0 +1,24 @@
+id: outblight
+title: Outblight
+title_en: Outblight
+cover: https://img.itch.zone/aW1nLzI4ODg3Njg3LnBuZw==/original/pZXOfG.png
+description: Turn-based clash roguelite
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://megurte.itch.io/outblight
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

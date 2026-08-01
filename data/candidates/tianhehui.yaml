@@ -1,0 +1,27 @@
+id: tianhehui
+title: TianHeHui
+title_en: TianHeHui
+cover: https://img.itch.zone/aW1nLzc3ODYxMzMuanBn/original/%2FPfd8n.jpg
+description: A group of people destined come together
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://delaxquill.itch.io/tianhehui
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/

@@ -1,0 +1,25 @@
+id: scav-prototype
+title: 'Casualties: Unknown'
+title_en: 'Casualties: Unknown'
+cover: https://img.itch.zone/aW1nLzI0NDU0NjY4LnBuZw==/original/mnn%2FOr.png
+description: Scavenging survival game demo
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://orsonik.itch.io/scav-prototype
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

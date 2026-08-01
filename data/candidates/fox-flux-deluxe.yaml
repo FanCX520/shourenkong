@@ -1,0 +1,27 @@
+id: fox-flux-deluxe
+title: fox flux DELUXE
+title_en: fox flux DELUXE
+cover: https://img.itch.zone/aW1nLzEzMjcwMjk3LnBuZw==/original/imbqvi.png
+description: try to puzzle-platform despite being turned into things all the time
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://eevee.itch.io/fox-flux-deluxe
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/

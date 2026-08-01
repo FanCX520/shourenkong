@@ -6,8 +6,8 @@
 
 1. 打开 https://github.com/settings/developers → **OAuth Apps** → **New OAuth App**
 2. Application name：`兽人控 CMS`（随意）
-3. Homepage URL：`https://hf.tn`（或你的 pages.dev）
-4. Authorization callback URL：`https://hf.tn`（与站点根域名一致，不要加 /admin）
+3. Homepage URL：`https://xn--gmq10evxz.com`（或你的 pages.dev）
+4. Authorization callback URL：`https://xn--gmq10evxz.com`（与站点根域名一致，不要加 /admin）
 5. 注册后 **Generate a new client secret**，记下 Client ID 和 Client Secret
 
 ## 2. Cloudflare 环境变量
@@ -25,11 +25,11 @@ Pages 项目 → Settings → Environment variables（Production + Preview）：
 
 - `functions/api/auth.js` + `callback.js`：OAuth 代理
 - `web/public/admin/`：CMS 前端与 `config.yml`
-- `config.yml` 中 `base_url` 需与你的域名一致（当前 `https://hf.tn`）
+- `config.yml` 中 `base_url` 需与你的域名一致（当前 `https://xn--gmq10evxz.com`）
 
 ## 4. 使用
 
-1. 打开 `https://hf.tn/admin/`
+1. 打开 `https://xn--gmq10evxz.com/admin/`
 2. 点 Login with GitHub
 3. 授权后即可增删改 `data/games/*.yaml`
 4. 保存会 commit 到 GitHub main，触发 Pages 重建

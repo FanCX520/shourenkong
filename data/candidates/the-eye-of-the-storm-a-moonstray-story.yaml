@@ -1,0 +1,28 @@
+id: the-eye-of-the-storm-a-moonstray-story
+title: 'The Eye of the Storm: A Moonstray Story'
+title_en: 'The Eye of the Storm: A Moonstray Story'
+cover: https://img.itch.zone/aW1nLzI4NDM4MTE0LnBuZw==/original/wYpaAA.png
+description: A heartfelt visual novel about a lost stranger and the island locals
+  finding solace in the eye of the storm.
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://marrowdonvn.itch.io/the-eye-of-the-storm-a-moonstray-story
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/

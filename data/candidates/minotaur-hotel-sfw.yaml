@@ -1,0 +1,27 @@
+id: minotaur-hotel-sfw
+title: 'Minotaur Hotel: SFW Mode'
+title_en: 'Minotaur Hotel: SFW Mode'
+cover: https://img.itch.zone/aW1nLzEzODQwNzk3LmdpZg==/original/x6FwLk.gif
+description: His side of the story.
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://minoh.itch.io/minotaur-hotel-sfw
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/

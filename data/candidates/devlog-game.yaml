@@ -1,0 +1,24 @@
+id: devlog-game
+title: DevLog - A Post-Modern College Experience
+title_en: DevLog - A Post-Modern College Experience
+cover: https://img.itch.zone/aW1nLzIwNDEwOTM1LnBuZw==/original/v0eM5m.png
+description: Now in Alpha 0.6!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://devlog-game.itch.io/devlog-game
+status: 进行中
+release_date: null
+updated_at: '2026-08-01'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

@@ -1,12 +1,17 @@
-name: Deploy
+name: Build & Validate
+
+# 说明：Cloudflare Pages 通过 Git 集成自动构建部署（Root=web, Build=npm run build, Output=out）。
+# 本工作流的作用是在每次 push / PR 时完整跑一遍「数据校验 + 前端构建」，
+# 防止坏数据或坏代码进入 main 后把线上构建打挂。
 
 on:
   push:
     branches: [main]
+  pull_request:
   workflow_dispatch:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -16,20 +21,30 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
+      - name: Install PyYAML
         run: pip install pyyaml
 
-      - name: Validate before deploy
+      - name: Validate game YAML files
         run: python scripts/validate-games.py
 
-      # 后续接入真正的前端构建时在这里加：
-      # - name: Setup Node
-      #   uses: actions/setup-node@v4
-      #   with:
-      #     node-version: "20"
-      # - run: npm ci && npm run build
-      # - name: Deploy to Vercel / Cloudflare
-      #   ...
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
 
-      - name: Placeholder
-        run: echo "Validation passed. Add frontend build & deploy steps here when ready."
+      - name: Install web dependencies
+        working-directory: web
+        run: npm ci --no-audit --no-fund || npm install --no-audit --no-fund
+
+      - name: Build static site (sync YAML -> JSON + next build)
+        working-directory: web
+        run: npm run build
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-out
+          path: web/out
+          retention-days: 7
