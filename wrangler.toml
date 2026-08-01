@@ -1,10 +1,7 @@
 name = "shourenkong"
 compatibility_date = "2026-07-01"
 
-# Cloudflare Pages git-integration build config
-# Dashboard 上的构建项会被此文件锁定，修改直接改这里即可
+# Cloudflare Pages git-integration 构建配置：
+# - pages_build_output_dir 是 Pages 唯一支持的构建相关键（在 wrangler.toml 中）
+# - 根目录、构建命令请在 Cloudflare Dashboard 的「构建配置」里填写（wrangler.toml 不支持 [build] 段）
 pages_build_output_dir = "web/out"
-
-[build]
-command = "npm run build"
-cwd = "web"
