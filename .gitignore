@@ -32,3 +32,6 @@ agent/
 # WorkBuddy 本地代理状态(勿提交)
 .workbuddy/
 skills-lock.json
+
+# SkillHub 本地锁(勿入库)
+skills/.skills_store_lock.json
