@@ -1,21 +1,26 @@
 @import "tailwindcss";
 
+/* ===== 深色（默认）—— kemono.games 深蓝黑底 + GoldCanines 金琥珀 accent ===== */
 :root,
-:root[data-theme="light"] {
-  --bg-app: #f4f5f7;
-  --bg-sidebar: #eef0f3;
-  --bg-surface: #ffffff;
-  --bg-muted: #f7f8fa;
-  --bg-hover: rgba(0, 0, 0, 0.04);
-  --bg-selected: color-mix(in srgb, var(--primary) 12%, white);
-  --text-primary: #1c1c1e;
-  --text-secondary: #636366;
-  --text-tertiary: #8e8e93;
-  --primary: #007aff;
-  --primary-fg: #ffffff;
-  --border: rgba(0, 0, 0, 0.08);
-  --border-strong: rgba(0, 0, 0, 0.12);
-  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.06);
+:root[data-theme="dark"] {
+  --bg-app: #0f1017;
+  --bg-sidebar: #0c1425;
+  --bg-surface: #1a202c;
+  --bg-muted: #101828;
+  --bg-hover: rgba(255, 255, 255, 0.06);
+  --bg-selected: rgba(232, 169, 77, 0.14);
+  --text-primary: #edf2f7;
+  --text-secondary: #99a1af;
+  --text-tertiary: #6b7380;
+  --primary: #e8a94d;
+  --primary-strong: #f0b45a;
+  --primary-fg: #1a1208;
+  --accent-cool: #61d0f1;
+  --border: rgba(255, 255, 255, 0.09);
+  --border-strong: rgba(255, 255, 255, 0.16);
+  --shadow-card: 0 0 0 1px rgba(255, 255, 255, 0.04), 0 1px 2px rgba(0, 0, 0, 0.35);
+  --shadow-card-hover: 0 0 0 1px rgba(232, 169, 77, 0.22), 0 8px 22px rgba(0, 0, 0, 0.5);
+  --shadow-pop: 0 0 0 1px rgba(255, 255, 255, 0.07), 0 12px 34px rgba(0, 0, 0, 0.55);
   --radius-sm: 8px;
   --radius-md: 12px;
   --radius-lg: 16px;
@@ -23,39 +28,48 @@
   --header-height: 56px;
 }
 
-:root[data-theme="dark"] {
-  --bg-app: #1c1c1e;
-  --bg-sidebar: #161617;
-  --bg-surface: #2c2c2e;
-  --bg-muted: #3a3a3c;
-  --bg-hover: rgba(255, 255, 255, 0.06);
-  --bg-selected: color-mix(in srgb, var(--primary) 22%, #2c2c2e);
-  --text-primary: #f5f5f7;
-  --text-secondary: #a1a1a6;
-  --text-tertiary: #6c6c70;
-  --primary: #0a84ff;
+/* ===== 浅色（可选）—— 暖白底 + 深琥珀 accent 保证对比度 ===== */
+:root[data-theme="light"] {
+  --bg-app: #f7f5f2;
+  --bg-sidebar: #efece7;
+  --bg-surface: #ffffff;
+  --bg-muted: #faf8f5;
+  --bg-hover: rgba(0, 0, 0, 0.04);
+  --bg-selected: rgba(180, 122, 30, 0.1);
+  --text-primary: #221c15;
+  --text-secondary: #6b6257;
+  --text-tertiary: #97897a;
+  --primary: #b47a1e;
+  --primary-strong: #96631a;
   --primary-fg: #ffffff;
-  --border: rgba(255, 255, 255, 0.08);
-  --border-strong: rgba(255, 255, 255, 0.14);
-  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.45);
+  --accent-cool: #0288d1;
+  --border: rgba(0, 0, 0, 0.08);
+  --border-strong: rgba(0, 0, 0, 0.12);
+  --shadow-card: 0 0 0 1px rgba(0, 0, 0, 0.03), 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-card-hover: 0 0 0 1px rgba(180, 122, 30, 0.22), 0 4px 14px rgba(0, 0, 0, 0.09);
+  --shadow-pop: 0 0 0 1px rgba(0, 0, 0, 0.04), 0 10px 30px rgba(0, 0, 0, 0.12);
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root:not([data-theme]) {
-    --bg-app: #1c1c1e;
-    --bg-sidebar: #161617;
-    --bg-surface: #2c2c2e;
-    --bg-muted: #3a3a3c;
-    --bg-hover: rgba(255, 255, 255, 0.06);
-    --bg-selected: color-mix(in srgb, var(--primary) 22%, #2c2c2e);
-    --text-primary: #f5f5f7;
-    --text-secondary: #a1a1a6;
-    --text-tertiary: #6c6c70;
-    --primary: #0a84ff;
+    --bg-app: #f7f5f2;
+    --bg-sidebar: #efece7;
+    --bg-surface: #ffffff;
+    --bg-muted: #faf8f5;
+    --bg-hover: rgba(0, 0, 0, 0.04);
+    --bg-selected: rgba(180, 122, 30, 0.1);
+    --text-primary: #221c15;
+    --text-secondary: #6b6257;
+    --text-tertiary: #97897a;
+    --primary: #b47a1e;
+    --primary-strong: #96631a;
     --primary-fg: #ffffff;
-    --border: rgba(255, 255, 255, 0.08);
-    --border-strong: rgba(255, 255, 255, 0.14);
-    --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.45);
+    --accent-cool: #0288d1;
+    --border: rgba(0, 0, 0, 0.08);
+    --border-strong: rgba(0, 0, 0, 0.12);
+    --shadow-card: 0 0 0 1px rgba(0, 0, 0, 0.03), 0 1px 2px rgba(0, 0, 0, 0.05);
+    --shadow-card-hover: 0 0 0 1px rgba(180, 122, 30, 0.22), 0 4px 14px rgba(0, 0, 0, 0.09);
+    --shadow-pop: 0 0 0 1px rgba(0, 0, 0, 0.04), 0 10px 30px rgba(0, 0, 0, 0.12);
   }
 }
 
@@ -99,6 +113,46 @@ button { font: inherit; }
   box-shadow: var(--shadow-card);
 }
 
+/* 卡片 hover 提升：位移 + 阴影加深（GPU 友好，仅 transform/box-shadow） */
+.card-lift {
+  transition: transform 200ms cubic-bezier(0.16, 1, 0.3, 1),
+    box-shadow 200ms cubic-bezier(0.16, 1, 0.3, 1),
+    border-color 200ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+.card-lift:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-card-hover);
+}
+
+/* 进场动画：淡入上移；stagger 用 --index 级联延迟（上限保护） */
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.anim-fade-up {
+  animation: fade-up 420ms cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: calc(min(var(--index, 0), 12) * 45ms);
+}
+.anim-fade-in {
+  animation: fade-in 320ms ease-out both;
+  animation-delay: calc(min(var(--index, 0), 12) * 30ms);
+}
+
+/* 骨架屏 shimmer（仅 opacity 变化，GPU 友好） */
+@keyframes shimmer {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.45; }
+}
+.skeleton {
+  background: var(--bg-muted);
+  border-radius: var(--radius-sm);
+  animation: shimmer 1.6s ease-in-out infinite;
+}
+
 .btn {
   display: inline-flex;
   align-items: center;
@@ -119,7 +173,7 @@ button { font: inherit; }
 }
 
 .btn-primary { background: var(--primary); color: var(--primary-fg); }
-.btn-primary:hover:not(:disabled) { filter: brightness(1.05); }
+.btn-primary:hover:not(:disabled) { background: var(--primary-strong); }
 .btn-secondary {
   background: var(--bg-hover);
   color: var(--text-primary);
@@ -160,7 +214,7 @@ button { font: inherit; }
 .chip-active {
   border-color: color-mix(in srgb, var(--primary) 45%, var(--border));
   background: var(--bg-selected);
-  color: var(--primary);
+  color: var(--primary-strong);
 }
 
 .line-clamp-1 {
@@ -181,8 +235,9 @@ button { font: inherit; }
   overflow: hidden;
 }
 
+/* hero 光晕：金琥珀 + 青 双色渐变点缀 */
 .hero-pattern {
   background-image:
-    radial-gradient(ellipse 80% 60% at 10% 0%, color-mix(in srgb, var(--primary) 12%, transparent), transparent 55%),
-    radial-gradient(ellipse 50% 40% at 90% 20%, color-mix(in srgb, var(--primary) 8%, transparent), transparent 50%);
+    radial-gradient(ellipse 80% 60% at 10% 0%, color-mix(in srgb, var(--primary) 16%, transparent), transparent 55%),
+    radial-gradient(ellipse 50% 40% at 90% 20%, color-mix(in srgb, var(--accent-cool) 10%, transparent), transparent 50%);
 }

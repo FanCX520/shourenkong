@@ -4,7 +4,7 @@ import { getAllGames, getGameById, getRelatedGames } from "@/lib/games";
 import { RatingBadge } from "@/components/game/RatingBadge";
 import { TagBadge } from "@/components/game/TagBadge";
 import { GameGrid } from "@/components/game/GameCard";
-import { ExternalIcon } from "@/components/ui/Icons";
+import { ExternalIcon, GamepadIcon } from "@/components/ui/Icons";
 
 export function generateStaticParams() {
   return getAllGames().map((g) => ({ id: g.id }));
@@ -52,15 +52,16 @@ export default async function GamePage({
         <span className="text-[var(--text-secondary)]">{game.title}</span>
       </nav>
 
-      <article className="card overflow-hidden">
+      <article className="card anim-fade-up overflow-hidden">
         <div className="grid gap-0 md:grid-cols-[1.1fr_1fr]">
           <div className="aspect-[16/10] bg-[var(--bg-muted)] md:aspect-auto md:min-h-[280px]">
             {game.cover ? (
               // eslint-disable-next-line @next/next/no-img-element
               <img src={game.cover} alt={game.title} className="h-full w-full object-cover" />
             ) : (
-              <div className="flex h-full min-h-[200px] items-center justify-center text-[var(--text-tertiary)]">
-                暂无封面
+              <div className="flex h-full min-h-[200px] flex-col items-center justify-center gap-2 text-[var(--text-tertiary)]">
+                <GamepadIcon size={32} />
+                <span className="text-[12px]">暂无封面</span>
               </div>
             )}
           </div>

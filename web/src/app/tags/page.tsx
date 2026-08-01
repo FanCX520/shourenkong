@@ -1,4 +1,5 @@
 import Link from "next/link";
+import type { CSSProperties } from "react";
 import { getAllGames, countTags } from "@/lib/games";
 import { TAG_GROUPS, TAG_GROUP_LABELS } from "@/lib/tags";
 
@@ -17,8 +18,12 @@ export default function TagsPage() {
       <p className="mt-1 text-[13px] text-[var(--text-secondary)]">点击标签进入探索页筛选</p>
 
       <div className="mt-6 space-y-5">
-        {groups.map((key) => (
-          <section key={key} className="card p-4 sm:p-5">
+        {groups.map((key, gi) => (
+          <section
+            key={key}
+            className="card anim-fade-up p-4 sm:p-5"
+            style={{ "--index": gi } as CSSProperties}
+          >
             <h2 className="mb-3 text-[14px] font-semibold text-[var(--text-primary)]">
               {TAG_GROUP_LABELS[key]}
             </h2>
@@ -41,7 +46,7 @@ export default function TagsPage() {
                   <Link
                     key={tag}
                     href={`/explore/?${param}`}
-                    className="badge border border-[var(--border)] bg-[var(--bg-muted)] text-[var(--text-secondary)] hover:bg-[var(--bg-selected)] hover:text-[var(--primary)]"
+                    className="badge border border-[var(--border)] bg-[var(--bg-muted)] text-[var(--text-secondary)] transition-colors hover:bg-[var(--bg-selected)] hover:text-[var(--primary)]"
                   >
                     {tag}
                     {n > 0 ? ` · ${n}` : ""}

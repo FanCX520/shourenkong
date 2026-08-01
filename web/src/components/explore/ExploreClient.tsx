@@ -74,7 +74,7 @@ export function ExploreClient({ games }: { games: Game[] }) {
 
   return (
     <div className="mx-auto flex max-w-[1200px] flex-col gap-5 px-4 py-6 lg:flex-row">
-      <div className={`lg:block ${showFilters ? "block" : "hidden"}`}>
+      <div className={`lg:block ${showFilters ? "anim-fade-up block" : "hidden"}`}>
         <FilterSidebar value={filter} onChange={syncUrl} resultCount={results.length} />
       </div>
 
@@ -117,7 +117,7 @@ export function ExploreClient({ games }: { games: Game[] }) {
         </div>
 
         {chips.length > 0 && (
-          <div className="mb-4 flex flex-wrap items-center gap-1.5">
+          <div className="anim-fade-in mb-4 flex flex-wrap items-center gap-1.5">
             {chips.map((c) => (
               <button
                 key={c.key}

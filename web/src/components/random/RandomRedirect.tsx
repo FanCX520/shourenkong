@@ -30,8 +30,9 @@ export function RandomRedirect({ ids }: { ids: string[] }) {
   }
 
   return (
-    <div className="mx-auto max-w-[480px] px-4 py-16 text-center text-[13px] text-[var(--text-secondary)]">
-      正在随机跳转…
+    <div className="mx-auto flex max-w-[480px] flex-col items-center gap-3 px-4 py-16 text-center text-[13px] text-[var(--text-secondary)]">
+      <span className="skeleton h-8 w-8 rounded-full" aria-hidden />
+      <span role="status">正在随机跳转…</span>
     </div>
   );
 }

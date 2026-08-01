@@ -92,6 +92,7 @@ export function FilterSidebar({ value, onChange, resultCount }: Props) {
                 <button
                   key={tag}
                   type="button"
+                  aria-pressed={selected}
                   onClick={() => toggle(key, tag)}
                   className={`badge border transition-colors ${
                     selected

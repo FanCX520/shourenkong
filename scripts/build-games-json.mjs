@@ -11,8 +11,11 @@ import yaml from "js-yaml";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const GAMES_DIR = path.join(ROOT, "data", "games");
+const CANDIDATES_DIR = path.join(ROOT, "data", "candidates");
 const OUT_PUBLIC = path.join(ROOT, "web", "public", "data", "games.json");
 const OUT_SRC = path.join(ROOT, "web", "src", "data", "games.json");
+const OUT_STATS_PUBLIC = path.join(ROOT, "web", "public", "data", "stats.json");
+const OUT_STATS_SRC = path.join(ROOT, "web", "src", "data", "stats.json");
 
 function loadGames() {
   if (!fs.existsSync(GAMES_DIR)) {
@@ -68,4 +71,21 @@ function safeWrite(target, content) {
 
 safeWrite(OUT_PUBLIC, payload);
 safeWrite(OUT_SRC, payload);
-console.log(`synced ${games.length} games → web/src/data/games.json + public`);
+
+// 站点统计（数据看板用）：正式数 + 候选数 + 生成时间
+function countCandidates() {
+  if (!fs.existsSync(CANDIDATES_DIR)) return 0;
+  return fs
+    .readdirSync(CANDIDATES_DIR)
+    .filter((f) => /\.ya?ml$/i.test(f) && !f.startsWith("_")).length;
+}
+const stats = {
+  games: games.length,
+  candidates: countCandidates(),
+  nsfw: games.filter((g) => g.nsfw === true).length,
+  generatedAt: new Date().toISOString(),
+};
+safeWrite(OUT_STATS_PUBLIC, JSON.stringify(stats, null, 2) + "\n");
+safeWrite(OUT_STATS_SRC, JSON.stringify(stats, null, 2) + "\n");
+
+console.log(`synced ${games.length} games → web/src/data/games.json + public; stats: ${stats.candidates} candidates`);

@@ -9,10 +9,10 @@ export function SiteFooter() {
           <p className="mt-1">中文圈兽人 / furry / kemono 游戏索引</p>
         </div>
         <div className="flex flex-wrap gap-4">
-          <Link href="/explore/" className="hover:text-[var(--text-primary)]">探索</Link>
-          <Link href="/tags/" className="hover:text-[var(--text-primary)]">标签</Link>
-          <Link href="/about/" className="hover:text-[var(--text-primary)]">关于与贡献</Link>
-          <a href="https://github.com/FanCX520/shourenkong" target="_blank" rel="noreferrer" className="hover:text-[var(--text-primary)]">GitHub</a>
+          <Link href="/explore/" className="transition-colors hover:text-[var(--text-primary)]">探索</Link>
+          <Link href="/tags/" className="transition-colors hover:text-[var(--text-primary)]">标签</Link>
+          <Link href="/about/" className="transition-colors hover:text-[var(--text-primary)]">关于与贡献</Link>
+          <a href="https://github.com/FanCX520/shourenkong" target="_blank" rel="noreferrer" className="transition-colors hover:text-[var(--text-primary)]">GitHub</a>
         </div>
       </div>
     </footer>

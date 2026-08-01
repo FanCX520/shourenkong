@@ -1,0 +1,63 @@
+name: Scrape itch.io Candidates
+
+# 批量扫描 itch.io 指定标签 → 生成 data/candidates/*.yaml → 自动提交。
+# 两种触发方式：
+#   1. 手动：GitHub → Actions → 本工作流 → Run workflow（可填 tag / 页数）
+#   2. 定时：每天 UTC 02:00（北京 10:00）自动扫 furry + kemono 各 1 页
+# 抓取后 Pages 会自动重新部署（Git 集成），候选在 /admin/ 后台审核。
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "itch.io 标签（如 furry / kemono / bara），多个用空格分隔"
+        required: false
+        default: "furry"
+      pages:
+        description: "每个标签抓取页数（1-5）"
+        required: false
+        default: "1"
+  schedule:
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Scrape itch.io (manual tags)
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          for t in ${{ github.event.inputs.tag }}; do
+            python scripts/scrape-itch.py --tag "$t" --pages ${{ github.event.inputs.pages }} --delay 1.2
+          done
+
+      - name: Scrape itch.io (scheduled defaults)
+        if: github.event_name == 'schedule'
+        run: |
+          python scripts/scrape-itch.py --tag furry --pages 1 --delay 1.2
+          python scripts/scrape-itch.py --tag kemono --pages 1 --delay 1.2
+
+      - name: Commit new candidates
+        run: |
+          git config user.name "shourenkong-bot"
+          git config user.email "bot@xn--gmq10evxz.com"
+          git add data/candidates/
+          if git diff --cached --quiet; then
+            echo "没有新候选，跳过提交"
+          else
+            git commit -m "chore: itch 自动抓取候选 ($(date +%Y-%m-%d), trigger=${{ github.event_name }})"
+            git push
+          fi

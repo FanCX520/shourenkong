@@ -1,0 +1,49 @@
+name: Promote Candidates
+
+# 批量把 data/candidates/ 候选条目转正到 data/games/ 并自动部署。
+# 用法：GitHub → Actions → 本工作流 → Run workflow
+#   ids 留空 = 全部转正；填 id 列表（空格分隔）= 只转正指定条目
+# 转正前会自动跑数据校验，校验不过则不提交。
+
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "要转正的候选 id（空格分隔；留空 = 全部）"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Promote candidates
+        run: python scripts/promote-candidates.py ${{ github.event.inputs.ids }}
+
+      - name: Validate official games
+        run: python scripts/validate-games.py
+
+      - name: Commit promoted games
+        run: |
+          git config user.name "shourenkong-bot"
+          git config user.email "bot@xn--gmq10evxz.com"
+          git add data/games/ data/candidates/
+          if git diff --cached --quiet; then
+            echo "没有变更，跳过提交"
+          else
+            git commit -m "feat: 候选转正入库 (${{ github.event.inputs.ids || '全部' }})"
+            git push
+          fi

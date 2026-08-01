@@ -7,9 +7,9 @@ export const metadata = {
 
 export default function AboutPage() {
   return (
-    <div className="mx-auto max-w-[720px] px-4 py-8">
+    <div className="anim-fade-up mx-auto max-w-[720px] px-4 py-8">
       <h1 className="text-[22px] font-semibold tracking-tight">关于兽人控.com</h1>
-      <div className="prose mt-4 space-y-4 text-[14px] leading-relaxed text-[var(--text-secondary)]">
+      <div className="mt-4 space-y-4 text-[14px] leading-relaxed text-[var(--text-secondary)]">
         <p>
           本站是中文圈兽人 / furry / kemono 游戏资源索引，目标是让大家更快发现合适的作品。
           内容以 GitHub 仓库中的 YAML 为唯一数据源，支持网页后台（Decap CMS）与 PR 贡献。
@@ -17,8 +17,15 @@ export default function AboutPage() {
         <h2 className="text-[16px] font-semibold text-[var(--text-primary)]">如何贡献</h2>
         <ol className="list-decimal space-y-2 pl-5">
           <li>
-            打开仓库{" "}
-            <a className="text-[var(--primary)]" href="https://github.com/FanCX520/shourenkong" target="_blank" rel="noreferrer">
+            最快的方式：{" "}
+            <a className="text-[var(--primary-strong)]" href="https://github.com/FanCX520/shourenkong/issues/new/choose" target="_blank" rel="noreferrer">
+              投稿表单
+            </a>
+            ，填个名字和链接就行，编辑会处理入库
+          </li>
+          <li>
+            也可以直接改仓库{" "}
+            <a className="text-[var(--primary-strong)]" href="https://github.com/FanCX520/shourenkong" target="_blank" rel="noreferrer">
               FanCX520/shourenkong
             </a>
           </li>

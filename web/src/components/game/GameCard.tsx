@@ -1,15 +1,24 @@
 import Link from "next/link";
+import type { CSSProperties } from "react";
 import type { Game } from "@/lib/types";
 import { RatingBadge } from "./RatingBadge";
 import { TagBadge } from "./TagBadge";
+import { GamepadIcon } from "@/components/ui/Icons";
 
-export function GameCard({ game }: { game: Game }) {
+export function GameCard({
+  game,
+  index = 0,
+}: {
+  game: Game;
+  index?: number;
+}) {
   const tags = [...(game.species || []).slice(0, 2), ...(game.genres || []).slice(0, 1)];
 
   return (
     <Link
       href={`/game/${game.id}/`}
-      className="card group flex flex-col overflow-hidden transition-[border-color,transform] duration-150 hover:border-[color-mix(in_srgb,var(--primary)_35%,var(--border))]"
+      className="card card-lift anim-fade-up group flex flex-col overflow-hidden"
+      style={{ "--index": index } as CSSProperties}
     >
       <div className="relative aspect-[16/10] overflow-hidden bg-[var(--bg-muted)]">
         {game.cover ? (
@@ -17,12 +26,13 @@ export function GameCard({ game }: { game: Game }) {
           <img
             src={game.cover}
             alt={game.title}
-            className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
+            className="h-full w-full object-cover transition-transform duration-300 ease-out group-hover:scale-[1.04]"
             loading="lazy"
           />
         ) : (
-          <div className="flex h-full items-center justify-center text-[var(--text-tertiary)] text-sm">
-            暂无封面
+          <div className="flex h-full flex-col items-center justify-center gap-2 text-[var(--text-tertiary)]">
+            <GamepadIcon size={28} />
+            <span className="text-[12px]">暂无封面</span>
           </div>
         )}
         <div className="absolute left-2 top-2">
@@ -56,7 +66,8 @@ export function GameCard({ game }: { game: Game }) {
 export function GameGrid({ games }: { games: Game[] }) {
   if (!games.length) {
     return (
-      <div className="card flex flex-col items-center justify-center gap-2 px-6 py-16 text-center">
+      <div className="card anim-fade-in flex flex-col items-center justify-center gap-2 px-6 py-16 text-center">
+        <GamepadIcon size={30} />
         <p className="text-[15px] font-medium text-[var(--text-primary)]">没有匹配的游戏</p>
         <p className="text-[13px] text-[var(--text-secondary)]">试试清除筛选或换个关键词</p>
       </div>
@@ -65,8 +76,8 @@ export function GameGrid({ games }: { games: Game[] }) {
 
   return (
     <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 xl:grid-cols-3">
-      {games.map((g) => (
-        <GameCard key={g.id} game={g} />
+      {games.map((g, i) => (
+        <GameCard key={g.id} game={g} index={i} />
       ))}
     </div>
   );

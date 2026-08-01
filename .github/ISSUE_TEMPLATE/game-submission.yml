@@ -1,0 +1,83 @@
+name: 🎮 投稿新游戏
+description: 推荐一部兽人 / Furry / Kemono 游戏收录进站
+title: "[投稿] "
+labels: ["submission", "candidate"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 游戏名称
+      description: 中文名优先，可附原文名
+      placeholder: 例：Changed / 化身为兽
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: 官方链接
+      description: itch.io / Steam / 官网页面地址
+      placeholder: https://xxx.itch.io/yyy
+    validations:
+      required: true
+
+  - type: dropdown
+    id: rating
+    attributes:
+      label: 内容分级
+      options:
+        - 全年龄
+        - 软色情
+        - R18
+        - R18G
+        - 不确定
+    validations:
+      required: true
+
+  - type: input
+    id: species
+    attributes:
+      label: 主要物种
+      description: 参考站内标签，如 狼 / 狐 / 龙 / 猫（多个用逗号分隔）
+      placeholder: 狼, 龙
+    validations:
+      required: false
+
+  - type: dropdown
+    id: genres
+    attributes:
+      label: 游戏类型
+      options:
+        - 视觉小说
+        - RPG
+        - 模拟经营
+        - 养成
+        - 动作
+        - 平台
+        - 射击
+        - 解谜
+        - 约会模拟
+        - 沙盒
+        - 开放世界
+        - 其他
+    validations:
+      required: false
+
+  - type: textarea
+    id: intro
+    attributes:
+      label: 一句话简介
+      description: 20-100 字，说说这游戏讲什么、有什么亮点
+      placeholder: 一款以狼兽人为主角的视觉小说，多结局，支持中文……
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 我确认该游戏包含兽人 / furry / kemono 元素
+          required: true
+        - label: 我提供的是官方或作者公开页面，非盗版链接
+          required: true

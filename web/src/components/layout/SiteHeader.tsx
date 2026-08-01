@@ -11,6 +11,7 @@ const NAV = [
   { href: "/", label: "首页" },
   { href: "/explore/", label: "探索" },
   { href: "/tags/", label: "标签" },
+  { href: "/stats/", label: "数据" },
   { href: "/about/", label: "关于" },
 ];
 
@@ -116,7 +117,7 @@ export function SiteHeader() {
       </div>
 
       {menuOpen && (
-        <div className="absolute inset-x-0 top-full border-b border-[var(--border)] bg-[var(--bg-surface)] px-4 py-3 shadow-lg md:hidden">
+        <div className="anim-fade-up absolute inset-x-0 top-full border-b border-[var(--border)] bg-[var(--bg-surface)] px-4 py-3 shadow-[var(--shadow-pop)] md:hidden">
           <nav className="flex flex-col gap-1">
             {NAV.map((item) => {
               const active =

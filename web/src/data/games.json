@@ -96,6 +96,36 @@
     "nsfw": false
   },
   {
+    "id": "atlyss",
+    "title": "ATLYSS",
+    "title_en": "ATLYSS",
+    "cover": "https://img.itch.zone/aW1nLzEzMzQ0NjU3LnBuZw==/original/BFbQ0n.png",
+    "description": "``ATLYSS`` SOLO DEVELOPMENT ACTION ORPG PROJECT A work in progress / under development game made by Kiseff Core Game Info \"ATLYSS\" is a (Single-player  + Multi-player) A ction O nline R ole P laying G ame Enriched, instanced maps to discover Equipment, Trade Items and Consumables to collect Many Character Customization options with 5 races to choose from 3 Primary Classes to become at lv-10 ( Fighter , Bandit , Mystic ) Skill load-out system for making builds to suit your game-play style Character stat progression / leveling systems / attributes 7 Weapon types to use in combat (Katars, Heavy Melee, Scepters, and more) Repeatable Questing / Single Quests to complete Aesthetics inspired by 6th Generation video games Media / Promotion If you'd like to support my game-dev work and other assorted projects, you can do so via my Patreon! For more instant information / updates / development progress, you can: Follow @kis_soft on Twitter Join the KisSoft Underground Server to receive progression updates and notes, including announcements first hand! Community links are provided in the Discord's promotional links channel.",
+    "species": [
+      "其他"
+    ],
+    "rating": "全年龄",
+    "genres": [
+      "其他"
+    ],
+    "platforms": [
+      "itch.io"
+    ],
+    "engines": [],
+    "features": [],
+    "links": [
+      {
+        "name": "itch.io",
+        "url": "https://kiseff.itch.io/atlyss"
+      }
+    ],
+    "status": "进行中",
+    "release_date": null,
+    "updated_at": "2026-08-01",
+    "source": "itch",
+    "nsfw": false
+  },
+  {
     "id": "emberbound",
     "title": "未烬之约",
     "title_en": "EMBERBOUND",
