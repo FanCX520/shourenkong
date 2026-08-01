@@ -32,9 +32,14 @@ Dashboard → Workers & Pages → Create → Pages → **Connect to Git**：
 | Build output directory | `out` |
 | Environment variable `NODE_VERSION` | `22` |
 
-> **注意**：如果仓库里有 `wrangler.toml` 且设置了 `pages_build_output_dir`，Dashboard 的「构建输出目录」输入框会被锁定不可编辑。修复方法：把 `command` / `cwd` / `pages_build_output_dir` 全部写进 `wrangler.toml` 的 `[build]` 段，提交后 Dashboard 自动同步。
+> **注意**：仓库里的 `wrangler.toml` 写了 `pages_build_output_dir = "web/out"`，Cloudflare 会锁定 Dashboard 的「构建输出目录」输入框（提示"在 wrangler.toml 中修改版本输出目录"）——**这是正常的**，输出目录本来就该是 `web/out`。
 >
-> `NODE_VERSION` 环境变量**必须**在 Dashboard「变量和密钥」里加（wrangler.toml 写不了）。
+> **不要在 wrangler.toml 里写 `[build]` 段**（command/cwd）——那是 Workers 配置，Pages 会直接报 `Configuration file for Pages projects does not support "build"`。
+> 根目录和构建命令改在 **Dashboard → 构建配置 → 编辑** 里填：
+> - Root directory：`web`
+> - Build command：`npm run build`
+>
+> `NODE_VERSION=22` 环境变量也必须在 Dashboard「变量和密钥」里加（wrangler.toml 不支持）。
 
 保存并部署。首次构建成功后得到 `https://<项目名>.pages.dev`。
 
