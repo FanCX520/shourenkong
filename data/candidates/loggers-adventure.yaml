@@ -1,0 +1,25 @@
+id: loggers-adventure
+title: Logger&#039;s Adventure
+title_en: Logger&#039;s Adventure
+cover: https://img.itch.zone/aW1nLzIxMjg5MjY0LnBuZw==/original/4tTQDD.png
+description: Getting over the steampunk-themed mechanics and go ahead!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://yy-games.itch.io/loggers-adventure
+status: 进行中
+release_date: null
+updated_at: '2026-08-02'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

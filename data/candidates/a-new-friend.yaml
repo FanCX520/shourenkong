@@ -1,0 +1,24 @@
+id: a-new-friend
+title: A New Friend
+title_en: A New Friend
+cover: https://img.itch.zone/aW1nLzQxOTY0ODAucG5n/original/Jv4mUJ.png
+description: A short Game Boy visual novel!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://ifu89.itch.io/a-new-friend
+status: 进行中
+release_date: null
+updated_at: '2026-08-02'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

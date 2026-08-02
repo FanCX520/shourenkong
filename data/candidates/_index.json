@@ -1,5 +1,20 @@
 [
   {
+    "id": "a-new-friend",
+    "title": "A New Friend",
+    "file": "a-new-friend.yaml"
+  },
+  {
+    "id": "abyssmas-monster-cleaning-spree",
+    "title": "Abyssma&#039;s Monster Cleaning-Spree! (Prototype)",
+    "file": "abyssmas-monster-cleaning-spree.yaml"
+  },
+  {
+    "id": "agj2-test1",
+    "title": "Mirahj&#039;s R&amp;D Assistance, Part 1 (Prototype)",
+    "file": "agj2-test1.yaml"
+  },
+  {
     "id": "aim-to-capture",
     "title": "Aim to Capture",
     "file": "aim-to-capture.yaml"
@@ -8,11 +23,6 @@
     "id": "alteredblood",
     "title": "ALTEREDBLOOD+ [DEMO]",
     "file": "alteredblood.yaml"
-  },
-  {
-    "id": "atlyss",
-    "title": "ATLYSS",
-    "file": "atlyss.yaml"
   },
   {
     "id": "cairn",
@@ -70,9 +80,39 @@
     "file": "furdoom.yaml"
   },
   {
+    "id": "furryend",
+    "title": "Furryend",
+    "file": "furryend.yaml"
+  },
+  {
     "id": "gunsaw-demo",
     "title": "Gunsaw Demo",
     "file": "gunsaw-demo.yaml"
+  },
+  {
+    "id": "hydrangea",
+    "title": "漏夏、无尽夏 (Hydrangea)",
+    "file": "hydrangea.yaml"
+  },
+  {
+    "id": "jigsaw-puzzles",
+    "title": "Jigsaw Puzzles 拼图谜题",
+    "file": "jigsaw-puzzles.yaml"
+  },
+  {
+    "id": "kemobomb-remix",
+    "title": "Kemobomb Remix",
+    "file": "kemobomb-remix.yaml"
+  },
+  {
+    "id": "kemonoq-demo",
+    "title": "KemonoQ Demo",
+    "file": "kemonoq-demo.yaml"
+  },
+  {
+    "id": "loggers-adventure",
+    "title": "Logger&#039;s Adventure",
+    "file": "loggers-adventure.yaml"
   },
   {
     "id": "lookouts",
@@ -93,6 +133,11 @@
     "id": "outblight",
     "title": "Outblight",
     "file": "outblight.yaml"
+  },
+  {
+    "id": "preay-animal",
+    "title": "pr[e/a]y animal - jam version",
+    "file": "preay-animal.yaml"
   },
   {
     "id": "promises-to-keep",
@@ -125,9 +170,24 @@
     "file": "runeterra-furry-romance.yaml"
   },
   {
+    "id": "rwens-day-out",
+    "title": "Rwen&#039;s Day Out",
+    "file": "rwens-day-out.yaml"
+  },
+  {
     "id": "scav-prototype",
     "title": "Casualties: Unknown",
     "file": "scav-prototype.yaml"
+  },
+  {
+    "id": "sea-breeze-farewell",
+    "title": "海风友别 Sea Breeze Farewell",
+    "file": "sea-breeze-farewell.yaml"
+  },
+  {
+    "id": "sea-of-memories",
+    "title": "思念之海~Sea Of Memories~",
+    "file": "sea-of-memories.yaml"
   },
   {
     "id": "second-base",
@@ -138,6 +198,11 @@
     "id": "shared-house",
     "title": "Shared House/与那家伙合租房/あいつとシェアハウス",
     "file": "shared-house.yaml"
+  },
+  {
+    "id": "stararcecho",
+    "title": "StarArc Echo",
+    "file": "stararcecho.yaml"
   },
   {
     "id": "stranded",
@@ -163,6 +228,11 @@
     "id": "tianhehui",
     "title": "TianHeHui",
     "file": "tianhehui.yaml"
+  },
+  {
+    "id": "tko",
+    "title": "Kemoverse Online",
+    "file": "tko.yaml"
   },
   {
     "id": "transfur-chase",

@@ -1,0 +1,23 @@
+id: kemonoq-demo
+title: KemonoQ Demo
+title_en: KemonoQ Demo
+cover: https://img.itch.zone/aW1hZ2UvMTg5NjQzLzg4NzE5Mi5wbmc=/original/QnLIOb.png
+description: The labyrinth is calling...
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://pixeldreamvg.itch.io/kemonoq-demo
+status: 进行中
+release_date: null
+updated_at: '2026-08-02'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

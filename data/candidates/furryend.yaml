@@ -1,0 +1,24 @@
+id: furryend
+title: Furryend
+title_en: Furryend
+cover: https://img.itch.zone/aW1nLzYwODczOTQucG5n/original/91kcIx.png
+description: --Go on an adventure with friends.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://enokimaru.itch.io/furryend
+status: 进行中
+release_date: null
+updated_at: '2026-08-02'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

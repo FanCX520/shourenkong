@@ -1,0 +1,26 @@
+id: jigsaw-puzzles
+title: Jigsaw Puzzles 拼图谜题
+title_en: Jigsaw Puzzles 拼图谜题
+cover: https://img.itch.zone/aW1nLzE4NzY1OTkxLnBuZw==/original/9XobxP.png
+description: Superpower-filled adventure. 充满超能力的奇遇之旅。
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://2045754227.itch.io/jigsaw-puzzles
+status: 进行中
+release_date: null
+updated_at: '2026-08-02'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

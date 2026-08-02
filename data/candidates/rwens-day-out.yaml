@@ -1,0 +1,26 @@
+id: rwens-day-out
+title: Rwen&#039;s Day Out
+title_en: Rwen&#039;s Day Out
+cover: https://img.itch.zone/aW1hZ2UvMzA2Mjk2LzE1MDM3NDQuanBn/original/qnpSNG.jpg
+description: A mundane visual novel about dragons hanging out.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://ladyofmae.itch.io/rwens-day-out
+status: 进行中
+release_date: null
+updated_at: '2026-08-02'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

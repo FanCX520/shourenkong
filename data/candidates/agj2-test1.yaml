@@ -1,0 +1,24 @@
+id: agj2-test1
+title: Mirahj&#039;s R&amp;D Assistance, Part 1 (Prototype)
+title_en: Mirahj&#039;s R&amp;D Assistance, Part 1 (Prototype)
+cover: https://img.itch.zone/aW1nLzIwNzUyMjY3LnBuZw==/original/gEXhEL.png
+description: ​Mirahj is taking part of a test given to her by a researcher.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://yyneko.itch.io/agj2-test1
+status: 进行中
+release_date: null
+updated_at: '2026-08-02'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

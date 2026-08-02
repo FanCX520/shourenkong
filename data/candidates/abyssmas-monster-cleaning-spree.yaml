@@ -1,0 +1,24 @@
+id: abyssmas-monster-cleaning-spree
+title: Abyssma&#039;s Monster Cleaning-Spree! (Prototype)
+title_en: Abyssma&#039;s Monster Cleaning-Spree! (Prototype)
+cover: https://img.itch.zone/aW1nLzIwMzc4NDYzLnBuZw==/original/vF74nx.png
+description: Use your magic to guide monsters to the right spot!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://yyneko.itch.io/abyssmas-monster-cleaning-spree
+status: 进行中
+release_date: null
+updated_at: '2026-08-02'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

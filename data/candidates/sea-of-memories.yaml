@@ -1,0 +1,25 @@
+id: sea-of-memories
+title: 思念之海~Sea Of Memories~
+title_en: 思念之海~Sea Of Memories~
+cover: https://img.itch.zone/aW1nLzI1NzE4MTE2LnBuZw==/original/NzZjVu.png
+description: 兽人异世界穿越RPG
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://ktigerworks.itch.io/sea-of-memories
+status: 进行中
+release_date: null
+updated_at: '2026-08-02'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/

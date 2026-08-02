@@ -1,0 +1,24 @@
+id: kemobomb-remix
+title: Kemobomb Remix
+title_en: Kemobomb Remix
+cover: https://img.itch.zone/aW1nLzYxNTIxMDYucG5n/original/7cWiKn.png
+description: Kemobomb returns with a new twist!!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://kemohaus.itch.io/kemobomb-remix
+status: 进行中
+release_date: null
+updated_at: '2026-08-02'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

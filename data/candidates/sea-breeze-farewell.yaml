@@ -1,0 +1,26 @@
+id: sea-breeze-farewell
+title: 海风友别 Sea Breeze Farewell
+title_en: 海风友别 Sea Breeze Farewell
+cover: https://img.itch.zone/aW1nLzI3NzY4MDE1LnBuZw==/original/Fd%2Bp6r.png
+description: 在一个群山和大海围起的小镇，体验一段不一样的海滨生活吧！
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://silon-rua.itch.io/sea-breeze-farewell
+status: 进行中
+release_date: null
+updated_at: '2026-08-02'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
