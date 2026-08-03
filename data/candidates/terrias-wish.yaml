@@ -1,0 +1,25 @@
+id: terrias-wish
+title: Terria&#039;s Wish - Demo
+title_en: Terria&#039;s Wish - Demo
+cover: https://img.itch.zone/aW1nLzI4OTk1ODYzLnBuZw==/original/DT4EKA.png
+description: Waking up with no name on a merchant vessel, the world begins pulling
+  you on an adventure of a lifetime!
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://bluedragondreaming.itch.io/terrias-wish
+status: 进行中
+release_date: null
+updated_at: '2026-08-03'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/
