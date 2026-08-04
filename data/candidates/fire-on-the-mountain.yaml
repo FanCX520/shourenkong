@@ -1,0 +1,27 @@
+id: fire-on-the-mountain
+title: Fire on the Mountain
+title_en: Fire on the Mountain
+cover: https://img.itch.zone/aW1nLzI4NjAzMjY5LnBuZw==/original/dQrxT8.png
+description: Take a hike.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://nikkonator5000.itch.io/fire-on-the-mountain
+status: 进行中
+release_date: null
+updated_at: '2026-08-04'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
