@@ -25,9 +25,19 @@
     "file": "alteredblood.yaml"
   },
   {
+    "id": "brok-christmas",
+    "title": "BROK: Natal Tail, A New Christmas",
+    "file": "brok-christmas.yaml"
+  },
+  {
     "id": "cairn",
     "title": "Cairn",
     "file": "cairn.yaml"
+  },
+  {
+    "id": "canidae",
+    "title": "CANIDAE",
+    "file": "canidae.yaml"
   },
   {
     "id": "catburglar",
@@ -63,6 +73,11 @@
     "id": "devlog-game",
     "title": "DevLog - A Post-Modern College Experience",
     "file": "devlog-game.yaml"
+  },
+  {
+    "id": "dont-bite-me",
+    "title": "Don&#039;t bite me",
+    "file": "dont-bite-me.yaml"
   },
   {
     "id": "early-shift",

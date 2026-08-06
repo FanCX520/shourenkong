@@ -1,0 +1,27 @@
+id: brok-christmas
+title: 'BROK: Natal Tail, A New Christmas'
+title_en: 'BROK: Natal Tail, A New Christmas'
+cover: https://img.itch.zone/aW1nLzE4NjM3NDcyLnBuZw==/original/4AVk%2F4.png
+description: A Christmas Tale in a Dystopia
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://cowcat.itch.io/brok-christmas
+status: 进行中
+release_date: null
+updated_at: '2026-08-06'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

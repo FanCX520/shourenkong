@@ -1,0 +1,28 @@
+id: canidae
+title: CANIDAE
+title_en: CANIDAE
+cover: https://img.itch.zone/aW1nLzE3OTcxNjI3LnBuZw==/original/9uRecB.png
+description: Embrace the animal inside you, or fight back.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://ozoneinteractive.itch.io/canidae
+status: 进行中
+release_date: null
+updated_at: '2026-08-06'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
