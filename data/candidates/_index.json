@@ -45,6 +45,11 @@
     "file": "catburglar.yaml"
   },
   {
+    "id": "celsius-strays",
+    "title": "Celsius Strays",
+    "file": "celsius-strays.yaml"
+  },
+  {
     "id": "cienie",
     "title": "Cienie",
     "file": "cienie.yaml"
