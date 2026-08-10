@@ -85,6 +85,11 @@
     "file": "dont-bite-me.yaml"
   },
   {
+    "id": "dreamscape-escapades",
+    "title": "Dreamscape Escapade",
+    "file": "dreamscape-escapades.yaml"
+  },
+  {
     "id": "early-shift",
     "title": "Early Shift",
     "file": "early-shift.yaml"
@@ -118,6 +123,11 @@
     "id": "hydrangea",
     "title": "漏夏、无尽夏 (Hydrangea)",
     "file": "hydrangea.yaml"
+  },
+  {
+    "id": "ikigai-university",
+    "title": "Ikigai University",
+    "file": "ikigai-university.yaml"
   },
   {
     "id": "jigsaw-puzzles",
@@ -158,6 +168,11 @@
     "id": "outblight",
     "title": "Outblight",
     "file": "outblight.yaml"
+  },
+  {
+    "id": "paicom-premium",
+    "title": "PAIcom (furry computer assistant)",
+    "file": "paicom-premium.yaml"
   },
   {
     "id": "preay-animal",

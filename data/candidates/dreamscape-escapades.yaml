@@ -1,0 +1,24 @@
+id: dreamscape-escapades
+title: Dreamscape Escapade
+title_en: Dreamscape Escapade
+cover: https://img.itch.zone/aW1nLzI1MjAwNjE4LnBuZw==/original/rq10RD.png
+description: Welcome to the world of the Trash Panda Stage!
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://dreamscape-escapades.itch.io/dreamscape-escapades
+status: 进行中
+release_date: null
+updated_at: '2026-08-10'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/
