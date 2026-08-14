@@ -1,0 +1,26 @@
+id: brok-the-brawl-bar
+title: 'BROK: The Brawl Bar'
+title_en: 'BROK: The Brawl Bar'
+cover: https://img.itch.zone/aW1nLzIyMDM3MzMzLnBuZw==/original/kBWd13.png
+description: A wild party beat' em up with crazy challenges!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://cowcat.itch.io/brok-the-brawl-bar
+status: 进行中
+release_date: null
+updated_at: '2026-08-14'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

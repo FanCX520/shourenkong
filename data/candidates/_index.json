@@ -30,6 +30,11 @@
     "file": "brok-christmas.yaml"
   },
   {
+    "id": "brok-the-brawl-bar",
+    "title": "BROK: The Brawl Bar",
+    "file": "brok-the-brawl-bar.yaml"
+  },
+  {
     "id": "cairn",
     "title": "Cairn",
     "file": "cairn.yaml"
