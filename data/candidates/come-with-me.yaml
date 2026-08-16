@@ -1,0 +1,27 @@
+id: come-with-me
+title: Come With Me
+title_en: Come With Me
+cover: https://img.itch.zone/aW1nLzI3MjM2NTY0LnBuZw==/original/CLYMNz.png
+description: '"Is happiness a choice, or a privilege reserved for the brave?"'
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://shine-lwp.itch.io/come-with-me
+status: 进行中
+release_date: null
+updated_at: '2026-08-16'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/
