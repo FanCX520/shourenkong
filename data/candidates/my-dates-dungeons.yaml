@@ -1,0 +1,27 @@
+id: my-dates-dungeons
+title: My Dates &amp; Dungeons
+title_en: My Dates &amp; Dungeons
+cover: https://img.itch.zone/aW1nLzI2NTU5NDk3LnBuZw==/original/IHHyZj.png
+description: Available for Windows, macOS
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://bara-diction.itch.io/my-dates-dungeons
+status: 进行中
+release_date: null
+updated_at: '2026-08-17'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/
