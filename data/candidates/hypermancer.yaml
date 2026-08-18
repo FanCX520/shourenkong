@@ -1,0 +1,25 @@
+id: hypermancer
+title: Hypermancer
+title_en: Hypermancer
+cover: https://img.itch.zone/aW1nLzI5MzIyOTQ0LnBuZw==/original/7%2BhQXu.png
+description: A turn-based RPG that focuses on bara and sizeplay.
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://sombreve.itch.io/hypermancer
+status: 进行中
+release_date: null
+updated_at: '2026-08-18'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/

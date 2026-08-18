@@ -135,6 +135,11 @@
     "file": "hydrangea.yaml"
   },
   {
+    "id": "hypermancer",
+    "title": "Hypermancer",
+    "file": "hypermancer.yaml"
+  },
+  {
     "id": "ikigai-university",
     "title": "Ikigai University",
     "file": "ikigai-university.yaml"
