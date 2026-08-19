@@ -170,9 +170,19 @@
     "file": "lookouts.yaml"
   },
   {
+    "id": "lull-skulls",
+    "title": "Lull Skulls",
+    "file": "lull-skulls.yaml"
+  },
+  {
     "id": "minotaur-hotel-sfw",
     "title": "Minotaur Hotel: SFW Mode",
     "file": "minotaur-hotel-sfw.yaml"
+  },
+  {
+    "id": "monster-nomster",
+    "title": "Monster Nomster",
+    "file": "monster-nomster.yaml"
   },
   {
     "id": "my-dates-dungeons",

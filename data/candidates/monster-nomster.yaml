@@ -1,0 +1,27 @@
+id: monster-nomster
+title: Monster Nomster
+title_en: Monster Nomster
+cover: https://img.itch.zone/aW1nLzI5MzYxNzk3LnBuZw==/original/GaNLbB.png
+description: A Vore-Like Action Shooter.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://traxiss.itch.io/monster-nomster
+status: 进行中
+release_date: null
+updated_at: '2026-08-19'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
