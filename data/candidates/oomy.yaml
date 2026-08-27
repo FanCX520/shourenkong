@@ -1,0 +1,25 @@
+id: oomy
+title: Oomy
+title_en: Oomy
+cover: https://img.itch.zone/aW1nLzIzNjU4NzEzLnBuZw==/original/68gorq.png
+description: Available for Windows
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://bloofbloof.itch.io/oomy
+status: 进行中
+release_date: null
+updated_at: '2026-08-27'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

@@ -195,6 +195,11 @@
     "file": "one-thousand-acts-of-decency.yaml"
   },
   {
+    "id": "oomy",
+    "title": "Oomy",
+    "file": "oomy.yaml"
+  },
+  {
     "id": "outblight",
     "title": "Outblight",
     "file": "outblight.yaml"
