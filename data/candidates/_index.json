@@ -130,6 +130,11 @@
     "file": "gunsaw-demo.yaml"
   },
   {
+    "id": "hungerwinter",
+    "title": "HUNGERWINTER",
+    "file": "hungerwinter.yaml"
+  },
+  {
     "id": "hydrangea",
     "title": "漏夏、无尽夏 (Hydrangea)",
     "file": "hydrangea.yaml"

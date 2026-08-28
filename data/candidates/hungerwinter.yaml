@@ -1,0 +1,26 @@
+id: hungerwinter
+title: HUNGERWINTER
+title_en: HUNGERWINTER
+cover: https://img.itch.zone/aW1nLzI2NjI1OTU0LnBuZw==/original/z6rUL4.png
+description: The hunger. The hunger...
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://das-kunstkollektiv.itch.io/hungerwinter
+status: 进行中
+release_date: null
+updated_at: '2026-08-28'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
