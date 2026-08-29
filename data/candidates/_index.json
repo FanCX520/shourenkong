@@ -75,6 +75,11 @@
     "file": "cryptid-crush.yaml"
   },
   {
+    "id": "cuddle-quest-twilights-cuddle-quest",
+    "title": "The Big Pony Dating sim",
+    "file": "cuddle-quest-twilights-cuddle-quest.yaml"
+  },
+  {
     "id": "dawn-chorus",
     "title": "Dawn Chorus",
     "file": "dawn-chorus.yaml"
@@ -148,6 +153,11 @@
     "id": "ikigai-university",
     "title": "Ikigai University",
     "file": "ikigai-university.yaml"
+  },
+  {
+    "id": "ir2",
+    "title": "Inflation Royale 2",
+    "file": "ir2.yaml"
   },
   {
     "id": "jigsaw-puzzles",

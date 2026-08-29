@@ -1,0 +1,28 @@
+id: cuddle-quest-twilights-cuddle-quest
+title: The Big Pony Dating sim
+title_en: The Big Pony Dating sim
+cover: https://img.itch.zone/aW1nLzI0NDM4MzI0LnBuZw==/original/lVaA%2BL.png
+description: A lesbian romcom adventure staring a purple librian horse, and her misfit
+  friends.
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Linux
+- Android
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://thecrimsondm-vanillia.itch.io/cuddle-quest-twilights-cuddle-quest
+status: 进行中
+release_date: null
+updated_at: '2026-08-29'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/
