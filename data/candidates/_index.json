@@ -175,6 +175,11 @@
     "file": "kemonoq-demo.yaml"
   },
   {
+    "id": "leo",
+    "title": "LEO - The Deity&#039;s Wish",
+    "file": "leo.yaml"
+  },
+  {
     "id": "loggers-adventure",
     "title": "Logger&#039;s Adventure",
     "file": "loggers-adventure.yaml"

@@ -1,0 +1,27 @@
+id: leo
+title: LEO - The Deity&#039;s Wish
+title_en: LEO - The Deity&#039;s Wish
+cover: https://img.itch.zone/aW1nLzI4NjIxMDI3LnBuZw==/original/mPU0XY.png
+description: A supernatural slice-of-life visual novel
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://tsuroe.itch.io/leo
+status: 进行中
+release_date: null
+updated_at: '2026-08-31'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
