@@ -1,0 +1,27 @@
+id: graven
+title: Graven
+title_en: Graven
+cover: https://img.itch.zone/aW1nLzIyOTk0ODUyLnBuZw==/original/uFzekb.png
+description: Gritty sfw drama
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://batstudios47.itch.io/graven
+status: 进行中
+release_date: null
+updated_at: '2026-09-01'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
