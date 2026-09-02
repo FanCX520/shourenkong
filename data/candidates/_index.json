@@ -215,6 +215,11 @@
     "file": "my-dates-dungeons.yaml"
   },
   {
+    "id": "next-step",
+    "title": "Next Step",
+    "file": "next-step.yaml"
+  },
+  {
     "id": "one-thousand-acts-of-decency",
     "title": "One Thousand Acts of Decency",
     "file": "one-thousand-acts-of-decency.yaml"

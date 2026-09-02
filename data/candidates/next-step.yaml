@@ -1,0 +1,27 @@
+id: next-step
+title: Next Step
+title_en: Next Step
+cover: https://img.itch.zone/aW1nLzU2MDMxNjYucG5n/original/n8aFRk.png
+description: Available for Windows, macOS, Linux, Android
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://joshfoxden.itch.io/next-step
+status: 进行中
+release_date: null
+updated_at: '2026-09-02'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
