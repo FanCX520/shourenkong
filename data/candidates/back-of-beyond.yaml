@@ -1,0 +1,24 @@
+id: back-of-beyond
+title: Back of Beyond
+title_en: Back of Beyond
+cover: https://img.itch.zone/aW1nLzI5NTg0Mjg4LnBuZw==/original/D%2BMbJZ.png
+description: Build your deck, defeat eldritch gods, uncover the story in Mist Town.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://polypolygames.itch.io/back-of-beyond
+status: 进行中
+release_date: null
+updated_at: '2026-09-03'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

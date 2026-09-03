@@ -25,6 +25,11 @@
     "file": "alteredblood.yaml"
   },
   {
+    "id": "back-of-beyond",
+    "title": "Back of Beyond",
+    "file": "back-of-beyond.yaml"
+  },
+  {
     "id": "brok-christmas",
     "title": "BROK: Natal Tail, A New Christmas",
     "file": "brok-christmas.yaml"
@@ -53,6 +58,11 @@
     "id": "celsius-strays",
     "title": "Celsius Strays",
     "file": "celsius-strays.yaml"
+  },
+  {
+    "id": "chalked-out",
+    "title": "Out of Chalk",
+    "file": "chalked-out.yaml"
   },
   {
     "id": "cienie",
