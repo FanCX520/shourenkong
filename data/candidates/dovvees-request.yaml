@@ -1,0 +1,26 @@
+id: dovvees-request
+title: Dovvee&#039;s ReQuest
+title_en: Dovvee&#039;s ReQuest
+cover: https://img.itch.zone/aW1nLzI5ODAwMTQ0LnBuZw==/original/Yn0O6R.png
+description: Become a winged one in a new turn-based RPG for the GB!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Linux
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://critcorsac.itch.io/dovvees-request
+status: 进行中
+release_date: null
+updated_at: '2026-09-07'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
