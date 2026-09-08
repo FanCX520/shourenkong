@@ -195,6 +195,11 @@
     "file": "kemobomb-remix.yaml"
   },
   {
+    "id": "kemogemo",
+    "title": "KemoGemo!",
+    "file": "kemogemo.yaml"
+  },
+  {
     "id": "kemonoq-demo",
     "title": "KemonoQ Demo",
     "file": "kemonoq-demo.yaml"

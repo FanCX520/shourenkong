@@ -1,0 +1,25 @@
+id: kemogemo
+title: KemoGemo!
+title_en: KemoGemo!
+cover: https://img.itch.zone/aW1nLzI5ODMwMDU0LnBuZw==/original/BI5hwy.png
+description: This is a puzzle game where you combine and upgrade items to advance
+  your character's level.
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://beryl8027.itch.io/kemogemo
+status: 进行中
+release_date: null
+updated_at: '2026-09-08'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/
