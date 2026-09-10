@@ -1,0 +1,24 @@
+id: afternote
+title: Afternote
+title_en: Afternote
+cover: https://img.itch.zone/aW1nLzI5NzcxNjYzLmdpZg==/original/n9Osha.gif
+description: A short walking simulator experience
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://duckcheese.itch.io/afternote
+status: 进行中
+release_date: null
+updated_at: '2026-09-10'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
