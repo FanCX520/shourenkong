@@ -1,0 +1,25 @@
+id: bunkerman-blues
+title: Bunkermen Blues
+title_en: Bunkermen Blues
+cover: https://img.itch.zone/aW1nLzI5OTg4Mzc5LmpwZw==/original/Uc8k%2FG.jpg
+description: Nostelgia in the bunker
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://soyeah01.itch.io/bunkerman-blues
+status: 进行中
+release_date: null
+updated_at: '2026-09-16'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

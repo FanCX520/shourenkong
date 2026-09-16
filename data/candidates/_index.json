@@ -45,6 +45,11 @@
     "file": "brok-the-brawl-bar.yaml"
   },
   {
+    "id": "bunkerman-blues",
+    "title": "Bunkermen Blues",
+    "file": "bunkerman-blues.yaml"
+  },
+  {
     "id": "cairn",
     "title": "Cairn",
     "file": "cairn.yaml"
@@ -273,6 +278,11 @@
     "id": "preay-animal",
     "title": "pr[e/a]y animal - jam version",
     "file": "preay-animal.yaml"
+  },
+  {
+    "id": "project-shoreline",
+    "title": "Project Shoreline",
+    "file": "project-shoreline.yaml"
   },
   {
     "id": "promises-to-keep",

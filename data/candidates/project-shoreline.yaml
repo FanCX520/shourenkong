@@ -1,0 +1,26 @@
+id: project-shoreline
+title: Project Shoreline
+title_en: Project Shoreline
+cover: https://img.itch.zone/aW1nLzE1NTIxNDE1LnBuZw==/original/lyj0b4.png
+description: Explore, Clean & Restore as a Cute Character in this Cozy Cleaning Mini-Adventure!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://speldosainteractive.itch.io/project-shoreline
+status: 进行中
+release_date: null
+updated_at: '2026-09-16'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
