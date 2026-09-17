@@ -1,0 +1,25 @@
+id: autumns-end
+title: Autumn&#039;s end (FREE UNTIL HALLOWEEN)
+title_en: Autumn&#039;s end (FREE UNTIL HALLOWEEN)
+cover: https://img.itch.zone/aW1nLzI5NzIzMDU1LnBuZw==/original/wnwa%2FD.png
+description: Doomed lesbian dog girls
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://countlessbathory.itch.io/autumns-end
+status: 进行中
+release_date: null
+updated_at: '2026-09-17'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

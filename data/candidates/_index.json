@@ -30,6 +30,11 @@
     "file": "alteredblood.yaml"
   },
   {
+    "id": "autumns-end",
+    "title": "Autumn&#039;s end (FREE UNTIL HALLOWEEN)",
+    "file": "autumns-end.yaml"
+  },
+  {
     "id": "back-of-beyond",
     "title": "Back of Beyond",
     "file": "back-of-beyond.yaml"
@@ -343,6 +348,11 @@
     "id": "shared-house",
     "title": "Shared House/与那家伙合租房/あいつとシェアハウス",
     "file": "shared-house.yaml"
+  },
+  {
+    "id": "ship",
+    "title": "SHIP",
+    "file": "ship.yaml"
   },
   {
     "id": "stararcecho",
