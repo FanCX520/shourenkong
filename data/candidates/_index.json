@@ -115,6 +115,11 @@
     "file": "dawntide.yaml"
   },
   {
+    "id": "dead-ringer",
+    "title": "Dead Ringer",
+    "file": "dead-ringer.yaml"
+  },
+  {
     "id": "devlog-game",
     "title": "DevLog - A Post-Modern College Experience",
     "file": "devlog-game.yaml"
@@ -173,6 +178,11 @@
     "id": "gunsaw-demo",
     "title": "Gunsaw Demo",
     "file": "gunsaw-demo.yaml"
+  },
+  {
+    "id": "hues-of-heart-en-espaol",
+    "title": "Hues of Heart en ESPAÑOL",
+    "file": "hues-of-heart-en-espaol.yaml"
   },
   {
     "id": "hungerwinter",

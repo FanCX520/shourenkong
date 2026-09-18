@@ -1,0 +1,24 @@
+id: hues-of-heart-en-espaol
+title: Hues of Heart en ESPAÑOL
+title_en: Hues of Heart en ESPAÑOL
+cover: https://img.itch.zone/aW1nLzMwMDYzNTc0LmpwZw==/original/D5z6UK.jpg
+description: La traducción de un fan de la historia
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://soft-tubby.itch.io/hues-of-heart-en-espaol
+status: 进行中
+release_date: null
+updated_at: '2026-09-18'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

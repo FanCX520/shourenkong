@@ -1,0 +1,27 @@
+id: dead-ringer
+title: Dead Ringer
+title_en: Dead Ringer
+cover: https://img.itch.zone/aW1nLzIzMzk5ODM0LnBuZw==/original/eXA4gP.png
+description: You have 7 undead messages, detective.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://drowsy-drake-studios.itch.io/dead-ringer
+status: 进行中
+release_date: null
+updated_at: '2026-09-18'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
