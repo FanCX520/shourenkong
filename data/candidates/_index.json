@@ -120,6 +120,11 @@
     "file": "dead-ringer.yaml"
   },
   {
+    "id": "demidato",
+    "title": "DemiDato: Monster Dating Show",
+    "file": "demidato.yaml"
+  },
+  {
     "id": "devlog-game",
     "title": "DevLog - A Post-Modern College Experience",
     "file": "devlog-game.yaml"

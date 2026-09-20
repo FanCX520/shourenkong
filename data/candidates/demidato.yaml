@@ -1,0 +1,26 @@
+id: demidato
+title: 'DemiDato: Monster Dating Show'
+title_en: 'DemiDato: Monster Dating Show'
+cover: https://img.itch.zone/aW1nLzEyMTA5NTUyLnBuZw==/original/9Usvnz.png
+description: You're on TV! Find the monster your heart desires!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://sad-ghost-studios.itch.io/demidato
+status: 进行中
+release_date: null
+updated_at: '2026-09-20'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
