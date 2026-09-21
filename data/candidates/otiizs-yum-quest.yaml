@@ -1,0 +1,23 @@
+id: otiizs-yum-quest
+title: Otiiz&#039;s Yum Quest - 260919
+title_en: Otiiz&#039;s Yum Quest - 260919
+cover: https://img.itch.zone/aW1nLzI3NzIzNzgxLnBuZw==/original/CfTppI.png
+description: Big Eater Challenge Game.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://bxtt.itch.io/otiizs-yum-quest
+status: 进行中
+release_date: null
+updated_at: '2026-09-21'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
