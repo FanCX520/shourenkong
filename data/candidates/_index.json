@@ -275,6 +275,11 @@
     "file": "next-step.yaml"
   },
   {
+    "id": "nomorefuture",
+    "title": "No More Future",
+    "file": "nomorefuture.yaml"
+  },
+  {
     "id": "one-thousand-acts-of-decency",
     "title": "One Thousand Acts of Decency",
     "file": "one-thousand-acts-of-decency.yaml"
@@ -375,6 +380,11 @@
     "file": "ship.yaml"
   },
   {
+    "id": "slaughterforest",
+    "title": "Slaughterforest",
+    "file": "slaughterforest.yaml"
+  },
+  {
     "id": "stararcecho",
     "title": "StarArc Echo",
     "file": "stararcecho.yaml"
@@ -433,5 +443,10 @@
     "id": "where-the-demon-lurks",
     "title": "Where The Demon Lurks",
     "file": "where-the-demon-lurks.yaml"
+  },
+  {
+    "id": "x-yze",
+    "title": "X-YZE",
+    "file": "x-yze.yaml"
   }
 ]
