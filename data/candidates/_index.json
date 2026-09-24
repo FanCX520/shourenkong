@@ -270,6 +270,11 @@
     "file": "my-dates-dungeons.yaml"
   },
   {
+    "id": "nature-hike",
+    "title": "Nature Hike",
+    "file": "nature-hike.yaml"
+  },
+  {
     "id": "next-step",
     "title": "Next Step",
     "file": "next-step.yaml"
