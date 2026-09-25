@@ -1,0 +1,24 @@
+id: pippin-please-adequate-attorney
+title: 'Pippin Please: Adequate Attorney'
+title_en: 'Pippin Please: Adequate Attorney'
+cover: https://img.itch.zone/aW1nLzI2NjE1Mzk5LnBuZw==/original/RTUCqh.png
+description: The Secret Recipe Tail
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://dominoclub.itch.io/pippin-please-adequate-attorney
+status: 进行中
+release_date: null
+updated_at: '2026-09-25'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
