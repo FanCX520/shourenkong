@@ -1,0 +1,27 @@
+id: blobun-mini
+title: Blobun Mini
+title_en: Blobun Mini
+cover: https://img.itch.zone/aW1nLzIxNzQ4NzYyLnBuZw==/original/h%2BIyLr.png
+description: You're a blob bunny. Your goal? Touch every tile!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://cyansorcery.itch.io/blobun-mini
+status: 进行中
+release_date: null
+updated_at: '2026-09-26'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

@@ -40,6 +40,11 @@
     "file": "back-of-beyond.yaml"
   },
   {
+    "id": "blobun-mini",
+    "title": "Blobun Mini",
+    "file": "blobun-mini.yaml"
+  },
+  {
     "id": "brok-christmas",
     "title": "BROK: Natal Tail, A New Christmas",
     "file": "brok-christmas.yaml"
