@@ -1,0 +1,28 @@
+id: balloon-pump-simulator
+title: Balloon Pump Simulator
+title_en: Balloon Pump Simulator
+cover: https://img.itch.zone/aW1nLzMwMTQwOTMwLnBuZw==/original/DgjYIJ.png
+description: pump and pop
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://moshimoru.itch.io/balloon-pump-simulator
+status: 进行中
+release_date: null
+updated_at: '2026-09-29'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

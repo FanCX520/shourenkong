@@ -40,6 +40,11 @@
     "file": "back-of-beyond.yaml"
   },
   {
+    "id": "balloon-pump-simulator",
+    "title": "Balloon Pump Simulator",
+    "file": "balloon-pump-simulator.yaml"
+  },
+  {
     "id": "blobun-mini",
     "title": "Blobun Mini",
     "file": "blobun-mini.yaml"
