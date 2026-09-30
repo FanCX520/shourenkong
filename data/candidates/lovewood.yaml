@@ -1,0 +1,27 @@
+id: lovewood
+title: Lovewood
+title_en: Lovewood
+cover: https://img.itch.zone/aW1nLzcyOTI1MTguZ2lm/original/s6bPwK.gif
+description: A fantasy dating sim for a cozy evening
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://ladyicepaw.itch.io/lovewood
+status: 进行中
+release_date: null
+updated_at: '2026-09-30'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

@@ -260,6 +260,11 @@
     "file": "lookouts.yaml"
   },
   {
+    "id": "lovewood",
+    "title": "Lovewood",
+    "file": "lovewood.yaml"
+  },
+  {
     "id": "lull-skulls",
     "title": "Lull Skulls",
     "file": "lull-skulls.yaml"
