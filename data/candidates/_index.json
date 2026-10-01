@@ -325,6 +325,11 @@
     "file": "paicom-premium.yaml"
   },
   {
+    "id": "penumbra-lane",
+    "title": "Penumbra Lane",
+    "file": "penumbra-lane.yaml"
+  },
+  {
     "id": "pippin-please-adequate-attorney",
     "title": "Pippin Please: Adequate Attorney",
     "file": "pippin-please-adequate-attorney.yaml"
@@ -418,6 +423,11 @@
     "id": "stranded",
     "title": "Stranded",
     "file": "stranded.yaml"
+  },
+  {
+    "id": "summer-yet-young",
+    "title": "蘼夏未央 Summer Yet Young",
+    "file": "summer-yet-young.yaml"
   },
   {
     "id": "syntaxia",

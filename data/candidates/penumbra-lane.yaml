@@ -1,0 +1,26 @@
+id: penumbra-lane
+title: Penumbra Lane
+title_en: Penumbra Lane
+cover: https://img.itch.zone/aW1nLzEzMzgyMTM4LmdpZg==/original/VPAK%2Fq.gif
+description: A fuzzy point-and-click adventure horror.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://hazeyeyed.itch.io/penumbra-lane
+status: 进行中
+release_date: null
+updated_at: '2026-10-01'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

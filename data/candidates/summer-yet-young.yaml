@@ -1,0 +1,24 @@
+id: summer-yet-young
+title: 蘼夏未央 Summer Yet Young
+title_en: 蘼夏未央 Summer Yet Young
+cover: https://img.itch.zone/aW1nLzMwMzA1MjYxLmpwZw==/original/NCM8Fd.jpg
+description: Available for Windows
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://momentmori.itch.io/summer-yet-young
+status: 进行中
+release_date: null
+updated_at: '2026-10-01'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
