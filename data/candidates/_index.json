@@ -110,6 +110,11 @@
     "file": "copycats-phenomenon.yaml"
   },
   {
+    "id": "cosl",
+    "title": "英王的宝冠 / Coronet of the Sagacious Lord",
+    "file": "cosl.yaml"
+  },
+  {
     "id": "cryptid-crush",
     "title": "Cryptid Crush",
     "file": "cryptid-crush.yaml"

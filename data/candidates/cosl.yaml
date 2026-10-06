@@ -1,0 +1,26 @@
+id: cosl
+title: 英王的宝冠 / Coronet of the Sagacious Lord
+title_en: 英王的宝冠 / Coronet of the Sagacious Lord
+cover: https://img.itch.zone/aW1nLzIwNTUyNzc3LnBuZw==/original/yonfRg.png
+description: Available for Windows, macOS, Android
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://woofwoofstudio.itch.io/cosl
+status: 进行中
+release_date: null
+updated_at: '2026-10-06'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
