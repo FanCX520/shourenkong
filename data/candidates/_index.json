@@ -355,6 +355,11 @@
     "file": "project-shoreline.yaml"
   },
   {
+    "id": "project-silverfish",
+    "title": "Project Silverfish Early Access",
+    "file": "project-silverfish.yaml"
+  },
+  {
     "id": "promises-to-keep",
     "title": "Promises to Keep",
     "file": "promises-to-keep.yaml"

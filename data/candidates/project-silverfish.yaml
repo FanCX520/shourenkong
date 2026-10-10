@@ -1,0 +1,25 @@
+id: project-silverfish
+title: Project Silverfish Early Access
+title_en: Project Silverfish Early Access
+cover: https://img.itch.zone/aW1nLzE3NTczMzY1LnBuZw==/original/POLu4p.png
+description: An Open-World, Survival-Horror, FPS focusing on exploration and dungeon  crawling!
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://siris-pendrake.itch.io/project-silverfish
+status: 进行中
+release_date: null
+updated_at: '2026-10-10'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/
