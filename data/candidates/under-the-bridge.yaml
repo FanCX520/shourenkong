@@ -1,0 +1,27 @@
+id: under-the-bridge
+title: Under The Bridge
+title_en: Under The Bridge
+cover: https://img.itch.zone/aW1nLzE4MjY0NTYzLmdpZg==/original/9EQLGf.gif
+description: Meet and date junkyard friends in Bridge City.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://josephopossum.itch.io/under-the-bridge
+status: 进行中
+release_date: null
+updated_at: '2026-10-11'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
