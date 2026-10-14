@@ -1,5 +1,10 @@
 [
   {
+    "id": "a-glimpse-of-memory",
+    "title": "A Glimpse Of Memory",
+    "file": "a-glimpse-of-memory.yaml"
+  },
+  {
     "id": "a-new-friend",
     "title": "A New Friend",
     "file": "a-new-friend.yaml"
@@ -48,6 +53,11 @@
     "id": "balloon-pump-simulator",
     "title": "Balloon Pump Simulator",
     "file": "balloon-pump-simulator.yaml"
+  },
+  {
+    "id": "bantay-gubat",
+    "title": "Bantay Gubat",
+    "file": "bantay-gubat.yaml"
   },
   {
     "id": "blobun-mini",
@@ -158,6 +168,11 @@
     "id": "dovvees-request",
     "title": "Dovvee&#039;s ReQuest",
     "file": "dovvees-request.yaml"
+  },
+  {
+    "id": "dragon-bakery-rush",
+    "title": "Dragon Bakery Rush",
+    "file": "dragon-bakery-rush.yaml"
   },
   {
     "id": "dreamscape-escapades",

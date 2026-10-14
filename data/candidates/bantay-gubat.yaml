@@ -1,0 +1,24 @@
+id: bantay-gubat
+title: Bantay Gubat
+title_en: Bantay Gubat
+cover: https://img.itch.zone/aW1nLzMwODIzOTkxLnBuZw==/original/Twfh3E.png
+description: Forest Guardian. Three trials. One night.
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://jiyokun.itch.io/bantay-gubat
+status: 进行中
+release_date: null
+updated_at: '2026-10-14'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

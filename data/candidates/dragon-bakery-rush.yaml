@@ -1,0 +1,24 @@
+id: dragon-bakery-rush
+title: Dragon Bakery Rush
+title_en: Dragon Bakery Rush
+cover: https://img.itch.zone/aW1nLzMwNzk1NDUyLnBuZw==/original/B4tx29.png
+description: 焼いて、走って、ひと休み。小さなドラゴンの、あつあつパン屋バイト！
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://bonkoturyu.itch.io/dragon-bakery-rush
+status: 进行中
+release_date: null
+updated_at: '2026-10-14'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
