@@ -1,0 +1,24 @@
+id: hayasuginovel
+title: 早すぎて何にも読めないノベルゲーム
+title_en: 早すぎて何にも読めないノベルゲーム
+cover: https://img.itch.zone/aW1nLzMwOTg0ODgwLnBuZw==/original/OGIHCX.png
+description: ノベルゲームからノベルを引き算してみました
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://akirakani-kani.itch.io/hayasuginovel
+status: 进行中
+release_date: null
+updated_at: '2026-10-18'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

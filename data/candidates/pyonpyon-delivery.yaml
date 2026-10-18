@@ -1,0 +1,24 @@
+id: pyonpyon-delivery
+title: ぴょんぴょん宅配便 / Pyonpyon Delivery
+title_en: ぴょんぴょん宅配便 / Pyonpyon Delivery
+cover: https://img.itch.zone/aW1nLzMwOTUwNjY4LnBuZw==/original/n6RPbp.png
+description: 配達員になって荷物を届けよう！ / Beat the clock!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://byoopo.itch.io/pyonpyon-delivery
+status: 进行中
+release_date: null
+updated_at: '2026-10-18'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

@@ -1,0 +1,24 @@
+id: kemomin
+title: けもみん -KEMONO Massage-
+title_en: けもみん -KEMONO Massage-
+cover: https://img.itch.zone/aW1nLzMwOTg2OTU5LnBuZw==/original/S1cb8j.png
+description: マッサージでお客様の気持ちいい個所を探し出し、素早く、多くスコアを稼ごう
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://no-biru.itch.io/kemomin
+status: 进行中
+release_date: null
+updated_at: '2026-10-18'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

@@ -220,6 +220,11 @@
     "file": "gunsaw-demo.yaml"
   },
   {
+    "id": "hayasuginovel",
+    "title": "早すぎて何にも読めないノベルゲーム",
+    "file": "hayasuginovel.yaml"
+  },
+  {
     "id": "hues-of-heart-en-espaol",
     "title": "Hues of Heart en ESPAÑOL",
     "file": "hues-of-heart-en-espaol.yaml"
@@ -265,9 +270,19 @@
     "file": "kemogemo.yaml"
   },
   {
+    "id": "kemomin",
+    "title": "けもみん -KEMONO Massage-",
+    "file": "kemomin.yaml"
+  },
+  {
     "id": "kemonoq-demo",
     "title": "KemonoQ Demo",
     "file": "kemonoq-demo.yaml"
+  },
+  {
+    "id": "kokuhaku-no-kotoba",
+    "title": "告白の言葉",
+    "file": "kokuhaku-no-kotoba.yaml"
   },
   {
     "id": "leo",
@@ -303,6 +318,11 @@
     "id": "monster-nomster",
     "title": "Monster Nomster",
     "file": "monster-nomster.yaml"
+  },
+  {
+    "id": "morerumoreta",
+    "title": "狐カフェ！Moreru&amp;Moreta",
+    "file": "morerumoreta.yaml"
   },
   {
     "id": "my-dates-dungeons",
@@ -398,6 +418,11 @@
     "id": "purrgatory",
     "title": "purrgatory",
     "file": "purrgatory.yaml"
+  },
+  {
+    "id": "pyonpyon-delivery",
+    "title": "ぴょんぴょん宅配便 / Pyonpyon Delivery",
+    "file": "pyonpyon-delivery.yaml"
   },
   {
     "id": "runeterra-furry-romance",
