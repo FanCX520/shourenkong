@@ -1,0 +1,26 @@
+id: maw-of-the-dungeon
+title: Maw of the Dungeon
+title_en: Maw of the Dungeon
+cover: https://img.itch.zone/aW1nLzI2NTAxNTgxLnBuZw==/original/fLdRVo.png
+description: A Furry WG Dungeon Crawler.
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://afreakingpony.itch.io/maw-of-the-dungeon
+status: 进行中
+release_date: null
+updated_at: '2026-10-19'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/

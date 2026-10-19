@@ -310,6 +310,11 @@
     "file": "lull-skulls.yaml"
   },
   {
+    "id": "maw-of-the-dungeon",
+    "title": "Maw of the Dungeon",
+    "file": "maw-of-the-dungeon.yaml"
+  },
+  {
     "id": "minotaur-hotel-sfw",
     "title": "Minotaur Hotel: SFW Mode",
     "file": "minotaur-hotel-sfw.yaml"
