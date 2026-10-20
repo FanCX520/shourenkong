@@ -250,6 +250,11 @@
     "file": "ikigai-university.yaml"
   },
   {
+    "id": "inflate-a-bull",
+    "title": "Inflate-a-Bull",
+    "file": "inflate-a-bull.yaml"
+  },
+  {
     "id": "ir2",
     "title": "Inflation Royale 2",
     "file": "ir2.yaml"
