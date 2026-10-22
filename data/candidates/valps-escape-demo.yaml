@@ -1,0 +1,24 @@
+id: valps-escape-demo
+title: Valp&#039;s Escape - Demo
+title_en: Valp&#039;s Escape - Demo
+cover: https://img.itch.zone/aW1nLzEwMzE4MjA2LmpwZw==/original/%2F%2FklQE.jpg
+description: You are now a dog, trying to escape an unknown new world you just woke
+  up into
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://craziux.itch.io/valps-escape-demo
+status: 进行中
+release_date: null
+updated_at: '2026-10-22'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
