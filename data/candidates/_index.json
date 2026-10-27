@@ -205,6 +205,11 @@
     "file": "furryend.yaml"
   },
   {
+    "id": "gradient-descent",
+    "title": "Gradient Descent",
+    "file": "gradient-descent.yaml"
+  },
+  {
     "id": "graven",
     "title": "Graven",
     "file": "graven.yaml"
@@ -378,6 +383,11 @@
     "id": "paicom-premium",
     "title": "PAIcom (furry computer assistant)",
     "file": "paicom-premium.yaml"
+  },
+  {
+    "id": "paranoia",
+    "title": "PARANOIA",
+    "file": "paranoia.yaml"
   },
   {
     "id": "penumbra-lane",

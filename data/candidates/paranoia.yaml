@@ -1,0 +1,23 @@
+id: paranoia
+title: PARANOIA
+title_en: PARANOIA
+cover: https://img.itch.zone/aW1nLzMxMzc5MDcyLnBuZw==/original/auDGX0.png
+description: A Psychological Horror and Romance Furry Visual Novel
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://kemonohenry.itch.io/paranoia
+status: 进行中
+release_date: null
+updated_at: '2026-10-27'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

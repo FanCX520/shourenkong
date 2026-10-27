@@ -1,0 +1,27 @@
+id: gradient-descent
+title: Gradient Descent
+title_en: Gradient Descent
+cover: https://img.itch.zone/aW1nLzMxMzU4ODYxLnBuZw==/original/TC7zB1.png
+description: What makes love real?
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://yaonam.itch.io/gradient-descent
+status: 进行中
+release_date: null
+updated_at: '2026-10-27'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
