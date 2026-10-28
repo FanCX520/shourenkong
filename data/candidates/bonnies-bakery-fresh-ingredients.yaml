@@ -1,0 +1,26 @@
+id: bonnies-bakery-fresh-ingredients
+title: 'Bonnie&#039;s Bakery: Fresh Ingredients'
+title_en: 'Bonnie&#039;s Bakery: Fresh Ingredients'
+cover: https://img.itch.zone/aW1nLzExODYwMzA5LnBuZw==/original/8JiZ0Z.png
+description: Oh my, I'm out of ingredients. . .
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://melty-clown-studio.itch.io/bonnies-bakery-fresh-ingredients
+status: 进行中
+release_date: null
+updated_at: '2026-10-28'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/
