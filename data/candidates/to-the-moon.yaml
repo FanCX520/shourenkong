@@ -1,0 +1,25 @@
+id: to-the-moon
+title: 【FR Novella Collection】FVN「”To The Moon” / “去月球”」
+title_en: 【FR Novella Collection】FVN「”To The Moon” / “去月球”」
+cover: https://img.itch.zone/aW1nLzMxNDQ2MzMxLnBuZw==/original/Dzqpnd.png
+description: 【XXL WOOFIA】SideStory「”To The Moon”」 "Famido × Ricano" fan-made spin-off
+  story!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://wolflifetime.itch.io/to-the-moon
+status: 进行中
+release_date: null
+updated_at: '2026-10-31'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
