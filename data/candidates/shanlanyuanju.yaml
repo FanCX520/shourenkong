@@ -1,0 +1,26 @@
+id: shanlanyuanju
+title: 山岚缘聚
+title_en: 山岚缘聚
+cover: https://img.itch.zone/aW1nLzI2OTczNTQwLnBuZw==/original/PY9PVg.png
+description: 已完结的兽人题材视觉小说，采用「现代都市 + 山野灵幻」的设定风格。
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://taoran.itch.io/shanlanyuanju
+status: 进行中
+release_date: null
+updated_at: '2026-11-01'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

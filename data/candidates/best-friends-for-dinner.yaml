@@ -1,0 +1,24 @@
+id: best-friends-for-dinner
+title: Best Friends for Dinner!
+title_en: Best Friends for Dinner!
+cover: https://img.itch.zone/aW1nLzMxMjczMTE5LnBuZw==/original/YOmrQX.png
+description: A Sheep and a Wolf become unhinged best friends forever!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://demonward.itch.io/best-friends-for-dinner
+status: 进行中
+release_date: null
+updated_at: '2026-11-01'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

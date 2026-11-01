@@ -60,6 +60,11 @@
     "file": "bantay-gubat.yaml"
   },
   {
+    "id": "best-friends-for-dinner",
+    "title": "Best Friends for Dinner!",
+    "file": "best-friends-for-dinner.yaml"
+  },
+  {
     "id": "blobun-mini",
     "title": "Blobun Mini",
     "file": "blobun-mini.yaml"
@@ -478,6 +483,11 @@
     "id": "second-base",
     "title": "SECOND BASE - CHAPTER 1A",
     "file": "second-base.yaml"
+  },
+  {
+    "id": "shanlanyuanju",
+    "title": "山岚缘聚",
+    "file": "shanlanyuanju.yaml"
   },
   {
     "id": "shared-house",
