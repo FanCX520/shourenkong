@@ -1,0 +1,25 @@
+id: my-daddy-ben
+title: My daddy Ben
+title_en: My daddy Ben
+cover: https://img.itch.zone/aW1nLzMxOTkwODAzLnBuZw==/original/E0k5Co.png
+description: The tired doggy-daddy is here! Get this little pooch for your desktop
+  right now!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://pot-of-cum.itch.io/my-daddy-ben
+status: 进行中
+release_date: null
+updated_at: '2026-11-09'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
