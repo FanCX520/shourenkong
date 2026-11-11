@@ -530,6 +530,11 @@
     "file": "syntaxia.yaml"
   },
   {
+    "id": "tails-from-alteria",
+    "title": "Tails From Alteria",
+    "file": "tails-from-alteria.yaml"
+  },
+  {
     "id": "terrias-wish",
     "title": "Terria&#039;s Wish - Demo",
     "file": "terrias-wish.yaml"

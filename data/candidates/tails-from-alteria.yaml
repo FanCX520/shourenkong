@@ -1,0 +1,24 @@
+id: tails-from-alteria
+title: Tails From Alteria
+title_en: Tails From Alteria
+cover: https://img.itch.zone/aW1nLzMwMTA4NDgucG5n/original/%2BxMNkV.png
+description: Twins for the win!
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://jeevejayla.itch.io/tails-from-alteria
+status: 进行中
+release_date: null
+updated_at: '2026-11-11'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
