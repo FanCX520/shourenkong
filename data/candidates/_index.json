@@ -155,6 +155,11 @@
     "file": "dawntide.yaml"
   },
   {
+    "id": "dead-ringer-gamejam",
+    "title": "Dead Ringer (Gamejam Version)",
+    "file": "dead-ringer-gamejam.yaml"
+  },
+  {
     "id": "dead-ringer",
     "title": "Dead Ringer",
     "file": "dead-ringer.yaml"
@@ -173,6 +178,11 @@
     "id": "dont-bite-me",
     "title": "Don&#039;t bite me",
     "file": "dont-bite-me.yaml"
+  },
+  {
+    "id": "dough-mutts-extra-large",
+    "title": "Dough-Mutts: Extra Large - MUNCH UPDATE",
+    "file": "dough-mutts-extra-large.yaml"
   },
   {
     "id": "dovvees-request",

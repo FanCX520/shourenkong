@@ -1,0 +1,24 @@
+id: dough-mutts-extra-large
+title: 'Dough-Mutts: Extra Large - MUNCH UPDATE'
+title_en: 'Dough-Mutts: Extra Large - MUNCH UPDATE'
+cover: null
+description: Available for Windows
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://droopey.itch.io/dough-mutts-extra-large
+status: 进行中
+release_date: null
+updated_at: '2026-11-12'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
