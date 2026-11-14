@@ -1,0 +1,27 @@
+id: fading-elysium
+title: Fading Elysium
+title_en: Fading Elysium
+cover: https://img.itch.zone/aW1nLzI0MjExNzA5LnBuZw==/original/zJwwYa.png
+description: Available for Windows, macOS, Linux, Android
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://alsler.itch.io/fading-elysium
+status: 进行中
+release_date: null
+updated_at: '2026-11-14'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/
