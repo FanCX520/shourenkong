@@ -405,6 +405,11 @@
     "file": "otiizs-yum-quest.yaml"
   },
   {
+    "id": "our-shared-lie",
+    "title": "Our Shared Lie",
+    "file": "our-shared-lie.yaml"
+  },
+  {
     "id": "outblight",
     "title": "Outblight",
     "file": "outblight.yaml"
