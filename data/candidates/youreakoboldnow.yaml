@@ -1,0 +1,24 @@
+id: youreakoboldnow
+title: Yip Yap! You&#039;re a Kobold Now
+title_en: Yip Yap! You&#039;re a Kobold Now
+cover: https://img.itch.zone/aW1nLzMyNzg4MzEyLnBuZw==/original/Sig%2FWj.png
+description: Yip yap yip yip yap yip yap-
+species:
+- 其他
+rating: 全年龄
+genres:
+- 其他
+platforms:
+- itch.io
+- Web
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://lucidadragon.itch.io/youreakoboldnow
+status: 进行中
+release_date: null
+updated_at: '2026-11-27'
+source: itch
+nsfw: false
+notes: candidate from itch; review then move to data/games/

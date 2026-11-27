@@ -628,5 +628,10 @@
     "id": "x-yze",
     "title": "X-YZE",
     "file": "x-yze.yaml"
+  },
+  {
+    "id": "youreakoboldnow",
+    "title": "Yip Yap! You&#039;re a Kobold Now",
+    "file": "youreakoboldnow.yaml"
   }
 ]
