@@ -1,0 +1,27 @@
+id: malokyo
+title: Malokyo
+title_en: Malokyo
+cover: https://img.itch.zone/aW1nLzMyODY2OTEwLnBuZw==/original/t3TE20.png
+description: Don't look at me.
+species:
+- 其他
+rating: R18
+genres:
+- 其他
+platforms:
+- itch.io
+- Windows
+- macOS
+- Linux
+- Android
+engines: []
+features: []
+links:
+- name: itch.io
+  url: https://nikkonator5000.itch.io/malokyo
+status: 进行中
+release_date: null
+updated_at: '2026-11-28'
+source: itch
+nsfw: true
+notes: candidate from itch; review then move to data/games/

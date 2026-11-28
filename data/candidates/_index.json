@@ -345,6 +345,11 @@
     "file": "lull-skulls.yaml"
   },
   {
+    "id": "malokyo",
+    "title": "Malokyo",
+    "file": "malokyo.yaml"
+  },
+  {
     "id": "maw-of-the-dungeon",
     "title": "Maw of the Dungeon",
     "file": "maw-of-the-dungeon.yaml"
